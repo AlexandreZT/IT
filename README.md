@@ -57,3 +57,37 @@
 ![Prompt> commande arguments](./img/abstraction.png)
 ### Encapsulation (public, private & protected)
 ![Prompt> commande arguments](./img/encapsulation.png)
+### Coupling vs Cohesion
+![Prompt> commande arguments](./img/coupling-cohesion.png)
+### Association
+![Prompt> commande arguments](./img/association.png)
+### Aggregation (uses)
+![Prompt> commande arguments](./img/aggregation.png)
+### Composition (owns)
+![Prompt> commande arguments](./img/composition.png)
+### Generalization and specialization
+![Prompt> commande arguments](./img/generalization-specialization.png)
+## Développement web
+###	La standardisation W3C, ECMAScript, RFC, etc.
+###	CMS (Content Management System) : #1 WordPress, #2 Drupal, #3 Shopify, etc
+###	Référencement nuturel SEO (Search Engine Optimisation)
+###	Référencement payant SEA (Search Engine Advertising)
+###	Front-end technologies :
+![Prompt> commande arguments](./img/web-front.png)
+### Qu’est-ce que le DOM (Document Object Model)
+![Prompt> commande arguments](./img/DOM.png)
+###	L’essentiel des tags HTML et des styles CSS
+###	JavaScript :
+#### Dynamisation des pages
+#### Manipulation du DOM avec la librairie jQuery
+#### Les fonctions à flèches depuis l’ES6.
+#### L’asynchronisme avec les promesses (promise, resolve, reject)
+### Framework JS : 
+#### #1 React
+#### #2 Angular
+#### #3 Vue.js
+### Framework CSS : #1 Bootstrap, #2 Semantic UI
+###	Créer une maquette (tous les écrans d’une app) et les coder
+#### #1 Adobe XD (Windows et Mac) / #2 Sketch (Mac) 
+###	SPA (Single Page Application) vs MPA (Multi Page Application)
+![Prompt> commande arguments](./img/SPA-MPA.jpg)
