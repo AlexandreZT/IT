@@ -1,10 +1,10 @@
 # DevUniverse
-## 01. Environnement de développement
+## 00. Environnement de développement
 ###	Environnement virtuel (pipenv, etc.)
 ### IDE or Text Editor ? (VSC, Vim, Notepad++, outils Jetbrains, etc.)
 ### Cloud plateform: Jupyter, Collab, etc.
 ### Package manager : anaconda (data science), npm (node), pip (python), etc.
-## Les types de données
+## 01. Les types de données
 ![Prompt> commande arguments](./img/data_types.png)
 
 ## 02. Structures conditionnelles
@@ -72,6 +72,8 @@
 ###	CMS (Content Management System) : #1 WordPress, #2 Drupal, #3 Shopify, etc
 ###	Référencement nuturel SEO (Search Engine Optimisation)
 ###	Référencement payant SEA (Search Engine Advertising)
+###	Visibilité sur les réseaux SMO (Social Media Optimization)
+### Techniques de visivilité SEM (pour Search Engine Marketing) = SEO + SEA + SMO
 ###	Front-end technologies :
 ![Prompt> commande arguments](./img/web-front.png)
 ### Qu’est-ce que le DOM (Document Object Model)
