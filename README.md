@@ -1,7 +1,7 @@
 # DevUniverse
 ## Environnement de développement
 ###	Environnement virtuel (pipenv, etc.)
-### IDE or Text Editor ?(VSC, Vim, Notepad++, outils Jetbrains, etc.)
+### IDE or Text Editor ? (VSC, Vim, Notepad++, outils Jetbrains, etc.)
 ### Cloud plateform: Jupyter, Collab, etc.
 ### Package manager : anaconda (data science), npm (node), pip (python), etc.
 ## Les types de données
