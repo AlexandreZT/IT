@@ -75,7 +75,7 @@
 ###	Visibilité sur les réseaux SMO (Social Media Optimization)
 ### Techniques de visivilité SEM (pour Search Engine Marketing) = SEO + SEA + SMO
 ###	Front-end technologies :
-![Prompt> commande arguments](./img/web-front.png)
+![Prompt> commande arguments](./img/web-frontend.png)
 ### Qu’est-ce que le DOM (Document Object Model)
 ![Prompt> commande arguments](./img/DOM.png)
 ###	L’essentiel des tags HTML et des styles CSS
@@ -94,7 +94,7 @@
 ###	SPA (Single Page Application) vs MPA (Multi Page Application)
 ![Prompt> commande arguments](./img/SPA-MPA.jpg)
 ###	Back-end technologies :  
-![Prompt> commande arguments](./img/web-back.png)
+![Prompt> commande arguments](./img/web-backend.png)
 #### Server framework :
 ##### Node : #1 Express.js (Jest, Mocha, Jasmine, Karma, selenium, etc)
 ##### Python : #1 Django et #2 Flask (unittest, selenium, etc)
