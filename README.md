@@ -1,5 +1,5 @@
 # DevUniverse
-## Environnement de développement
+## 01. Environnement de développement
 ###	Environnement virtuel (pipenv, etc.)
 ### IDE or Text Editor ? (VSC, Vim, Notepad++, outils Jetbrains, etc.)
 ### Cloud plateform: Jupyter, Collab, etc.
@@ -7,22 +7,22 @@
 ## Les types de données
 ![Prompt> commande arguments](./img/data_types.png)
 
-## Structures conditionnelles
+## 02. Structures conditionnelles
 ###	Les boucles : while / do…while (repeat… until) & for.
 
 ###	Les conditions : if…else & switch.
 
 ###	Contrôle de boucles : repeat, break, next, continue, pass & txtProgressBar.
 
-##	Les principaux paradigmes de programmation
+##	03. Les principaux paradigmes de programmation
 ![Prompt> commande arguments](./img/paradigmes.png)
-##	Fonctions, procédures et arguments
+##	04. Fonctions, procédures et arguments
 
-##	Built-in functions
+##	05. Built-in functions
 
-##	Les librairies principales
+##	06. Les librairies principales
 
-##	Spécificité et bonnes pratiques du langage
+##	07. Spécificité et bonnes pratiques du langage
 ###	Point forts et faiblesses
 
 ###	Les commentaires 
@@ -39,13 +39,13 @@
 #### Kebab case : first-name
 #### Hungarian Notation : strFirstName
 
-## Les langages interprétés vs compilés + Input/Output
+## 08. Les langages interprétés vs compilés + Input/Output
 ###	La compilation
 ![Prompt> commande arguments](./img/compilation.png)
 ### L'interprétation
 ![Prompt> commande arguments](./img/interprétation.png)
 
-## OOPs (Object-Oriented Programming System)
+## 09. OOPs (Object-Oriented Programming System)
 
 ### Classes, Object
 ![Prompt> commande arguments](./img/factory.png)
@@ -67,7 +67,7 @@
 ![Prompt> commande arguments](./img/composition.png)
 ### Generalization and specialization
 ![Prompt> commande arguments](./img/generalization-specialization.png)
-## Développement web
+## 10. Développement web
 ###	La standardisation W3C, ECMAScript, RFC, etc.
 ###	CMS (Content Management System) : #1 WordPress, #2 Drupal, #3 Shopify, etc
 ###	Référencement nuturel SEO (Search Engine Optimisation)
@@ -121,7 +121,7 @@
 ![Prompt> commande arguments](./img/duplex.jpg)
 ###### Les Websockets sont une spécification full-duplex du protocole HTTP
 ####### Utilisé pour le développement de messagerie instantanée
-## Base de données 
+## 11. Base de données 
 ### RDBMS / SGBDR :
 ![Prompt> commande arguments](./img/RDBMS.jpg)
 #### Propriétaire : #1 Oracle, #2 Microsoft Server #3 MySQL
@@ -132,7 +132,7 @@
 ![Prompt> commande arguments](./img/nosql-databases.png)
 ### Les services cloud : #1 Azure, #2 AWS, #3 Google cloud,  #4 Alibaba cloud
 ### ORM (Object-Relational Mapping)
-## La mémoire : 
+## 12. La mémoire : 
 ### Allocation statique vs dynamique
 ![Prompt> commande arguments](./img/allocation.png)
 ### Stockage de la mémoire
@@ -144,9 +144,9 @@
 ![Prompt> commande arguments](./img/heap.png)
 ### Les pointeurs
 ![Prompt> commande arguments](./img/pointeur.png)
-## File management (read, write, append, create, etc.)
+## 13. File management (read, write, append, create, etc.)
 ### Les types de fichiers (TXT, CSV, JSON, PDF, etc.)
-## Les algorithmes (voir : project euler)
+## 14. Les algorithmes (voir : project euler)
 ### Sort Algorithms (Merge Sort, Quick Sort, Bucket Sort, Heap Sort, Counting Sort)
 ### Search Algorithms (Binary search, Depth/Breadth First Search)
 ### Hashing
@@ -154,7 +154,7 @@
 ### Exponentiation by squaring
 ### String Matching and Parsing (KMP Algorithm, Regular Expression)
 ### Primality Testing Algorithms
-## Les tests
+## 15. Les tests
 ### Classification : 
 ![Prompt> commande arguments](./img/tests-classification.jpg)
 ### Autres :
@@ -166,13 +166,13 @@
 ## Exception Handling :
 ### try… raise/catch/except…finally/except
 ### throws…throw
-## Les designs patterns (outil apporte des solutions aux problèmes communs de développement logiciel en rendant le code flexible, réutilisable et maintenable)
+## 16. Les designs patterns (outil apporte des solutions aux problèmes communs de développement logiciel en rendant le code flexible, réutilisable et maintenable)
 ### Il existe 3 grand type de design pattern
 #### Creational « factory » : création
 #### Behavioral: comportemental
 #### Structural : structurante
 ![Prompt> commande arguments](./img/design-patterns.png)
-## Documentation logicielle
+## 17. Documentation logicielle
 ### L'expression de besoin 
 #### Définit le besoin du métier lors d'une demande.
 ### Architecture / Conception : diagrammes UML)
@@ -183,7 +183,7 @@
 #### Manuels pour les utilisateurs, administrateurs systèmes et personnel de support.
 ### Marketing
 #### Instructions sur le produit et garantie promotionnelle.
-## L’architecture des ordinateurs (Taxonomie de Flynn)
+## 18. L’architecture des ordinateurs (Taxonomie de Flynn)
 ### Single Instruction on Single Data
 ![Prompt> commande arguments](./img/SISD.png)
 ### Multiple Instructions on Single Data
@@ -192,11 +192,11 @@
 ![Prompt> commande arguments](./img/SIMD.png)
 ### Multiple Instructions on Multiple Data 
 ![Prompt> commande arguments](./img/MIMD.png)
-## Single-Thread vs Multi-Thread programming
+## 19. Single-Thread vs Multi-Thread programming
 ![Prompt> commande arguments](./img/thread.jpg)
-## Synchronous vs Asynchronous programming 
+## 20. Synchronous vs Asynchronous programming 
 ![Prompt> commande arguments](./img/synch-asynch.png)
-## DevOps
+## 21. DevOps
 ### Git & Git CLI (#1 GitHub, #2 Gitlab, #3 Bitbucket)
 ![Prompt> commande arguments](./img/git.gif)
 ### Semantic versioning
@@ -208,7 +208,7 @@
 ![Prompt> commande arguments](./img/SSH.png)
 ### Docker vs Kubernetes
 ![Prompt> commande arguments](./img/container.png)
-## Data Science
+## 21. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
 ### Big Data
 ### Intelligence artificielle
@@ -239,7 +239,7 @@
 #### Mics : bioconductor, shiny
 ### Hadoop
 ### Apache Spark
-## Mobile development
+## 22. Mobile development
 ### Android
 #### Plateforme : Android Studio
 #### Langage : Java, Kotlin
@@ -251,4 +251,4 @@
 #### JavaScript & React Native
 #### Xamarin & C#
 #### HTML5 & Apache Cordova
-## ERP VS CRM
+## 23. ERP VS CRM
