@@ -124,3 +124,131 @@
 ## Base de données 
 ### RDBMS / SGBDR :
 ![Prompt> commande arguments](./img/RDBMS.jpg)
+#### Propriétaire : #1 Oracle, #2 Microsoft Server #3 MySQL
+#### Libre : #1 PostegreSQL #2 MariaDB, #3 SQLite
+### OLTP (Online Transactional Processing) / OLAP (Online analytical processing)
+![Prompt> commande arguments](./img/OLTP-OLAP.png)
+### NoSQL databases :
+![Prompt> commande arguments](./img/nosql-databases.png)
+### Les services cloud : #1 Azure, #2 AWS, #3 Google cloud,  #4 Alibaba cloud
+### ORM (Object-Relational Mapping)
+## La mémoire : 
+### Allocation statique vs dynamique
+![Prompt> commande arguments](./img/allocation.png)
+### Stockage de la mémoire
+#### Queue allocation (la file)
+![Prompt> commande arguments](./img/queue.png)
+#### Stack allocation (la pile)
+![Prompt> commande arguments](./img/stack.png)
+#### Heap allocation (le tas)
+![Prompt> commande arguments](./img/heap.png)
+### Les pointeurs
+![Prompt> commande arguments](./img/pointeur.png)
+## File management (read, write, append, create, etc.)
+### Les types de fichiers (TXT, CSV, JSON, PDF, etc.)
+## Les algorithmes (voir : project euler)
+### Sort Algorithms (Merge Sort, Quick Sort, Bucket Sort, Heap Sort, Counting Sort)
+### Search Algorithms (Binary search, Depth/Breadth First Search)
+### Hashing
+### Dynamic Programming
+### Exponentiation by squaring
+### String Matching and Parsing (KMP Algorithm, Regular Expression)
+### Primality Testing Algorithms
+## Les tests
+### Classification : 
+![Prompt> commande arguments](./img/tests-classification.jpg)
+### Autres :
+#### End-to-End testing (e2e)
+#### Tests de non-régression
+#### Test fonctionnels et non fonctionnels
+#### Smoke test and sanity check
+#### Proof of Concept (PoC)
+## Exception Handling :
+### try… raise/catch/except…finally/except
+### throws…throw
+## Les designs patterns (outil apporte des solutions aux problèmes communs de développement logiciel en rendant le code flexible, réutilisable et maintenable)
+### Il existe 3 grand type de design pattern
+#### Creational « factory » : création
+#### Behavioral: comportemental
+#### Structural : structurante
+![Prompt> commande arguments](./img/design-patterns.png)
+## Documentation logicielle
+### L'expression de besoin 
+#### Définit le besoin du métier lors d'une demande.
+### Architecture / Conception : diagrammes UML)
+#### Vue d'ensemble sur le logiciel. Elle inclut les relations à l'environnement et les principes à utiliser dans la conception et la réalisation des composants logiciels.
+### Technique
+#### Documentation du code, algorithmes, interfaces, et interfaces de programmation (API).
+### Utilisateur
+#### Manuels pour les utilisateurs, administrateurs systèmes et personnel de support.
+### Marketing
+#### Instructions sur le produit et garantie promotionnelle.
+## L’architecture des ordinateurs (Taxonomie de Flynn)
+### Single Instruction on Single Data
+![Prompt> commande arguments](./img/SISD.png)
+### Multiple Instructions on Single Data
+![Prompt> commande arguments](./img/MISD.png)
+### Single Instruction on Multiple Data
+![Prompt> commande arguments](./img/SIMD.png)
+### Multiple Instructions on Multiple Data 
+![Prompt> commande arguments](./img/MIMD.png)
+## Single-Thread vs Multi-Thread programming
+![Prompt> commande arguments](./img/thread.jpg)
+## Synchronous vs Asynchronous programming 
+![Prompt> commande arguments](./img/synch-asynch.png)
+## DevOps
+### Git & Git CLI (#1 GitHub, #2 Gitlab, #3 Bitbucket)
+![Prompt> commande arguments](./img/git.gif)
+### Semantic versioning
+![Prompt> commande arguments](./img/versioning.png)
+### Linux : le shell (bash) et les scripts
+![Prompt> commande arguments](./img/linux.png)
+![Prompt> commande arguments](./img/bash.png)
+### Protocole SSH (Secure SHell)
+![Prompt> commande arguments](./img/SSH.png)
+### Docker vs Kubernetes
+![Prompt> commande arguments](./img/container.png)
+## Data Science
+![Prompt> commande arguments](./img/data-science.png)
+### Big Data
+### Intelligence artificielle
+#### Les réseaux neuronaux 
+### La blockchain
+### Machine learning :
+#### Classification VS Régression
+#### Apprentissage : supervisé, non/semi-supervisé, par renforcement et incrémental
+#### Algorithmes (k-moyennes / proches voisins, etc.)
+### Python libraries
+#### Machine Learning : scikit-learn, keras, orange
+#### Web Scraping : beautifulsoup, selenium, scrapy
+#### Deep Learning : tensorflow, pytorch
+#### Data Visualization : matplotlib, seaborn
+#### Data Analysis : pandas, numpy, scipy
+#### Image Processing : pillow, opencv
+#### Audio processing : Librosa
+#### Natural Language processing : NLP, NLTK
+#### Statistique : statsmodels
+### JavaScript libraries
+#### Web Scraping : puppeteer.js
+#### Data Visualization : D3.js, DC.js
+#### Machine learning : ml.js
+### R package
+#### Data Visualization : ggplot2, plotly, esquisse
+#### Machine Learning : mlr3
+#### Data Management : dplyr 
+#### Mics : bioconductor, shiny
+### Hadoop
+### Apache Spark
+## Mobile development
+### Android
+#### Plateforme : Android Studio
+#### Langage : Java, Kotlin
+### iOS
+#### Plateforme: Xcode
+#### Language : Swift, Objective-C
+### Cross-plateform
+#### Flutter & Dart
+#### JavaScript & React Native
+#### Xamarin & C#
+#### HTML5 & Apache Cordova
+## ERP VS CRM
