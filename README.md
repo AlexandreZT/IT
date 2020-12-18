@@ -247,7 +247,7 @@
 #### Langage : Java, Kotlin
 ### iOS
 #### Plateforme: Xcode
-#### Language : Swift, Objective-C
+#### Language : Swift, ~~Objective-C~~
 ### Cross-plateform
 #### Flutter & Dart
 #### JavaScript & React Native
