@@ -91,3 +91,36 @@
 #### #1 Adobe XD (Windows et Mac) / #2 Sketch (Mac) 
 ###	SPA (Single Page Application) vs MPA (Multi Page Application)
 ![Prompt> commande arguments](./img/SPA-MPA.jpg)
+###	Back-end technologies :  
+![Prompt> commande arguments](./img/web-back.png)
+#### Server framework :
+##### Node : #1 Express.js (Jest, Mocha, Jasmine, Karma, selenium, etc)
+##### Python : #1 Django et #2 Flask (unittest, selenium, etc)
+##### PHP #1 Laravel et #2 Symfony (testunit, etc)
+##### Java : #1 Spring (JUnit, selenium, etc)
+##### C# : #1 ASP.NET (MSTest, selenium, etc)
+
+#### Les architecture web : MVC vs MVT (django)
+![Prompt> commande arguments](./img/MVC.png)
+![Prompt> commande arguments](./img/MVT.png)
+#### Web services (deux grandes familles) :
+##### SOAP/XML (WS)
+###### Simple Object Access Protocol
+###### Extensible Markup Language
+##### REST/JSON (API)
+###### REpresentational State Transfer
+###### JavaScript Object Notation
+#### Communication client/serveur 
+##### La méthode AJAX (Asynchronous JavaScript And XML)
+![Prompt> commande arguments](./img/AJAX.png)
+##### Les protocoles internet :
+![Prompt> commande arguments](./img/protocoles.png)
+##### Le modèle OSI et le modèle TCP/IP
+![Prompt> commande arguments](./img/OSI-TCPIP.png)
+##### Duplex (canal de communication)
+![Prompt> commande arguments](./img/duplex.jpg)
+###### Les Websockets sont une spécification full-duplex du protocole HTTP
+####### Utilisé pour le développement de messagerie instantanée
+## Base de données 
+### RDBMS / SGBDR :
+![Prompt> commande arguments](./img/RDBMS.jpg)
