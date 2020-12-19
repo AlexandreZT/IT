@@ -6,8 +6,29 @@
 ### Package manager : anaconda (data science), npm (node), pip (python), etc.
 ## 01. Les types de données
 ![Prompt> commande arguments](./img/data_types.png)
+### La table ASCII
+### Les caractères d'échappement
+### Les regex
+
+## Les opérateurs
+### addition
+### soustraction
+### multiplication
+### division
+### puissance
+### modulo
+### incrémantion
+### décrémentation
 
 ## 02. Structures conditionnelles
+### La comparaison
+#### supérieur à
+#### inférieur à
+#### égal à
+#### différent de
+#### supérieur ou égal à
+#### inférieur ou égal à
+
 ###	Les boucles : while / do…while (repeat… until) & for.
 
 ###	Les conditions : if…else & switch.
@@ -301,3 +322,9 @@
 ### Propriété intellectuel et droit internet
 ### RGPD
 ### Hadopi
+## 25. Management
+### Méthodologie
+#### Agil
+#### Les 12 principes fondamentaux
+### Outils
+#### GANTT
