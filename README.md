@@ -212,6 +212,12 @@
 ![Prompt> commande arguments](./img/container.png)
 ## 21. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
+### Types de données :
+#### Numérique :
+##### discrète : prendre une seule valeur entière
+##### continue : peut prendre une infinité de valeur
+#### Catégorique :  Ne peut-être mesuré, comme une couleur, un booléen, etc.
+#### ordinal : Simillaire aux données catégorique, à la différence qu'on peut distinguer les valeurs prises, comme la note A est meilleur qu'une note B.
 ### Mathématique
 #### Linear algebra (algèbre linéaire)
 ##### Matrix (matrice)
@@ -243,10 +249,19 @@
 ##### Softmax activation
 ### La blockchain
 ### Machine learning :
+#### Augmenter la précision du modèle :
+##### Ajouter des données
+##### Traiter les valeurs manquantes ou aberrantes
+##### Transformer et créer des variables
+##### S'appuyez sur les connaissances du domaine, la viz, la p-value ou le PCA (principal component analysis)
+##### Utiliser un autre algorithme (trouver le meilleur)
+##### Trouver les paramètres idéaux
+##### Combiner les résultats de différents modèle : bagging & boosting
+##### Le Surentrainement rend une modèle inprécis
+##### La cross-validation : laisser un échantillion sans entrainement pour le tester plus tard après l'entrainement
 #### Classification VS Régression
 #### Apprentissage : supervisé, non/semi-supervisé, par renforcement et incrémental
 #### Algorithmes (k-moyennes / proches voisins, etc.)
-#### Bagging & Boosting
 ### Python libraries
 #### Machine Learning : scikit-learn, keras, orange
 #### Web Scraping : beautifulsoup, selenium, scrapy
