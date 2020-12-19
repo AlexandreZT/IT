@@ -20,20 +20,20 @@
 #### - modulo
 
 ## 02. Structures conditionnelles
-### La comparaison
-#### supérieur à
-#### inférieur à
-#### égal à
-#### différent de
-#### supérieur ou égal à
-#### inférieur ou égal à
+### • La comparaison
+#### - supérieur à
+#### - inférieur à
+#### - égal à
+#### - différent de
+#### - supérieur ou égal à
+#### - inférieur ou égal à
 
-### Les opérateurs AND, OR, NOT
-###	Les boucles : while / do…while (repeat… until) & for.
+### • Les opérateurs AND, OR, NOT
+###	• Les boucles : while / do…while (repeat… until) & for.
 
-###	Les conditions : if…else & switch.
+###	• Les conditions : if…else & switch.
 
-###	Contrôle de boucles : repeat, break, next, continue, pass & txtProgressBar.
+###	• Contrôle de boucles : repeat, break, next, continue, pass & txtProgressBar.
 
 ##	03. Les principaux paradigmes de programmation
 ![Prompt> commande arguments](./img/paradigmes.png)
