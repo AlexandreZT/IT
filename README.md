@@ -173,7 +173,7 @@
 #### Heap allocation (le tas)
 ![Prompt> commande arguments](./img/tas-HEAP.jpg)
 ### Les pointeurs
-![Prompt> commande arguments](./img/pointeur.png)
+![Prompt> commande arguments](./img/pointers.jpg)
 ## 13. File management (read, write, append, create, etc.)
 ### Les types de fichiers (TXT, CSV, JSON, PDF, etc.)
 ## 14. Les algorithmes (voir : project euler)
