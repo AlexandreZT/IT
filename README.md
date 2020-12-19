@@ -334,6 +334,10 @@
 ## 25. Management
 ### Méthodologie
 #### Agil
-#### Les 12 principes fondamentaux
+##### Les 12 principes fondamentaux
+![Prompt> commande arguments](./img/12-agile-principles.png)
+##### Frameworks
+![Prompt> commande arguments](./img/12-agile-frameworks.png)
+#### ITIL
 ### Outils
 #### GANTT
