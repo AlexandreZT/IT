@@ -127,12 +127,12 @@
 ![Prompt> commande arguments](./img/mvc-architecture.jpg)
 ![Prompt> commande arguments](./img/mvt-architecture.jpg)
 #### Web services (deux grandes familles) :
-##### SOAP/XML (WS)
-###### Simple Object Access Protocol
-###### Extensible Markup Language
-##### REST/JSON (API)
-###### REpresentational State Transfer
-###### JavaScript Object Notation
+
+![Prompt> commande arguments](./img/SOAP-vs-REST.PNG)
+##### Simple Object Access Protocol
+##### Extensible Markup Language
+##### REpresentational State Transfer
+##### JavaScript Object Notation
 #### Communication client/serveur 
 ##### La méthode AJAX (Asynchronous JavaScript And XML)
 ![Prompt> commande arguments](./img/ajax.png)
@@ -169,7 +169,7 @@
 #### Queue allocation (la file)
 ![Prompt> commande arguments](./img/queue-FIFO.jpg)
 #### Stack allocation (la pile)
-![Prompt> commande arguments](./img/stack-FIFO.jpg)
+![Prompt> commande arguments](./img/stack-LIFO.jpg)
 #### Heap allocation (le tas)
 ![Prompt> commande arguments](./img/tas-HEAP.jpg)
 ### Les pointeurs
