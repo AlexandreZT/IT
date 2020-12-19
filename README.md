@@ -4,19 +4,20 @@
 ### • IDE or Text Editor ? (VSC, Vim, Notepad++, outils Jetbrains, etc.)
 ### • Cloud plateform: Jupyter, Collab, etc.
 ### • Package manager : anaconda (data science), npm (node), pip (python), etc.
+### • Raccourcis de productivité
 ## 01. Les types de données
 ![Prompt> commande arguments](./img/data_types.png)
-### La table ASCII
-### Les caractères d'échappement
-### Les regex
+### • La table ASCII
+### • Les caractères d'échappement
+### • Les regex
 
-### Les opérateurs
-#### addition / incrémentation / concaténation
-#### soustraction / décrémantion / déconcaténation
-#### multiplication
-#### division
-#### puissance
-#### modulo
+### • Les opérateurs
+#### - addition / incrémentation / concaténation
+#### - soustraction / décrémantion / déconcaténation
+#### - multiplication
+#### - division
+#### - puissance
+#### - modulo
 
 ## 02. Structures conditionnelles
 ### La comparaison
