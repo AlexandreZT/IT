@@ -124,8 +124,8 @@
 ##### C# : #1 ASP.NET (MSTest, selenium, etc)
 
 #### Les architecture web : MVC vs MVT (django)
-![Prompt> commande arguments](./img/mvc-architecture.jpg.png)
-![Prompt> commande arguments](./img/mvt-architecture.jpg.png)
+![Prompt> commande arguments](./img/mvc-architecture.jpg)
+![Prompt> commande arguments](./img/mvt-architecture.jpg)
 #### Web services (deux grandes familles) :
 ##### SOAP/XML (WS)
 ###### Simple Object Access Protocol
