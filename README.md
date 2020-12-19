@@ -297,3 +297,7 @@
 #### Xamarin & C#
 #### HTML5 & Apache Cordova
 ## 23. ERP VS CRM
+## 24. Législation
+### Propriété intellectuel et droit internet
+### RGPD
+### Hadopi
