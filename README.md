@@ -272,6 +272,7 @@
 ### Big Data
 ### Intelligence artificielle
 #### Les réseaux neuronaux
+![Prompt> commande arguments](./img/neural-network.png)
 ##### Weight : importance de l'influence de l'input sur l'output
 ##### Biais : constante d'ajustement
 ##### Softmax activation
