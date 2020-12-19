@@ -337,7 +337,7 @@
 ##### Les 12 principes fondamentaux
 ![Prompt> commande arguments](./img/12-agile-principles.png)
 ##### Frameworks
-![Prompt> commande arguments](./img/12-agile-frameworks.png)
+![Prompt> commande arguments](./img/agile-frameworks.png)
 #### ITIL
 ### Outils
 #### GANTT
