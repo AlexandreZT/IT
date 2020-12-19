@@ -63,7 +63,7 @@
 ## 08. Les langages interprétés vs compilés + Input/Output
 ###	• La compilation
 ![Prompt> commande arguments](./img/compilation.png)
-### L'interprétation
+### • L'interprétation
 ![Prompt> commande arguments](./img/interprétation.png)
 
 ## 09. OOPs (Object-Oriented Programming System)
