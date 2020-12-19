@@ -269,6 +269,7 @@
 ##### Biais : constante d'ajustement
 ##### Softmax activation
 ### La blockchain
+### Time series
 ### Machine learning :
 #### Augmenter la précision du modèle :
 ##### Ajouter des données
