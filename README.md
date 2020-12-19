@@ -27,6 +27,7 @@
 #### supérieur ou égal à
 #### inférieur ou égal à
 
+### Les opérateurs AND, OR, NOT
 ###	Les boucles : while / do…while (repeat… until) & for.
 
 ###	Les conditions : if…else & switch.
