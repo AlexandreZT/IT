@@ -10,15 +10,13 @@
 ### Les caractères d'échappement
 ### Les regex
 
-## Les opérateurs
-### addition
-### soustraction
-### multiplication
-### division
-### puissance
-### modulo
-### incrémantion
-### décrémentation
+### Les opérateurs
+#### addition / incrémentation / concaténation
+#### soustraction / décrémantion / déconcaténation
+#### multiplication
+#### division
+#### puissance
+#### modulo
 
 ## 02. Structures conditionnelles
 ### La comparaison
