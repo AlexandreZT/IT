@@ -216,18 +216,18 @@
 #### Linear algebra (algèbre linéaire)
 ##### Matrix (matrice)
 ### Statistique
-#### Mean (moyenne)
-#### Median (Médiane)
-#### Mode (mode)
-#### Variance (variance)
-#### Standard deviation (écart-type)
-#### Confidence Interval (Intervalle de confiance)
-#### Expected value (espérance)
-#### Percentile (percentile)
+#### Mean (moyenne) : Résume une série de valeur en un seul nombre réel. Il s'agit de la somme des valeurs d'une série divisé par son nombre d'élément.
+#### Median (Médiane) : Permet de partager une série de valeur en deux parties de même nombre d'élément. Il s'agit de la valeur du milieu d'une sérieu rangé par ordre croissant.
+#### Mode (mode) : Permet de connaître la (ou les) valeur(s) la (ou les) plus fréquante(s) dans une série. Il s'agit d'une valeur ayant le plus de récurrence dans une série.
+#### Variance (variance) : Mesure de la dispertion des valeurs d'unéchantillon ou d'une distribution de probabilité (sans tenir compte des signes).
+#### Standard deviation (écart-type) :  Mesure de la dispertion des valeurs à partir de la moyenne.
+#### Confidence Interval (Intervalle de confiance) : Défini une marge d'erreur dans un résultat. Le dégré de confiance est souvent défini à 95%, ce qui signifi qu'en moyenne, 95% des résultats seront correct.
+#### Expected value (espérance) : Représente la valeur que l'on s'attend à trouver, en moyenne, si 'lon répète un grand nombre de fois la même expérience aléatoire. Il s'agit d'une moyenne pondérée par les probabilités d'apparition de chaque valeur.
+#### Percentile (percentile) : Décrit la valeur à laquelle un pourcentage donné des valeurs est inférieur.
 #### Quantiles : divisent un jeu de données en intervalles contenant le même nombre de données.
 #### RMSE (ROOT MEAN SQUARE ERROR)
 #### R-squared : mesure la qualité de la prédiction d'une régression linéaire, ainsi la qualité du model utilisé.
-#### L'échatillonnage
+#### L'échatillonnage : On essaye de représenter une population à partir d'un sous ensemble. Les types d'échantillons sont : aléatoire, arbitraire, par itinéraire et par quotas.
 #### p-value : est la probabilité pour un modèle statistique donné sous l'hypothèse nulle d'obtenir la même valeur ou une valeur encore plus extrême que celle observée.
 ### Probabilité
 #### Normal distribution / Gaussiandistribution (loi normal ou loi de Gauss)
