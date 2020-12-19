@@ -1,9 +1,9 @@
 # DevUniverse
 ## 00. Environnement de développement
-###	a. Environnement virtuel (pipenv, etc.)
-### b. IDE or Text Editor ? (VSC, Vim, Notepad++, outils Jetbrains, etc.)
-### c. Cloud plateform: Jupyter, Collab, etc.
-### d. Package manager : anaconda (data science), npm (node), pip (python), etc.
+###	• Environnement virtuel (pipenv, etc.)
+### • IDE or Text Editor ? (VSC, Vim, Notepad++, outils Jetbrains, etc.)
+### • Cloud plateform: Jupyter, Collab, etc.
+### • Package manager : anaconda (data science), npm (node), pip (python), etc.
 ## 01. Les types de données
 ![Prompt> commande arguments](./img/data_types.png)
 ### La table ASCII
