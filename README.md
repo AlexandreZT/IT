@@ -184,9 +184,9 @@
 ### Exponentiation by squaring
 ### String Matching and Parsing (KMP Algorithm, Regular Expression)
 ### Primality Testing Algorithms
-## 15. Les tests
+## 15. Les teststesting-pyramid
 ### Classification : 
-![Prompt> commande arguments](./img/testing.jpg)
+![Prompt> commande arguments](./img/testing-pyramid.jpg)
 ### Autres :
 #### End-to-End testing (e2e)
 #### Tests de non-régression
