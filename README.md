@@ -264,8 +264,9 @@
 ### R package
 #### Data Visualization : ggplot2, plotly, esquisse
 #### Machine Learning : mlr3
-#### Data Management : dplyr 
-#### Mics : bioconductor, shiny
+#### Data analysis : dplyr
+#### Web Scraping : RCrawler
+#### Mics : Tedyverse, bioconductor, shiny
 ### Hadoop
 ### Apache Spark
 ## 22. Mobile development
