@@ -143,10 +143,10 @@
 ##### HTTP methods
 ![Prompt> commande arguments](./img/http-methods.png)
 ##### HTTP status code
-![Prompt> commande arguments](./img/http-status-code.jpg)
+![Prompt> commande arguments](./img/http-status-codes.jpeg)
 ##### HTTPS
 ![Prompt> commande arguments](./img/https.png)
-##### HTTP2 vs HTTP1
+##### HTTP/1 vs HTTP/2
 
 ![Prompt> commande arguments](./img/http1-vs-http2.jpg)
 ##### Le modèle OSI et le modèle TCP/IP
