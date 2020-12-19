@@ -164,7 +164,7 @@
 ### ORM (Object-Relational Mapping)
 ## 12. La mémoire : 
 ### Allocation statique vs dynamique
-![Prompt> commande arguments](./img/allocation.png)
+![Prompt> commande arguments](./img/memory-allocation.png)
 ### Stockage de la mémoire
 #### Queue allocation (la file)
 ![Prompt> commande arguments](./img/queue.jpg)
@@ -223,7 +223,7 @@
 ### Multiple Instructions on Multiple Data 
 ![Prompt> commande arguments](./img/MIMD.png)
 ## 19. Single-Thread vs Multi-Thread programming
-![Prompt> commande arguments](./img/thread.jpg)
+![Prompt> commande arguments](./img/threads.jpg)
 ## 20. Synchronous vs Asynchronous programming 
 ![Prompt> commande arguments](./img/synchronous-vs-asynchronous.png)
 ## 21. DevOps
