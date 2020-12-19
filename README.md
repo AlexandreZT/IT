@@ -44,24 +44,24 @@
 ##	06. Les librairies principales
 
 ##	07. Spécificité et bonnes pratiques du langage
-###	Point forts et faiblesses
+###	• Point forts et faiblesses
 
-###	Les commentaires 
-#### Single Line Comment
+###	• Les commentaires 
+#### - Single Line Comment
 
-#### Multi Line Comment
-#### Documentation Comment
+#### - Multi Line Comment
+#### - Documentation Comment
 
-###	Convention de nommage (classe, méthode, fonctions, constante, variable, module, package, etc.)
-#### Pascal Case : FirstName
-#### Camel Case : firstName
-#### Screaming Case : FIRSTNAME
-#### Snake Case : first_name
-#### Kebab case : first-name
-#### Hungarian Notation : strFirstName
+###	• Convention de nommage (classe, méthode, fonctions, constante, variable, module, package, etc.)
+#### - Pascal Case : FirstName
+#### - Camel Case : firstName
+#### - Screaming Case : FIRSTNAME
+#### - Snake Case : first_name
+#### - Kebab case : first-name
+#### - Hungarian Notation : strFirstName
 
 ## 08. Les langages interprétés vs compilés + Input/Output
-###	La compilation
+###	• La compilation
 ![Prompt> commande arguments](./img/compilation.png)
 ### L'interprétation
 ![Prompt> commande arguments](./img/interprétation.png)
