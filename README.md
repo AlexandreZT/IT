@@ -139,7 +139,7 @@
 ##### Les protocoles internet :
 ![Prompt> commande arguments](./img/protocoles.png)
 ##### Le modèle OSI et le modèle TCP/IP
-![Prompt> commande arguments](./img/OSI-TCPIP.png)
+![Prompt> commande arguments](./img/modele-osi-vs-tcp.png)
 ##### Duplex (canal de communication)
 ![Prompt> commande arguments](./img/duplex.jpg)
 ###### Les Websockets sont une spécification full-duplex du protocole HTTP
