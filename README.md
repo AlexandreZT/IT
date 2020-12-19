@@ -212,14 +212,39 @@
 ![Prompt> commande arguments](./img/container.png)
 ## 21. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
+### Mathématique
+#### Linear algebra (algèbre linéaire)
+##### Matrix (matrice)
+### Statistique
+#### Mean (moyenne)
+#### Median (Médiane)
+#### Mode (mode)
+#### Variance (variance)
+#### Standard deviation (écart-type)
+#### Confidence Interval (Intervalle de confiance)
+#### Expected value (espérance)
+#### Percentile (percentile)
+#### Quantiles : divisent un jeu de données en intervalles contenant le même nombre de données.
+#### L'échatillonnage
+### Probabilité
+#### Normal distribution / Gaussiandistribution (loi normal ou loi de Gauss)
+#### Continuous uniform distribution / rectangular distribution (loi uniforme continue ou loi rectangulaire)
+#### Discrete uniform distribution (loi uniforme discrète)
+#### Binomial distribution (loi binomiale)
+#### Poisson distribution (loi de poisson)
 ### Big Data
 ### Intelligence artificielle
-#### Les réseaux neuronaux 
+#### Les réseaux neuronaux
+##### Weight : importance de l'influence de l'input sur l'output
+##### Biais : constante d'ajustement
+##### Softmax activation
 ### La blockchain
 ### Machine learning :
 #### Classification VS Régression
 #### Apprentissage : supervisé, non/semi-supervisé, par renforcement et incrémental
 #### Algorithmes (k-moyennes / proches voisins, etc.)
+#### Bagging & Boosting
+#### p-value (mesure l'efficacité du modèle choisi)
 ### Python libraries
 #### Machine Learning : scikit-learn, keras, orange
 #### Web Scraping : beautifulsoup, selenium, scrapy
