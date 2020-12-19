@@ -232,8 +232,8 @@
 ### Semantic versioning
 ![Prompt> commande arguments](./img/versioning.png)
 ### Linux : le shell (bash) et les scripts
-![Prompt> commande arguments](./img/linux.png)
-![Prompt> commande arguments](./img/bash.png)
+![Prompt> commande arguments](./img/linux.jpg)
+![Prompt> commande arguments](./img/linux-bin-bash.png)
 ### Protocole SSH (Secure SHell)
 ![Prompt> commande arguments](./img/ssh.jpg)
 ### Docker vs Kubernetes
