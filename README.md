@@ -163,10 +163,7 @@
 ### OLTP (Online Transactional Processing) / OLAP (Online analytical processing)
 ![Prompt> commande arguments](./img/OLTP-vs-OLAP.png)
 ### SQL
-#### DDL (data definition language) : to create data
-#### DML (data manipulation language) : to manipulate data
-#### DCL (data control language) : assigment and removal of permissions to use this data
-#### TCL (transaction control language) : saving and restoring changes to a database
+![Prompt> commande arguments](./img/sql-command-types.png)
 #### Les jointures
 ![Prompt> commande arguments](./img/jointures.jpg)
 ### NoSQL databases :
