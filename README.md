@@ -138,6 +138,17 @@
 ![Prompt> commande arguments](./img/ajax.png)
 ##### Les protocoles internet :
 ![Prompt> commande arguments](./img/protocoles.png)
+##### HTTP request
+![Prompt> commande arguments](./img/http-request.png)
+##### HTTP methods
+![Prompt> commande arguments](./img/http-methods.png)
+##### HTTP status code
+![Prompt> commande arguments](./img/http-status-code.jpg)
+##### HTTPS
+![Prompt> commande arguments](./img/https.png)
+##### HTTP2 vs HTTP1
+
+![Prompt> commande arguments](./img/http1-vs-http2.jpg)
 ##### Le modèle OSI et le modèle TCP/IP
 ![Prompt> commande arguments](./img/modele-osi-vs-tcp.png)
 ##### Duplex (canal de communication)
