@@ -164,7 +164,7 @@
 ### ORM (Object-Relational Mapping)
 ## 12. La mémoire : 
 ### Allocation statique vs dynamique
-![Prompt> commande arguments](./img/memory-allocation.png)
+![Prompt> commande arguments](./img/memory-allocation.PNG)
 ### Stockage de la mémoire
 #### Queue allocation (la file)
 ![Prompt> commande arguments](./img/queue-FIFO.jpg)
