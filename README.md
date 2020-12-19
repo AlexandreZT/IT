@@ -68,8 +68,8 @@
 
 ## 09. OOPs (Object-Oriented Programming System)
 
-### Classes, Object
-![Prompt> commande arguments](./img/factory.png)
+### Class, factory and objects
+![Prompt> commande arguments](./img/class-factory-objects.png)
 ### Inheritance
 ![Prompt> commande arguments](./img/inheritance.png)
 ### Polymorphism
@@ -79,7 +79,7 @@
 ### Encapsulation (public, private & protected)
 ![Prompt> commande arguments](./img/encapsulation.png)
 ### Coupling vs Cohesion
-![Prompt> commande arguments](./img/coupling-cohesion.png)
+![Prompt> commande arguments](./img/cohesion-vs-coupling.jpg)
 ### Association
 ![Prompt> commande arguments](./img/association.png)
 ### Aggregation (uses)
@@ -87,7 +87,7 @@
 ### Composition (owns)
 ![Prompt> commande arguments](./img/composition.png)
 ### Generalization and specialization
-![Prompt> commande arguments](./img/generalization-specialization.png)
+![Prompt> commande arguments](./img/generalization-and-specialization.png)
 ## 10. Développement web
 ###	La standardisation W3C, ECMAScript, RFC, etc.
 ###	CMS (Content Management System) : #1 WordPress, #2 Drupal, #3 Shopify, etc
@@ -113,7 +113,7 @@
 ###	Créer une maquette (tous les écrans d’une app) et les coder
 #### #1 Adobe XD (Windows et Mac) / #2 Sketch (Mac) 
 ###	SPA (Single Page Application) vs MPA (Multi Page Application)
-![Prompt> commande arguments](./img/SPA-MPA.jpg)
+![Prompt> commande arguments](./img/spa-and-mpa.jpg)
 ###	Back-end technologies :  
 ![Prompt> commande arguments](./img/web-backend.png)
 #### Server framework :
@@ -150,7 +150,7 @@
 #### Propriétaire : #1 Oracle, #2 Microsoft Server #3 MySQL
 #### Libre : #1 PostegreSQL #2 MariaDB, #3 SQLite
 ### OLTP (Online Transactional Processing) / OLAP (Online analytical processing)
-![Prompt> commande arguments](./img/OLTP-OLAP.png)
+![Prompt> commande arguments](./img/OLTP-vs-OLAP.png)
 ### SQL
 #### DDL (data definition language) : to create data
 #### DML (data manipulation language) : to manipulate data
@@ -186,7 +186,7 @@
 ### Primality Testing Algorithms
 ## 15. Les tests
 ### Classification : 
-![Prompt> commande arguments](./img/tests-classification.jpg)
+![Prompt> commande arguments](./img/testing.jpg)
 ### Autres :
 #### End-to-End testing (e2e)
 #### Tests de non-régression
