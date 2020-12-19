@@ -201,7 +201,7 @@
 #### Creational « factory » : création
 #### Behavioral: comportemental
 #### Structural : structurante
-![Prompt> commande arguments](./img/design-patterns.png)
+![Prompt> commande arguments](./img/design-patterns.jpg)
 ## 17. Documentation logicielle
 ### L'expression de besoin 
 #### Définit le besoin du métier lors d'une demande.
