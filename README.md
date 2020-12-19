@@ -153,8 +153,8 @@
 ![Prompt> commande arguments](./img/modele-osi-vs-tcp.png)
 ##### Duplex (canal de communication)
 ![Prompt> commande arguments](./img/duplex.jpg)
-###### Les Websockets sont une spécification full-duplex du protocole HTTP
-####### Utilisé pour le développement de messagerie instantanée
+###### Les Websockets sont une spécification full-duplex du protocole HTTP.
+###### Utilisé pour le développement de messagerie instantanée.
 ## 11. Base de données 
 ### RDBMS / SGBDR :
 ![Prompt> commande arguments](./img/RDBMS.jpg)
@@ -195,8 +195,8 @@
 ### Exponentiation by squaring
 ### String Matching and Parsing (KMP Algorithm, Regular Expression)
 ### Primality Testing Algorithms
-## 15. Testing pyramid
-### Classification : 
+## 15. Testing
+### Pyramid : 
 ![Prompt> commande arguments](./img/testing-pyramid.jpg)
 ### Autres :
 #### End-to-End testing (e2e)
