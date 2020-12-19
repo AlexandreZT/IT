@@ -225,7 +225,7 @@
 ## 19. Single-Thread vs Multi-Thread programming
 ![Prompt> commande arguments](./img/thread.jpg)
 ## 20. Synchronous vs Asynchronous programming 
-![Prompt> commande arguments](./img/synch-asynch.png)
+![Prompt> commande arguments](./img/synchronous-vs-asynchronous.png)
 ## 21. DevOps
 ### Git & Git CLI (#1 GitHub, #2 Gitlab, #3 Bitbucket)
 ![Prompt> commande arguments](./img/git.gif)
