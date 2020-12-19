@@ -225,7 +225,10 @@
 #### Expected value (espérance)
 #### Percentile (percentile)
 #### Quantiles : divisent un jeu de données en intervalles contenant le même nombre de données.
+#### RMSE (ROOT MEAN SQUARE ERROR)
+#### R-squared : mesure la qualité de la prédiction d'une régression linéaire, ainsi la qualité du model utilisé.
 #### L'échatillonnage
+#### p-value : est la probabilité pour un modèle statistique donné sous l'hypothèse nulle d'obtenir la même valeur ou une valeur encore plus extrême que celle observée.
 ### Probabilité
 #### Normal distribution / Gaussiandistribution (loi normal ou loi de Gauss)
 #### Continuous uniform distribution / rectangular distribution (loi uniforme continue ou loi rectangulaire)
@@ -244,7 +247,6 @@
 #### Apprentissage : supervisé, non/semi-supervisé, par renforcement et incrémental
 #### Algorithmes (k-moyennes / proches voisins, etc.)
 #### Bagging & Boosting
-#### p-value (mesure l'efficacité du modèle choisi)
 ### Python libraries
 #### Machine Learning : scikit-learn, keras, orange
 #### Web Scraping : beautifulsoup, selenium, scrapy
