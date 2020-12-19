@@ -167,11 +167,11 @@
 ![Prompt> commande arguments](./img/memory-allocation.png)
 ### Stockage de la mémoire
 #### Queue allocation (la file)
-![Prompt> commande arguments](./img/queue.jpg)
+![Prompt> commande arguments](./img/queue-FIFO.jpg)
 #### Stack allocation (la pile)
-![Prompt> commande arguments](./img/stack.jpg)
+![Prompt> commande arguments](./img/stack-FIFO.jpg)
 #### Heap allocation (le tas)
-![Prompt> commande arguments](./img/heap.jpg)
+![Prompt> commande arguments](./img/tas-HEAP.jpg)
 ### Les pointeurs
 ![Prompt> commande arguments](./img/pointeur.png)
 ## 13. File management (read, write, append, create, etc.)
