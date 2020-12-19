@@ -135,7 +135,7 @@
 ###### JavaScript Object Notation
 #### Communication client/serveur 
 ##### La méthode AJAX (Asynchronous JavaScript And XML)
-![Prompt> commande arguments](./img/AJAX.png)
+![Prompt> commande arguments](./img/ajax.png)
 ##### Les protocoles internet :
 ![Prompt> commande arguments](./img/protocoles.png)
 ##### Le modèle OSI et le modèle TCP/IP
