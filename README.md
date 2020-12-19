@@ -235,7 +235,7 @@
 ![Prompt> commande arguments](./img/linux.png)
 ![Prompt> commande arguments](./img/bash.png)
 ### Protocole SSH (Secure SHell)
-![Prompt> commande arguments](./img/SSH.png)
+![Prompt> commande arguments](./img/ssh.png)
 ### Docker vs Kubernetes
 ![Prompt> commande arguments](./img/container.png)
 ## 21. Data Science
