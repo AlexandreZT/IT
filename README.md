@@ -9,7 +9,6 @@
 ![Prompt> commande arguments](./img/data_types.png)
 ### • La table ASCII
 ### • Les caractères d'échappement
-### • Les regex
 
 ### • Les opérateurs
 #### - addition / incrémentation / concaténation
