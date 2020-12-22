@@ -358,9 +358,14 @@
 ### windows defender
 ### antivirus
 ### metasploit
+### Le chiffrement (ou cryptage) vs le encrypter (ou encryption)  / 
+### Crypter / Cryptage vs Encrypter / Déencrypter
+### Chiffrer / Déchiffrer
+### Les algorithmes de hashage
+![Prompt> commande arguments](./img/hash-algorithms.jpg)
 ### Les logiciels malveillants ou malwares : Les chevaux de Troie, les ransomwares, etc.
 ### Les sniffer (analyseur réseau) : Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
-### Bruteforce / attaque par dictionnaire
+### Bruteforce / attaque par dictionnaire : Cherche à cracker un mot de passe, en testant toutes les combinaisons possible
 ### Injection SQL
 ### Man in the middle
 ### Backdoor
