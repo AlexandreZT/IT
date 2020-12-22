@@ -166,7 +166,7 @@
 ### NoSQL databases :
 ![Prompt> commande arguments](./img/nosql-databases.png)
 ### Cloud providers :
-![Prompt> commande arguments](./img/cloud-provider.jpg)
+![Prompt> commande arguments](./img/cloud-provider.jpeg)
 ### ORM (Object-Relational Mapping)
 ## 12. La mémoire : 
 ### Allocation statique vs dynamique
