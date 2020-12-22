@@ -353,11 +353,13 @@
 ### Surface web vs Deep web vs Dark web
 ![Prompt> commande arguments](./img/surface-web-vs-deep-web-vs-dark-web.png)
 #### Tails / Tor / .onion
+### VPN
 ### firewall
 ### windows defender
 ### antivirus
 ### metasploit
 ### Les logiciels malveillants ou malwares : Les chevaux de Troie, les ransomwares, etc.
+### Les sniffer (analyseur réseau) : Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
 ### Bruteforce / attaque par dictionnaire
 ### Injection SQL
 ### Man in the middle
