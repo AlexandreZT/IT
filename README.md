@@ -248,10 +248,13 @@
 ![Prompt> commande arguments](./img/ssh.jpg)
 ### Les containers
 ![Prompt> commande arguments](./img/container.png)
+#### CI / CD : Continuous Integrations / Countinuous Deployment
+#### Les tests automatisé : Selenium
+#### Logiciels de virtualisation : VirtualBox, VMWare
 ### Les outils :
 #### Ansible
 #### Jenkins
-#### Vagrant
+#### Vagrant : environnements de développement virtuel
 #### Splunk
 ## 21. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
