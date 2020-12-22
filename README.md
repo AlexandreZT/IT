@@ -183,13 +183,18 @@
 ## 13. File management (read, write, append, create, etc.)
 ### Les types de fichiers (TXT, CSV, JSON, PDF, etc.)
 ## 14. Les algorithmes (voir : project euler)
-### Sort Algorithms (Merge Sort, Quick Sort, Bucket Sort, Heap Sort, Counting Sort)
-### Search Algorithms (Binary search, Depth/Breadth First Search)
-### Hashing
-### Dynamic Programming
-### Exponentiation by squaring
-### String Matching and Parsing (KMP Algorithm, Regular Expression)
-### Primality Testing Algorithms
+### Performances
+#### Time complexity : mesure de la complexité d'un calcul en fonction de son nombre d'étapes, autrement dit son temps d'exécution.
+#### Big O notation : il s'agit d'une notation décrivant la complexité d'un temps de calcul.
+![Prompt> commande arguments](./img/time-complexity.png)
+### Les algorithmes pricipaux
+#### Sort Algorithms (Merge Sort, Quick Sort, Bucket Sort, Heap Sort, Counting Sort)
+#### Search Algorithms (Binary search, Depth/Breadth First Search)
+#### Hashing
+#### Dynamic Programming
+#### Exponentiation by squaring
+#### String Matching and Parsing (KMP Algorithm, Regular Expression)
+#### Primality Testing Algorithms
 ## 15. Testing
 ### Pyramid : 
 ![Prompt> commande arguments](./img/testing-pyramid.jpg)
