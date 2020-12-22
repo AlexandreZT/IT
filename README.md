@@ -92,10 +92,6 @@
 ###	CMS (Content Management System) : #1 WordPress, #2 Drupal, #3 Shopify, etc
 ### Le marketing digital
 ![Prompt> commande arguments](./img/marketing.jpg)
-###	Référencement nuturel SEO (Search Engine Optimisation)
-###	Référencement payant SEA (Search Engine Advertising)
-###	Visibilité sur les réseaux SMO (Social Media Optimization)
-### Techniques de visivilité SEM (Search Engine Marketing) = SEO + SEA + SMO
 ###	Front-end technologies :
 ![Prompt> commande arguments](./img/web-frontend.png)
 ### Qu’est-ce que le DOM (Document Object Model)
