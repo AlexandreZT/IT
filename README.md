@@ -329,7 +329,7 @@
 #### Mics : Tedyverse, bioconductor, shiny
 ### Hadoop
 ### Apache Spark
-### Tableau, PowerBI? Qlickview, Excel, etc.
+### Tableau, PowerBI, Qlickview, Excel, etc.
 ## 22. Mobile development
 ### Android
 #### Plateforme : Android Studio
