@@ -349,7 +349,22 @@
 ### Propriété intellectuel et droit internet
 ### RGPD
 ### Hadopi
-## 25. Management
+
+## 25. Sécurité informatique / attaques piratage
+### Deep web vs dark web
+#### Tails / Tor / .onion
+### firewall
+### windows defender
+### antivirus
+### metasploit
+### Les logiciels malveillants ou malwares : Les chevaux de Troie, les ransomwares, etc.
+### Bruteforce / attaque par dictionnaire
+### Injection SQL
+### Man in the middle
+### Backdoor
+### DDoS
+### Phishing
+## 26. Management
 ### Méthodologie
 #### Agil
 ##### Les 12 principes fondamentaux
