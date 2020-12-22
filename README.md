@@ -167,7 +167,7 @@
 ![Prompt> commande arguments](./img/jointures.jpg)
 ### NoSQL databases :
 ![Prompt> commande arguments](./img/nosql-databases.png)
-### Les services cloud : #1 Azure, #2 AWS, #3 Google cloud,  #4 Alibaba cloud
+### Cloud providers : #1 Azure, #2 AWS, #3 Google Cloud Platform,  #4 Alibaba cloud
 ### ORM (Object-Relational Mapping)
 ## 12. La mémoire : 
 ### Allocation statique vs dynamique
@@ -234,17 +234,25 @@
 ## 20. Synchronous vs Asynchronous programming 
 ![Prompt> commande arguments](./img/synchronous-vs-asynchronous.png)
 ## 21. DevOps
-### Git & Git CLI (#1 GitHub, #2 Gitlab, #3 Bitbucket)
+### Git & Git CLI (#1 GitHub, #2 Gitlab, #3 Bitbucket, #4 Gitbucket)
 ![Prompt> commande arguments](./img/git.gif)
 ### Semantic versioning
 ![Prompt> commande arguments](./img/versioning.png)
-### Linux : le shell (bash) et les scripts
+### Linux
+#### Redhat
+#### Ubuntu
 ![Prompt> commande arguments](./img/linux.jpg)
+#### Les scripts bash
 ![Prompt> commande arguments](./img/linux-bin-bash.png)
 ### Protocole SSH (Secure SHell)
 ![Prompt> commande arguments](./img/ssh.jpg)
-### Docker vs Kubernetes
+### Les containers
 ![Prompt> commande arguments](./img/container.png)
+### Les outils :
+#### Ansible
+#### Jenkins
+#### Vagrant
+#### Splunk
 ## 21. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
 ### Types de données :
@@ -321,6 +329,7 @@
 #### Mics : Tedyverse, bioconductor, shiny
 ### Hadoop
 ### Apache Spark
+### Tableau, PowerBI? Qlickview, Excel, etc.
 ## 22. Mobile development
 ### Android
 #### Plateforme : Android Studio
