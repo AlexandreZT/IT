@@ -165,7 +165,8 @@
 ![Prompt> commande arguments](./img/jointures.jpg)
 ### NoSQL databases :
 ![Prompt> commande arguments](./img/nosql-databases.png)
-### Cloud providers : #1 AWS, #2 Azure, #3 Google Cloud Platform, #4 Alibaba cloud
+### Cloud providers :
+![Prompt> commande arguments](./img/cloud-provider.jpg)
 ### ORM (Object-Relational Mapping)
 ## 12. La mémoire : 
 ### Allocation statique vs dynamique
