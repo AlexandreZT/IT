@@ -363,6 +363,8 @@
 ### Chiffrer / Déchiffrer
 ### Les algorithmes de hashage
 ![Prompt> commande arguments](./img/hash-algorithms.jpg)
+### Permutations and combination formulae
+![Prompt> commande arguments](./img/permutations-combination-formulae.jpg)
 ### Les logiciels malveillants ou malwares : Les chevaux de Troie, les ransomwares, etc.
 ### Les sniffer (analyseur réseau) : Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
 ### Bruteforce / attaque par dictionnaire : Cherche à cracker un mot de passe, en testant toutes les combinaisons possible
