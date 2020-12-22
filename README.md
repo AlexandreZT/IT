@@ -90,6 +90,8 @@
 ## 10. Développement web
 ###	La standardisation W3C, ECMAScript, RFC, etc.
 ###	CMS (Content Management System) : #1 WordPress, #2 Drupal, #3 Shopify, etc
+### Le marketing digital
+![Prompt> commande arguments](./img/marketing.jpg)
 ###	Référencement nuturel SEO (Search Engine Optimisation)
 ###	Référencement payant SEA (Search Engine Advertising)
 ###	Visibilité sur les réseaux SMO (Social Media Optimization)
