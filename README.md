@@ -352,8 +352,10 @@
 ## 23. ERP VS CRM
 ## 24. Législation
 ### Propriété intellectuel et droit internet
-### RGPD
-### Hadopi
+### Le RGPD (Règlement Général sur la Protection des Données) ou GDPR (General Data Protection Regulation
+### Hadopi (Haute Autorité pour la Diffusion des Œuvres et la Protection des droits sur Internet)
+### La CNIL (Commission Nationale de l'Informatique et des Libertés)
+### Les licences logiciels
 ## 25. Sécurité informatique / technique de piratage
 ### Surface web vs Deep web vs Dark web
 ![Prompt> commande arguments](./img/surface-web-vs-deep-web-vs-dark-web.png)
