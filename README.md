@@ -424,4 +424,5 @@
 ### 02.A. GANTT
 ## 03. Lois de productivité :
 ![Prompt> commande arguments](./img/11-lois-de-productivité.jpg)
-## 04. La matrice d'Eisenhower : La gestion des priorités
+## 04. La matrice d'Eisenhower :
+![Prompt> commande arguments](./img/La-matrice-d'Eisenhower.jfif)
