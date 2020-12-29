@@ -356,6 +356,29 @@
 ### Hadopi (Haute Autorité pour la Diffusion des Œuvres et la Protection des droits sur Internet)
 ### La CNIL (Commission Nationale de l'Informatique et des Libertés)
 ### Les licences logiciels
+
+#### Les quatre libertés fondamentales du logiciel libre :
+##### La liberté d'utiliser le logiciel ;
+##### La liberté d'étudier le logiciel ;
+##### La liberté de copier le logiciel ;
+#####	La liberté de modifier le logiciel et de redistribuer les versions modifiées.
+
+#### Logiciel propriétaire : 
+##### Par opposition au logiciel libre, un logiciel propriétaire ne garantit pas l'ensemble des quatre libertés du logiciel libre.
+
+#### Open-source : 
+##### Libre redistribution, d'accès au code source et de création de travaux dérivés
+##### Le code source est mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs. 
+
+#### Free Software Foundation :
+##### Organisation à but non lucratif dont la mission est la promotion du logiciel libre et la défense des utilisateurs.
+
+#### Licence de logiciel permissive : 
+##### Licence publique générale GNU (GNU General Public License)
+##### Licence MIT : Licence de logiciel pour logiciels libres et open source, provenant de l'Institut de technologie du Massachusetts (MIT).
+##### Licence Apache : Licence de logiciel libre et open source. Elle est écrite par l'Apache Software Foundation. 
+##### Licence BSD (Berkeley Software Distribution License) : Elle permet de réutiliser tout ou une partie du logiciel sans restriction, qu'il soit intégré dans un logiciel libre ou propriétaire.
+
 ## 25. Sécurité informatique / technique de piratage
 ### Surface web vs Deep web vs Dark web
 ![Prompt> commande arguments](./img/surface-web-vs-deep-web-vs-dark-web.png)
