@@ -92,62 +92,62 @@
 ![Prompt> commande arguments](./img/marketing.jpg)
 ## 04.	Front-end technologies :
 ![Prompt> commande arguments](./img/web-frontend.png)
-## 05. Qu’est-ce que le DOM (Document Object Model)
+## 04.A. Qu’est-ce que le DOM (Document Object Model)
 ![Prompt> commande arguments](./img/DOM.png)
-## 06. L’essentiel des tags HTML et des styles CSS
-## 07. JavaScript :
-### 07.A. Dynamisation des pages
-### 07.B. Manipulation du DOM avec la librairie jQuery
-### 07.C. Les fonctions à flèches depuis l’ES6.
-### 07.D. L’asynchronisme avec les promesses (promise, resolve, reject)
-## 08. Framework JS : 
-### 08.A. #1 React
-### 08.B. #2 Angular
-### 08.C. #3 Vue.js
-## 09. Framework CSS : #1 Bootstrap, #2 Semantic UI
-## 10.	Créer une maquette (tous les écrans d’une app) et les coder
-### 10.A. #1 Adobe XD (Windows et Mac)
-### 10.B. #2 Sketch (Mac) 
-## 11.	SPA (Single Page Application) vs MPA (Multi Page Application)
+## 04.B. L’essentiel des tags HTML et des styles CSS
+## 04.C. JavaScript :
+### 04.C.a. Dynamisation des pages
+### 04.C.b. Manipulation du DOM avec la librairie jQuery
+### 04.C.c. Les fonctions à flèches depuis l’ES6.
+### 04.C.d. L’asynchronisme avec les promesses (promise, resolve, reject)
+## 04.D. Framework JS : 
+### 04.D.a. #1 React
+### 04.D.b. #2 Angular
+### 04.D.c. #3 Vue.js
+## 04.E. Framework CSS : #1 Bootstrap, #2 Semantic UI
+## 04.F.	Créer une maquette (tous les écrans d’une app) et les coder
+### 04.F.a. #1 Adobe XD (Windows et Mac)
+### 04.F.b. #2 Sketch (Mac) 
+## 04.G. SPA (Single Page Application) vs MPA (Multi Page Application)
 ![Prompt> commande arguments](./img/spa-and-mpa.jpg)
-## 12.	Back-end technologies :  
+## 04.H. Back-end technologies :  
 ![Prompt> commande arguments](./img/web-backend.png)
-### 12.A. Server framework :
-#### 12.A.a. Node : #1 Express.js (Jest, Mocha, Jasmine, Karma, selenium, etc)
-#### 12.A.b. Python : #1 Django et #2 Flask (unittest, selenium, etc)
-#### 12.A.c. PHP #1 Laravel et #2 Symfony (testunit, etc)
-#### 12.A.d. Java : #1 Spring (JUnit, selenium, etc)
-#### 12.A.e. C# : #1 ASP.NET (MSTest, selenium, etc)
-### 12.B. Les architecture web : MVC vs MVT (django)
+### 04.I. Server framework :
+#### 04.I.a. Node : #1 Express.js (Jest, Mocha, Jasmine, Karma, selenium, etc)
+#### 04.I.b. Python : #1 Django et #2 Flask (unittest, selenium, etc)
+#### 04.I.c. PHP #1 Laravel et #2 Symfony (testunit, etc)
+#### 04.I.d. Java : #1 Spring (JUnit, selenium, etc)
+#### 04.I.e. C# : #1 ASP.NET (MSTest, selenium, etc)
+### 04.J. Les architecture web : MVC vs MVT (django)
 ![Prompt> commande arguments](./img/mvc-architecture.jpg)
 ![Prompt> commande arguments](./img/mvt-architecture.jpg)
-### 12.C. Web services (deux grandes familles) :
+### 04.K. Web services (deux grandes familles) :
 ![Prompt> commande arguments](./img/SOAP-vs-REST.PNG)
-#### 12.C.a. Simple Object Access Protocol
-#### 12.C.b. Extensible Markup Language
-#### 12.C.c. REpresentational State Transfer
-#### 12.C.d. JavaScript Object Notation
-#### 12.C.e. Communication client/serveur 
-### 13. La méthode AJAX (Asynchronous JavaScript And XML)
+#### 04.K.a. Simple Object Access Protocol
+#### 04.K.b. Extensible Markup Language
+#### 04.K.c. REpresentational State Transfer
+#### 04.K.d. JavaScript Object Notation
+#### 04.K.e. Communication client/serveur 
+### 04.L. La méthode AJAX (Asynchronous JavaScript And XML)
 ![Prompt> commande arguments](./img/ajax.png)
-### 14. Les protocoles internet :
+### 04.M. Les protocoles internet :
 ![Prompt> commande arguments](./img/protocoles.png)
-### 15. HTTP request
+### 04.N. HTTP request
 ![Prompt> commande arguments](./img/http-request.png)
-### 16. HTTP methods
+### 04.O. HTTP methods
 ![Prompt> commande arguments](./img/http-methods.png)
-### 17. HTTP status code
+### 04.P. HTTP status code
 ![Prompt> commande arguments](./img/http-status-codes.jpeg)
-### 18. HTTPS
+### 04.Q. HTTPS
 ![Prompt> commande arguments](./img/https.png)
-### 19. HTTP/1 vs HTTP/2
+### 04.R. HTTP/1 vs HTTP/2
 ![Prompt> commande arguments](./img/http1-vs-http2.jpg)
-### 20. Le modèle OSI et le modèle TCP/IP
+### 04.S. Le modèle OSI et le modèle TCP/IP
 ![Prompt> commande arguments](./img/modele-osi-vs-tcp.png)
-### 21.  Duplex (canal de communication)
+### 04.T.  Duplex (canal de communication)
 ![Prompt> commande arguments](./img/duplex.jpg)
-#### 21.A. Les Websockets sont une spécification full-duplex du protocole HTTP.
-##### 21.A.a. Utilisé pour le développement de messagerie instantanée.
+#### 04.T.a. Les Websockets sont une spécification full-duplex du protocole HTTP.
+##### 04.T.a. - Utilisé pour le développement de messagerie instantanée.
 
 # XII - Base de données 
 ## 01. RDBMS / SGBDR :
