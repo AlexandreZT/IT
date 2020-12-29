@@ -16,7 +16,7 @@
 ### 03.D. Puissance (Exponentiation)
 ### 03.E. Division
 ### 03.F. Division entière (Floor division)
-### 03.F. Modulo (modulus)
+### 03.G. Modulo (modulus)
 
 # III - Structures conditionnelles
 ##  01. La comparaison
