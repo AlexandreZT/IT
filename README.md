@@ -428,7 +428,7 @@
 ### 03.D. Loi de Parkinson
 ### 03.E. Loi de Carson
 ### 03.F. Loi de Fraisse
-### 03.G. Loi deHofstadter
+### 03.G. Loi de Hofstadter
 ### 03.H. Loi de Murphy
 ### 03.I. Loi de Swoboda-Fliess-Teltscher
 ## 04. La matrice d'Eisenhower
