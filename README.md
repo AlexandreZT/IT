@@ -9,13 +9,14 @@
 ![Prompt> commande arguments](./img/data_types.png)
 ## 01. La table ASCII
 ## 02. Les caractères d'échappement
-## 03. Les opérateurs
-### 03.A. addition / incrémentation / concaténation
-### 03.B. soustraction / décrémantion / déconcaténation
-### 03.C. multiplication
-### 03.D. division
-### 03.E. puissance
-### 03.F. modulo
+## 03. Les opérateurs arithmétiques :
+### 03.A. Addition / incrémentation / concaténation
+### 03.B. Soustraction (Substration) / décrémantion / déconcaténation
+### 03.C. Multiplication
+### 03.D. Puissance (Exponentiation)
+### 03.E. Division
+### 03.F. Division entière (Floor division)
+### 03.F. Modulo (modulus)
 
 # III - Structures conditionnelles
 ##  01. La comparaison
