@@ -424,15 +424,4 @@
 ### 02.A. GANTT
 ## 03. Lois de productivité :
 ![Prompt> commande arguments](./img/11-lois-de-productivité.jpg)
-### 03.A. Loi de Pareto (ou loi 80/20) : “80% de nos résultats sont le produit de 20% de nos efforts”
-### 03.B. Loi d'Illich : “Après un certain temps, la productivité tend à décroitre, voir atteindre des valeurs négatives”
-### 03.C. Loi de Laborit : “Un cerveau ça sert d’abord à fuir ou à lutter”
-### 03.D. Loi de Parkinson : “Le travail s’étale de façon à occuper le temps disponible pour son achèvement”
-### 03.E. Loi de Carson : “Un travail réalisé en continu prend moins de temps et d’énergie que lorsqu’il est réalisé en plusieurs fois”
-### 03.F. Loi de Fraisse : “1 heure n’est pas toujours égale à 1 heure”
-### 03.G. Loi de Hofstadter : “Il faut toujours plus de temps que prévu, même en tenant compte de la Loi de Hofstadter”
-### 03.H. Loi de Murphy : “Si ça peut tourner mal, cela arrivera”
-### 03.I. Loi de Swoboda-Fliess-Teltscher : “Chacun de nous fonctionne avec de multiples rythmes biologiques et a son propre rythme”
-### 03.J. La loi de Douglas : “Plus on a de place dans son bureau, plus on étale ses affaires”
-### 03.K La loi du mouvement de Newton : “Tout corps persévère dans l’état de repos ou de mouvement uniforme en ligne droite dans lequel il se trouve, à moins que quelque force n’agisse sur lui, et ne le contraigne à changer d’état”
 ## 04. La matrice d'Eisenhower : La gestion des priorités
