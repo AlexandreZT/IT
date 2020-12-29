@@ -1,174 +1,171 @@
-# DevUniverse
-## 00. Environnement de développement
-###	• Environnement virtuel (pipenv, etc.)
-### • IDE or Text Editor ? (VSC, Vim, Notepad++, outils Jetbrains, etc.)
-### • Cloud plateform: Jupyter, Collab, etc.
-### • Package manager : anaconda (data science), npm (node), pip (python), etc.
-### • Raccourcis de productivité
-## 01. Les types de données
+# I - Environnement de développement
+## 01. Environnement virtuel (pipenv, etc.)
+## 02. IDE or Text Editor ? (VSC, Vim, Notepad++, outils Jetbrains, etc.)
+## 03. Cloud plateform: Jupyter, Collab, etc.
+## 04. Package manager : anaconda (data science), npm (node), pip (python), etc.
+## 05. Raccourcis de productivité
+
+# II - Les types de données
 ![Prompt> commande arguments](./img/data_types.png)
-### • La table ASCII
-### • Les caractères d'échappement
+## 01. La table ASCII
+## 02. Les caractères d'échappement
+## 03. Les opérateurs
+### 03.A. addition / incrémentation / concaténation
+### 03.B. soustraction / décrémantion / déconcaténation
+### 03.C. multiplication
+### 03.D. division
+### 03.E. puissance
+### 03.F. modulo
 
-### • Les opérateurs
-#### - addition / incrémentation / concaténation
-#### - soustraction / décrémantion / déconcaténation
-#### - multiplication
-#### - division
-#### - puissance
-#### - modulo
+# III - Structures conditionnelles
+##  01. La comparaison
+### 01.A. supérieur à
+### 01.B. inférieur à
+### 01.C. égal à
+### 01.D. différent de
+### 01.E. supérieur ou égal à
+### 01.F. inférieur ou égal à
+## 02. Les opérateurs AND, OR, NOT
+## 03. Les boucles : while / do…while (repeat… until) & for.
+## 04. Les conditions : if…else & switch.
+## 05. Contrôle de boucles : repeat, break, next, continue, pass & txtProgressBar.
 
-## 02. Structures conditionnelles
-### • La comparaison
-#### - supérieur à
-#### - inférieur à
-#### - égal à
-#### - différent de
-#### - supérieur ou égal à
-#### - inférieur ou égal à
-
-### • Les opérateurs AND, OR, NOT
-###	• Les boucles : while / do…while (repeat… until) & for.
-
-###	• Les conditions : if…else & switch.
-
-###	• Contrôle de boucles : repeat, break, next, continue, pass & txtProgressBar.
-
-##	03. Les principaux paradigmes de programmation
+# IV - Les principaux paradigmes de programmation
 ![Prompt> commande arguments](./img/paradigmes.png)
-##	04. Fonctions, procédures et arguments
 
-##	05. Built-in functions
+# V - Fonctions, procédures et arguments
 
-##	06. Les librairies principales
+# VI - Built-in functions
 
-##	07. Spécificité et bonnes pratiques du langage
-###	• Point forts et faiblesses
+# VII - Les librairies principales
 
-###	• Les commentaires 
-#### - Single Line Comment
+# VIII - Spécificité et bonnes pratiques du langage
+##	01. Point forts et faiblesses
+##	02. Les commentaires 
+### 02.A. Single Line Comment
+### 02.B. Multi Line Comment
+### 02.C. Documentation Comment
+## 03. Convention de nommage (classe, méthode, fonctions, constante, variable, module, package, etc.)
+### 03.A. Pascal Case : FirstName
+### 03.B. Camel Case : firstName
+### 03.C. Screaming Case : FIRSTNAME
+### 03.D. Snake Case : first_name
+### 03.E. Kebab case : first-name
+### 03.F. Hungarian Notation : strFirstName
 
-#### - Multi Line Comment
-#### - Documentation Comment
-
-###	• Convention de nommage (classe, méthode, fonctions, constante, variable, module, package, etc.)
-#### - Pascal Case : FirstName
-#### - Camel Case : firstName
-#### - Screaming Case : FIRSTNAME
-#### - Snake Case : first_name
-#### - Kebab case : first-name
-#### - Hungarian Notation : strFirstName
-
-## 08. Les langages interprétés vs compilés + Input/Output
-###	• La compilation
+## IX - Les langages interprétés vs compilés + Input/Output
+## 01. La compilation
 ![Prompt> commande arguments](./img/compilation.png)
-### • L'interprétation
+## 02. L'interprétation
 ![Prompt> commande arguments](./img/interprétation.png)
 
-## 09. OOPs (Object-Oriented Programming System)
-
-### Class, factory and objects
+# X - OOPs (Object-Oriented Programming System)
+## 01. Class, factory and objects
 ![Prompt> commande arguments](./img/class-factory-objects.png)
-### Inheritance
+### 02. Inheritance
 ![Prompt> commande arguments](./img/inheritance.png)
-### Polymorphism
+## 03. Polymorphism
 ![Prompt> commande arguments](./img/polymorphism.gif)
-### Abstraction 
+## 04. Abstraction 
 ![Prompt> commande arguments](./img/abstraction.png)
-### Encapsulation (public, private & protected)
+## 05. Encapsulation (public, private & protected)
 ![Prompt> commande arguments](./img/encapsulation.png)
-### Coupling vs Cohesion
+## 06. Coupling vs Cohesion
 ![Prompt> commande arguments](./img/cohesion-vs-coupling.jpg)
-### Association
+## 07. Association
 ![Prompt> commande arguments](./img/association.png)
-### Aggregation (uses)
+## 08. Aggregation (uses)
 ![Prompt> commande arguments](./img/aggregation.png)
-### Composition (owns)
+## 09. Composition (owns)
 ![Prompt> commande arguments](./img/composition.png)
-### Generalization and specialization
+## 10. Generalization and specialization
 ![Prompt> commande arguments](./img/generalization-and-specialization.png)
-## 10. Développement web
-###	La standardisation W3C, ECMAScript, RFC, etc.
-###	CMS (Content Management System) : #1 WordPress, #2 Drupal, #3 Shopify, etc
-### Le marketing digital
-![Prompt> commande arguments](./img/marketing.jpg)
-###	Front-end technologies :
-![Prompt> commande arguments](./img/web-frontend.png)
-### Qu’est-ce que le DOM (Document Object Model)
-![Prompt> commande arguments](./img/DOM.png)
-###	L’essentiel des tags HTML et des styles CSS
-###	JavaScript :
-#### Dynamisation des pages
-#### Manipulation du DOM avec la librairie jQuery
-#### Les fonctions à flèches depuis l’ES6.
-#### L’asynchronisme avec les promesses (promise, resolve, reject)
-### Framework JS : 
-#### #1 React
-#### #2 Angular
-#### #3 Vue.js
-### Framework CSS : #1 Bootstrap, #2 Semantic UI
-###	Créer une maquette (tous les écrans d’une app) et les coder
-#### #1 Adobe XD (Windows et Mac) / #2 Sketch (Mac) 
-###	SPA (Single Page Application) vs MPA (Multi Page Application)
-![Prompt> commande arguments](./img/spa-and-mpa.jpg)
-###	Back-end technologies :  
-![Prompt> commande arguments](./img/web-backend.png)
-#### Server framework :
-##### Node : #1 Express.js (Jest, Mocha, Jasmine, Karma, selenium, etc)
-##### Python : #1 Django et #2 Flask (unittest, selenium, etc)
-##### PHP #1 Laravel et #2 Symfony (testunit, etc)
-##### Java : #1 Spring (JUnit, selenium, etc)
-##### C# : #1 ASP.NET (MSTest, selenium, etc)
 
-#### Les architecture web : MVC vs MVT (django)
+# XI - Développement web
+## 01. La standardisation W3C, ECMAScript, RFC, etc.
+## 02. CMS (Content Management System) : 
+### 02.A. #1 WordPress
+### 02.B. #2 Drupal
+### 02.C. #3 Shopify
+## 03. Le marketing digital
+![Prompt> commande arguments](./img/marketing.jpg)
+## 04.	Front-end technologies :
+![Prompt> commande arguments](./img/web-frontend.png)
+## 05. Qu’est-ce que le DOM (Document Object Model)
+![Prompt> commande arguments](./img/DOM.png)
+## 06. L’essentiel des tags HTML et des styles CSS
+## 07. JavaScript :
+### 07.A. Dynamisation des pages
+### 07.B. Manipulation du DOM avec la librairie jQuery
+### 07.C. Les fonctions à flèches depuis l’ES6.
+### 07.D. L’asynchronisme avec les promesses (promise, resolve, reject)
+## 08. Framework JS : 
+### 08.A. #1 React
+### 08.B. #2 Angular
+### 08.C. #3 Vue.js
+## 09. Framework CSS : #1 Bootstrap, #2 Semantic UI
+## 10.	Créer une maquette (tous les écrans d’une app) et les coder
+### 10.A. #1 Adobe XD (Windows et Mac)
+### 10.B. #2 Sketch (Mac) 
+## 11.	SPA (Single Page Application) vs MPA (Multi Page Application)
+![Prompt> commande arguments](./img/spa-and-mpa.jpg)
+## 12.	Back-end technologies :  
+![Prompt> commande arguments](./img/web-backend.png)
+### 12.A. Server framework :
+#### 12.A.a. Node : #1 Express.js (Jest, Mocha, Jasmine, Karma, selenium, etc)
+#### 12.A.b. Python : #1 Django et #2 Flask (unittest, selenium, etc)
+#### 12.A.c. PHP #1 Laravel et #2 Symfony (testunit, etc)
+#### 12.A.d. Java : #1 Spring (JUnit, selenium, etc)
+#### 12.A.e. C# : #1 ASP.NET (MSTest, selenium, etc)
+### 12.B. Les architecture web : MVC vs MVT (django)
 ![Prompt> commande arguments](./img/mvc-architecture.jpg)
 ![Prompt> commande arguments](./img/mvt-architecture.jpg)
-#### Web services (deux grandes familles) :
-
+### 12.C. Web services (deux grandes familles) :
 ![Prompt> commande arguments](./img/SOAP-vs-REST.PNG)
-##### Simple Object Access Protocol
-##### Extensible Markup Language
-##### REpresentational State Transfer
-##### JavaScript Object Notation
-#### Communication client/serveur 
-##### La méthode AJAX (Asynchronous JavaScript And XML)
+#### 12.C.a. Simple Object Access Protocol
+#### 12.C.b. Extensible Markup Language
+#### 12.C.c. REpresentational State Transfer
+#### 12.C.d. JavaScript Object Notation
+#### 12.C.e. Communication client/serveur 
+### 13. La méthode AJAX (Asynchronous JavaScript And XML)
 ![Prompt> commande arguments](./img/ajax.png)
-##### Les protocoles internet :
+### 14. Les protocoles internet :
 ![Prompt> commande arguments](./img/protocoles.png)
-##### HTTP request
+### 15. HTTP request
 ![Prompt> commande arguments](./img/http-request.png)
-##### HTTP methods
+### 16. HTTP methods
 ![Prompt> commande arguments](./img/http-methods.png)
-##### HTTP status code
+### 17. HTTP status code
 ![Prompt> commande arguments](./img/http-status-codes.jpeg)
-##### HTTPS
+### 18. HTTPS
 ![Prompt> commande arguments](./img/https.png)
-##### HTTP/1 vs HTTP/2
-
+### 19. HTTP/1 vs HTTP/2
 ![Prompt> commande arguments](./img/http1-vs-http2.jpg)
-##### Le modèle OSI et le modèle TCP/IP
+### 20. Le modèle OSI et le modèle TCP/IP
 ![Prompt> commande arguments](./img/modele-osi-vs-tcp.png)
-##### Duplex (canal de communication)
+### 21.  Duplex (canal de communication)
 ![Prompt> commande arguments](./img/duplex.jpg)
-###### Les Websockets sont une spécification full-duplex du protocole HTTP.
-###### Utilisé pour le développement de messagerie instantanée.
-## 11. Base de données 
-### RDBMS / SGBDR :
+#### 21.A. Les Websockets sont une spécification full-duplex du protocole HTTP.
+##### 21.A.a. Utilisé pour le développement de messagerie instantanée.
+
+# XII - Base de données 
+## 01. RDBMS / SGBDR :
 ![Prompt> commande arguments](./img/RDBMS.jpg)
-#### Propriétaire : #1 Oracle, #2 Microsoft Server #3 MySQL
-#### Libre : #1 PostegreSQL #2 MariaDB, #3 SQLite
-### OLTP (Online Transactional Processing) / OLAP (Online analytical processing)
+### 01.A. Propriétaire : #1 Oracle, #2 Microsoft Server #3 MySQL
+### 01.B. Libre : #1 PostegreSQL #2 MariaDB, #3 SQLite
+## 02. OLTP (Online Transactional Processing) / OLAP (Online analytical processing)
 ![Prompt> commande arguments](./img/OLTP-vs-OLAP.png)
-### SQL
+## 03. SQL
 ![Prompt> commande arguments](./img/sql-command-types.png)
-#### Les jointures
+### 03.A. Les jointures
 ![Prompt> commande arguments](./img/jointures.jpg)
-### NoSQL databases :
+## 04. NoSQL databases :
 ![Prompt> commande arguments](./img/nosql-databases.png)
-### Cloud providers :
+## 05. Cloud providers :
 ![Prompt> commande arguments](./img/cloud-provider.jpeg)
-### ORM (Object-Relational Mapping)
-## 12. La mémoire : 
+## 06. ORM (Object-Relational Mapping)
+
+# XIII - La mémoire : 
 ### Allocation statique vs dynamique
 ![Prompt> commande arguments](./img/memory-allocation.PNG)
 ### Stockage de la mémoire
