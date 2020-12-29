@@ -265,156 +265,170 @@
 ### 09.C. Vagrant : environnements de développement virtuel
 ### 09.D.Splunk
 
-## 21. Data Science
+# XXIII. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
-### Types de données :
-#### Numérique :
-##### discrète : prendre une seule valeur entière
-##### continue : peut prendre une infinité de valeur
-#### Catégorique :  Ne peut-être mesuré, comme une couleur, un booléen, etc.
-#### ordinal : Simillaire aux données catégorique, à la différence qu'on peut distinguer les valeurs prises, comme la note A est meilleur qu'une note B.
-### Mathématique
-#### Linear algebra (algèbre linéaire)
-##### Matrix (matrice)
-### Statistique
-#### Mean (moyenne) : Résume une série de valeur en un seul nombre réel. Il s'agit de la somme des valeurs d'une série divisé par son nombre d'élément.
-#### Median (Médiane) : Permet de partager une série de valeur en deux parties de même nombre d'élément. Il s'agit de la valeur du milieu d'une sérieu rangé par ordre croissant.
-#### Mode (mode) : Permet de connaître la (ou les) valeur(s) la (ou les) plus fréquante(s) dans une série. Il s'agit d'une valeur ayant le plus de récurrence dans une série.
-#### Variance (variance) : Mesure de la dispertion des valeurs d'unéchantillon ou d'une distribution de probabilité (sans tenir compte des signes).
-#### Standard deviation (écart-type) :  Mesure de la dispertion des valeurs à partir de la moyenne.
-#### Confidence Interval (Intervalle de confiance) : Défini une marge d'erreur dans un résultat. Le dégré de confiance est souvent défini à 95%, ce qui signifi qu'en moyenne, 95% des résultats seront correct.
-#### Expected value (espérance) : Représente la valeur que l'on s'attend à trouver, en moyenne, si 'lon répète un grand nombre de fois la même expérience aléatoire. Il s'agit d'une moyenne pondérée par les probabilités d'apparition de chaque valeur.
-#### Percentile (percentile) : Décrit la valeur à laquelle un pourcentage donné des valeurs est inférieur.
-#### Quantiles : divisent un jeu de données en intervalles contenant le même nombre de données.
-#### RMSE (ROOT MEAN SQUARE ERROR)
-#### R-squared : mesure la qualité de la prédiction d'une régression linéaire, ainsi la qualité du model utilisé.
-#### L'échatillonnage : On essaye de représenter une population à partir d'un sous ensemble. Les types d'échantillons sont : aléatoire, arbitraire, par itinéraire et par quotas.
-#### p-value : est la probabilité pour un modèle statistique donné sous l'hypothèse nulle d'obtenir la même valeur ou une valeur encore plus extrême que celle observée.
-### Probabilité
-#### Normal distribution / Gaussiandistribution (loi normal ou loi de Gauss) : La loi normale (ou loi de Gauss) permet de modéliser des phénomènes naturels issus de plusieurs évènements aléatoires.
-#### Continuous uniform distribution / rectangular distribution (loi uniforme continue ou loi rectangulaire) : La loi uniforme continue (ou loi rectangulaire) a pour propriétéque la densité de probabilités deceslois est constante sur leur support.
-#### Discrete uniform distribution (loi uniforme discrète) : La loi uniforme discrète est uneloi indiquantune probabilité de se réaliser identiqueà chaque valeur d'un ensemble fini de valeurs possibles.
-#### Binomial distribution (loi binomiale) : La loi binomiale modélise la fréquence du nombre de succès obtenus lors de la répétition de plusieurs expériences aléatoires identiques et indépendantes.
-#### Poisson distribution (loi de poisson) : La loi de poisson est une loi qui décrit le comportement du nombre d'évènement se produisant dans un intervalle de temps fixé.
-### Big Data
-### Intelligence artificielle
-#### Les réseaux neuronaux
+## 01. Types de données :
+### 01.A. Numérique :
+#### 01.A.a. discrète : prendre une seule valeur entière
+#### 01.A.b. continue : peut prendre une infinité de valeur
+### 01.B. Catégorique :  Ne peut-être mesuré, comme une couleur, un booléen, etc.
+### 01.C. Ordinal : Simillaire aux données catégorique, à la différence qu'on peut distinguer les valeurs prises, comme la note A est meilleur qu'une note B.
+## 02. Mathématiques
+### 02.A. Linear algebra (algèbre linéaire)
+#### 02.A.a. Matrix (matrice)
+## 03. Statistiques
+### 03.A. Mean (moyenne) : Résume une série de valeur en un seul nombre réel. Il s'agit de la somme des valeurs d'une série divisé par son nombre d'élément.
+### 03.B. Median (Médiane) : Permet de partager une série de valeur en deux parties de même nombre d'élément. Il s'agit de la valeur du milieu d'une sérieu rangé par ordre croissant.
+### 03.C. Mode (mode) : Permet de connaître la (ou les) valeur(s) la (ou les) plus fréquante(s) dans une série. Il s'agit d'une valeur ayant le plus de récurrence dans une série.
+### 03.D. Variance (variance) : Mesure de la dispertion des valeurs d'unéchantillon ou d'une distribution de probabilité (sans tenir compte des signes).
+### 03.E. Standard deviation (écart-type) :  Mesure de la dispertion des valeurs à partir de la moyenne.
+### 03.F. Confidence Interval (Intervalle de confiance) : Défini une marge d'erreur dans un résultat. Le dégré de confiance est souvent défini à 95%, ce qui signifi qu'en moyenne, 95% des résultats seront correct.
+### 03.G. Expected value (espérance) : Représente la valeur que l'on s'attend à trouver, en moyenne, si 'lon répète un grand nombre de fois la même expérience aléatoire. Il s'agit d'une moyenne pondérée par les probabilités d'apparition de chaque valeur.
+### 03.H. Percentile (percentile) : Décrit la valeur à laquelle un pourcentage donné des valeurs est inférieur.
+### 03.I. Quantiles : divisent un jeu de données en intervalles contenant le même nombre de données.
+### 03.J. RMSE (ROOT MEAN SQUARE ERROR)
+### 03.K. R-squared : mesure la qualité de la prédiction d'une régression linéaire, ainsi la qualité du model utilisé.
+### 03.L. L'échatillonnage : On essaye de représenter une population à partir d'un sous ensemble. Les types d'échantillons sont : aléatoire, arbitraire, par itinéraire et par quotas.
+### 03.M. p-value : est la probabilité pour un modèle statistique donné sous l'hypothèse nulle d'obtenir la même valeur ou une valeur encore plus extrême que celle observée.
+## 04. Probabilité
+### 04.A. Normal distribution / Gaussiandistribution (loi normal ou loi de Gauss) : La loi normale (ou loi de Gauss) permet de modéliser des phénomènes naturels issus de plusieurs évènements aléatoires.
+### 04.B. Continuous uniform distribution / rectangular distribution (loi uniforme continue ou loi rectangulaire) : La loi uniforme continue (ou loi rectangulaire) a pour propriétéque la densité de probabilités deceslois est constante sur leur support.
+### 04.C. Discrete uniform distribution (loi uniforme discrète) : La loi uniforme discrète est uneloi indiquantune probabilité de se réaliser identiqueà chaque valeur d'un ensemble fini de valeurs possibles.
+### 04.D. Binomial distribution (loi binomiale) : La loi binomiale modélise la fréquence du nombre de succès obtenus lors de la répétition de plusieurs expériences aléatoires identiques et indépendantes.
+### 04.E. Poisson distribution (loi de poisson) : La loi de poisson est une loi qui décrit le comportement du nombre d'évènement se produisant dans un intervalle de temps fixé.
+## 05. Big Data
+## 06. Intelligence artificielle
+### 06.A. Les réseaux neuronaux
 ![Prompt> commande arguments](./img/neural-network.png)
-##### Weight : importance de l'influence de l'input sur l'output
-##### Biais : constante d'ajustement
-##### Softmax activation
-### La blockchain
-### Time series
-### Machine learning :
-#### Augmenter la précision du modèle :
-##### Ajouter des données
-##### Traiter les valeurs manquantes ou aberrantes
-##### Transformer et créer des variables
-##### S'appuyez sur les connaissances du domaine, la viz, la p-value ou le PCA (principal component analysis)
-##### Utiliser un autre algorithme (trouver le meilleur)
-##### Trouver les paramètres idéaux
-##### Combiner les résultats de différents modèle : bagging & boosting
-##### Le Surentrainement rend une modèle inprécis
-##### La cross-validation : laisser un échantillion sans entrainement pour le tester plus tard après l'entrainement
-#### Classification VS Régression
-#### Apprentissage : supervisé, non/semi-supervisé, par renforcement et incrémental
-#### Algorithmes (k-moyennes / proches voisins, etc.)
-### Python libraries
-#### Machine Learning : scikit-learn, keras, orange
-#### Web Scraping : beautifulsoup, selenium, scrapy
-#### Deep Learning : tensorflow, pytorch
-#### Data Visualization : matplotlib, seaborn
-#### Data Analysis : pandas, numpy, scipy
-#### Image Processing : pillow, opencv
-#### Audio processing : Librosa
-#### Natural Language processing : NLP, NLTK
-#### Statistique : statsmodels
-### JavaScript libraries
-#### Web Scraping : puppeteer.js
-#### Data Visualization : D3.js, DC.js
-#### Machine learning : ml.js
-### R package
-#### Data Visualization : ggplot2, plotly, esquisse
-#### Machine Learning : mlr3
-#### Data analysis : dplyr
-#### Web Scraping : RCrawler
-#### Mics : Tedyverse, bioconductor, shiny
-### Hadoop
-### Apache Spark
-### Tableau, PowerBI, Qlickview, Excel, etc.
-## 22. Mobile development
-### Android
-#### Plateforme : Android Studio
-#### Langage : Java, Kotlin
-### iOS
-#### Plateforme: Xcode
-#### Language : Swift, ~~Objective-C~~
-### Cross-plateform
-#### Flutter & Dart
-#### JavaScript & React Native
-#### Xamarin & C#
-#### HTML5 & Apache Cordova
-## 23. ERP VS CRM
-## 24. Législation
-### Propriété intellectuel et droit internet
-### Le RGPD (Règlement Général sur la Protection des Données) ou GDPR (General Data Protection Regulation
-### Hadopi (Haute Autorité pour la Diffusion des Œuvres et la Protection des droits sur Internet)
-### La CNIL (Commission Nationale de l'Informatique et des Libertés)
-### Les licences logiciels
+#### 06.A.a. Weight : importance de l'influence de l'input sur l'output
+#### 06.A.b. Biais : constante d'ajustement
+#### 06.A.c. Softmax activation
+## 07. La blockchain
+## 08. Time series
+## 09. Machine learning :
+### 09.A. Augmenter la précision du modèle :
+#### 09.A.a. Ajouter des données
+#### 09.A.b. Traiter les valeurs manquantes ou aberrantes
+#### 09.A.c. Transformer et créer des variables
+#### 09.A.d. S'appuyez sur les connaissances du domaine, la viz, la p-value ou le PCA (principal component analysis)
+#### 09.A.e. Utiliser un autre algorithme (trouver le meilleur)
+#### 09.A.f. Trouver les paramètres idéaux
+#### 09.A.g. Combiner les résultats de différents modèle : bagging & boosting
+#### 09.A.h. Le Surentrainement rend une modèle inprécis
+#### 09.A.i. La cross-validation : laisser un échantillion sans entrainement pour le tester plus tard après l'entrainement
+### 09.B. Classification VS Régression
+### 09.C. Apprentissage : supervisé, non/semi-supervisé, par renforcement et incrémental
+### 09.D. Algorithmes (k-moyennes / proches voisins, etc.)
+## 10. Python libraries
+### 10.A. Machine Learning : scikit-learn, keras, orange
+### 10.B. Web Scraping : beautifulsoup, selenium, scrapy
+### 10.C. Deep Learning : tensorflow, pytorch
+### 10.D. Data Visualization : matplotlib, seaborn
+### 10.E. Data Analysis : pandas, numpy, scipy
+### 10.F. Image Processing : pillow, opencv
+### 10.G. Audio processing : Librosa
+### 10.H. Natural Language processing : NLP, NLTK
+### 10.I. Statistique : statsmodels
+## 11. JavaScript libraries
+### 11.A. Web Scraping : puppeteer.js
+### 11.B. Data Visualization : D3.js, DC.js
+### 11.C. Machine learning : ml.js
+## 12. R package
+### 12.A. Data Visualization : ggplot2, plotly, esquisse
+### 12.B. Machine Learning : mlr3
+### 12.C. Data analysis : dplyr
+### 12.D. Web Scraping : RCrawler
+### 12.E. Mics : Tedyverse, bioconductor, shiny
+## 13. Hadoop
+## 14. Apache Spark
+## 15. Tools : Tableau, PowerBI, Qlickview, Excel, etc.
 
-#### Les quatre libertés fondamentales du logiciel libre :
-##### La liberté d'utiliser le logiciel ;
-##### La liberté d'étudier le logiciel ;
-##### La liberté de copier le logiciel ;
-#####	La liberté de modifier le logiciel et de redistribuer les versions modifiées.
+# XXIV - Mobile development
+## 01. Android
+### 01.A. Plateforme : Android Studio
+### 01.B. Langage : Java, Kotlin
+## 02. iOS
+### 02.A. Plateforme: Xcode
+### 02.B. Language : Swift, ~~Objective-C~~
+## 03. Cross-plateform
+### 03.A. Flutter & Dart
+### 03.B. JavaScript & React Native
+### 03.C. Xamarin & C#
+### 03.D. HTML5 & Apache Cordova
 
-#### Logiciel propriétaire : 
-##### Par opposition au logiciel libre, un logiciel propriétaire ne garantit pas l'ensemble des quatre libertés du logiciel libre.
+# XXV - ERP VS CRM
 
-#### Open-source : 
-##### Libre redistribution, d'accès au code source et de création de travaux dérivés
-##### Le code source est mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs. 
+# XXVI - Législation
+## 01. Propriété intellectuel et droit internet
+## 02. Le RGPD (Règlement Général sur la Protection des Données) ou GDPR (General Data Protection Regulation
+## 03. Hadopi (Haute Autorité pour la Diffusion des Œuvres et la Protection des droits sur Internet)
+## 04. La CNIL (Commission Nationale de l'Informatique et des Libertés)
+## 05. Les licences logiciels
+### 05.A. Les quatre libertés fondamentales du logiciel libre :
+#### 05.A.a. La liberté d'utiliser le logiciel ;
+#### 05.A.b. La liberté d'étudier le logiciel ;
+#### 05.A.c. La liberté de copier le logiciel ;
+#### 05.A.d. La liberté de modifier le logiciel et de redistribuer les versions modifiées.
 
-#### Free Software Foundation :
-##### Organisation à but non lucratif dont la mission est la promotion du logiciel libre et la défense des utilisateurs.
+### 05.B. Logiciel propriétaire : 
+#### 05.B.a. Par opposition au logiciel libre, un logiciel propriétaire ne garantit pas l'ensemble des quatre libertés du logiciel libre.
 
-#### Licence de logiciel permissive : 
-##### Licence publique générale GNU (GNU General Public License)
-##### Licence MIT : Licence de logiciel pour logiciels libres et open source, provenant de l'Institut de technologie du Massachusetts (MIT).
-##### Licence Apache : Licence de logiciel libre et open source. Elle est écrite par l'Apache Software Foundation. 
-##### Licence BSD (Berkeley Software Distribution License) : Elle permet de réutiliser tout ou une partie du logiciel sans restriction, qu'il soit intégré dans un logiciel libre ou propriétaire.
+### 05.C Open-source : 
+#### 05.C.a. Libre redistribution, d'accès au code source et de création de travaux dérivés
+#### 05.C.b. Le code source est mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs. 
 
-## 25. Sécurité informatique / technique de piratage
-### Surface web vs Deep web vs Dark web
+### 05.D. Free Software Foundation :
+#### 05.D.a. Organisation à but non lucratif dont la mission est la promotion du logiciel libre et la défense des utilisateurs.
+
+### 05.E. Licence de logiciel permissive : 
+#### 05.E.a. Licence publique générale GNU (GNU General Public License)
+#### 05.E.b. Licence MIT : Licence de logiciel pour logiciels libres et open source, provenant de l'Institut de technologie du Massachusetts (MIT).
+#### 05.E.c. Licence Apache : Licence de logiciel libre et open source. Elle est écrite par l'Apache Software Foundation. 
+#### 05.E.d. Licence BSD (Berkeley Software Distribution License) : Elle permet de réutiliser tout ou une partie du logiciel sans restriction, qu'il soit intégré dans un logiciel libre ou propriétaire.
+
+# XXVII - Sécurité informatique / technique de piratage
+## 01. Surface web vs Deep web vs Dark web
 ![Prompt> commande arguments](./img/surface-web-vs-deep-web-vs-dark-web.png)
-#### Tails / Tor / .onion
-### VPN
-### firewall
-### windows defender
-### antivirus
-### metasploit
-### Le chiffrement (ou cryptage) vs le encrypter (ou encryption)  / 
-### Crypter / Cryptage vs Encrypter / Déencrypter
-### Chiffrer / Déchiffrer
-### Les algorithmes de hashage
+### 01.A. Tails / Tor / .onion
+## 02. VPN
+## 03. firewall
+## 04. windows defender
+## 05. antivirus
+## 06. metasploit
+## 07. Le chiffrement (ou cryptage) vs le encrypter (ou encryption)  / 
+## 08. Crypter / Cryptage vs Encrypter / Déencrypter
+## 09. Chiffrer / Déchiffrer
+## 10. Les algorithmes de hashage
 ![Prompt> commande arguments](./img/hash-algorithms.jpg)
-### Permutations and combination formulae
+## 11. Permutations and combination formulae
 ![Prompt> commande arguments](./img/permutations-combination-formulae.jpg)
-### Les logiciels malveillants ou malwares : Les chevaux de Troie, les ransomwares, etc.
-### Les sniffer (analyseur réseau) : Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
-### Bruteforce / attaque par dictionnaire : Cherche à cracker un mot de passe, en testant toutes les combinaisons possible
-### Injection SQL
-### Man in the middle
-### Backdoor
-### DDoS
-### Phishing
-## 26. Management
-### Méthodologie
-#### Agil
-##### Les 12 principes fondamentaux
+## 12. Les logiciels malveillants ou malwares : Les chevaux de Troie, les ransomwares, etc.
+## 13. Les sniffer (analyseur réseau) : Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
+## 14. Bruteforce / attaque par dictionnaire : Cherche à cracker un mot de passe, en testant toutes les combinaisons possible
+## 15. Injection SQL
+## 16. Man in the middle
+## 17. Backdoor
+## 18. DDoS attack (Distributed Denial-of-Service attack)
+## 19. Phishing
+
+## XXVIII - Management
+## 01. Méthodologie
+### 01.A. Agil
+#### 01.A.a. Les 12 principes fondamentaux
 ![Prompt> commande arguments](./img/12-agile-principles.png)
-##### Frameworks
+#### 01.A.b. Frameworks
 ![Prompt> commande arguments](./img/agile-frameworks.png)
-#### ITIL
-### Outils
-#### GANTT
+### 01.B. ITIL
+## 02. Outils
+### 02.A. GANTT
+## 03. Lois de productivité :
+### 03.A. Loi de Pareto (ou loi 80/20)
+### 03.B. Loi d'Illich
+### 03.C. Loi de Laborit
+### 03.D. Loi de Parkinson
+### 03.E. Loi de Carson
+### 03.F. Loi de Fraisse
+### 03.G. Loi deHofstadter
+### 03.H. Loi de Murphy
+### 03.I. Loi de Swoboda-Fliess-Teltscher
+## 04. La matrice d'Eisenhower
