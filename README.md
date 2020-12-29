@@ -423,6 +423,7 @@
 ## 02. Outils
 ### 02.A. GANTT
 ## 03. Lois de productivité :
+![Prompt> commande arguments](./img/Loi de productivité.jpg)
 ### 03.A. Loi de Pareto (ou loi 80/20) : “80% de nos résultats sont le produit de 20% de nos efforts”
 ### 03.B. Loi d'Illich : “Après un certain temps, la productivité tend à décroitre, voir atteindre des valeurs négatives”
 ### 03.C. Loi de Laborit : “Un cerveau ça sert d’abord à fuir ou à lutter”
