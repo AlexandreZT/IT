@@ -166,97 +166,105 @@
 ## 06. ORM (Object-Relational Mapping)
 
 # XIII - La mémoire : 
-### Allocation statique vs dynamique
+## 01. Allocation statique vs dynamique
 ![Prompt> commande arguments](./img/memory-allocation.PNG)
-### Stockage de la mémoire
-#### Queue allocation (la file)
+## 02. Stockage de la mémoire
+### 02.A. Queue allocation (la file)
 ![Prompt> commande arguments](./img/queue-FIFO.jpg)
-#### Stack allocation (la pile)
+### 02.B. Stack allocation (la pile)
 ![Prompt> commande arguments](./img/stack-LIFO.jpg)
-#### Heap allocation (le tas)
+### 02.C. Heap allocation (le tas)
 ![Prompt> commande arguments](./img/tas-HEAP.jpg)
-### Les pointeurs
+## 03. Les pointeurs
 ![Prompt> commande arguments](./img/pointers.jpg)
-## 13. File management (read, write, append, create, etc.)
-### Les types de fichiers (TXT, CSV, JSON, PDF, etc.)
-## 14. Les algorithmes (voir : project euler)
-### Performances
-#### Time complexity : mesure de la complexité d'un calcul en fonction de son nombre d'étapes, autrement dit son temps d'exécution.
-#### Big O notation : il s'agit d'une notation décrivant la complexité d'un temps de calcul.
+
+# XIV - File management (read, write, append, create, etc.)
+## 01. Les types de fichiers (TXT, CSV, JSON, PDF, etc.)
+
+# XV - Les algorithmes (voir : project euler)
+## 01. Performances
+### 01.A. Time complexity : mesure de la complexité d'un calcul en fonction de son nombre d'étapes, autrement dit son temps d'exécution.
+### 01.B. Big O notation : il s'agit d'une notation décrivant la complexité d'un temps de calcul.
 ![Prompt> commande arguments](./img/time-complexity.png)
-### Les algorithmes pricipaux
-#### Sort Algorithms (Merge Sort, Quick Sort, Bucket Sort, Heap Sort, Counting Sort)
-#### Search Algorithms (Binary search, Depth/Breadth First Search)
-#### Hashing
-#### Dynamic Programming
-#### Exponentiation by squaring
-#### String Matching and Parsing (KMP Algorithm, Regular Expression)
-#### Primality Testing Algorithms
-## 15. Testing
-### Pyramid : 
+## 02. Les algorithmes pricipaux
+### 02.A. Sort Algorithms (Merge Sort, Quick Sort, Bucket Sort, Heap Sort, Counting Sort)
+### 02.B. Search Algorithms (Binary search, Depth/Breadth First Search)
+### 02.C. Hashing
+### 02.D. Dynamic Programming
+### 02.E. Exponentiation by squaring
+### 02.F. String Matching and Parsing (KMP Algorithm, Regular Expression)
+### 02.G. Primality Testing Algorithms
+
+# XVI - Testing
+## 01. Pyramid : 
 ![Prompt> commande arguments](./img/testing-pyramid.jpg)
-### Autres :
-#### End-to-End testing (e2e)
-#### Tests de non-régression
-#### Test fonctionnels et non fonctionnels
-#### Smoke test and sanity check
-#### Proof of Concept (PoC)
-## Exception Handling :
-### try… raise/catch/except…finally/except
-### throws…throw
-## 16. Les designs patterns (outil apporte des solutions aux problèmes communs de développement logiciel en rendant le code flexible, réutilisable et maintenable)
-### Il existe 3 grand type de design pattern
-#### Creational « factory » : création
-#### Behavioral: comportemental
-#### Structural : structurante
+## 02. Autres :
+### 02.A. Test fonctionnels et non fonctionnels
+### 02.B. Smoke test and sanity check
+### 02.C. Proof of Concept (PoC)
+## 03. Exception Handling :
+### 03.A. try… raise/catch/except…finally/except
+### 03.B. throws…throw
+
+# XVII - Les designs patterns (outil apporte des solutions aux problèmes communs de développement logiciel en rendant le code flexible, réutilisable et maintenable)
+## 01. Il existe 3 grand type de design pattern
+### 01.A. Creational « factory » : création
+### 01.B. Behavioral: comportemental
+### 01.C. Structural : structurante
 ![Prompt> commande arguments](./img/design-patterns.jpg)
-## 17. Documentation logicielle
-### L'expression de besoin 
-#### Définit le besoin du métier lors d'une demande.
-### Architecture / Conception : diagrammes UML)
-#### Vue d'ensemble sur le logiciel. Elle inclut les relations à l'environnement et les principes à utiliser dans la conception et la réalisation des composants logiciels.
-### Technique
-#### Documentation du code, algorithmes, interfaces, et interfaces de programmation (API).
-### Utilisateur
-#### Manuels pour les utilisateurs, administrateurs systèmes et personnel de support.
-### Marketing
-#### Instructions sur le produit et garantie promotionnelle.
-## 18. L’architecture des ordinateurs (Taxonomie de Flynn)
-### Single Instruction on Single Data
+
+# XVIII - Documentation logicielle
+## 01. L'expression de besoin 
+### 01.A. Définit le besoin du métier lors d'une demande.
+## 02. Architecture / Conception : diagrammes UML)
+### 02.A. Vue d'ensemble sur le logiciel. Elle inclut les relations à l'environnement et les principes à utiliser dans la conception et la réalisation des composants logiciels.
+## 03. Technique
+### 03.A. Documentation du code, algorithmes, interfaces, et interfaces de programmation (API).
+## 04. Utilisateur
+### 04.A. Manuels pour les utilisateurs, administrateurs systèmes et personnel de support.
+## 05. Marketing
+### 05.A. Instructions sur le produit et garantie promotionnelle.
+
+# XIX. L’architecture des ordinateurs (Taxonomie de Flynn)
+## 01. Single Instruction on Single Data
 ![Prompt> commande arguments](./img/SISD.png)
-### Multiple Instructions on Single Data
+## 02. Multiple Instructions on Single Data
 ![Prompt> commande arguments](./img/MISD.png)
-### Single Instruction on Multiple Data
+## 03. Single Instruction on Multiple Data
 ![Prompt> commande arguments](./img/SIMD.png)
-### Multiple Instructions on Multiple Data 
+## 04. Multiple Instructions on Multiple Data 
 ![Prompt> commande arguments](./img/MIMD.png)
-## 19. Single-Thread vs Multi-Thread programming
+
+# XX. Single-Thread vs Multi-Thread programming
 ![Prompt> commande arguments](./img/threads.jpg)
-## 20. Synchronous vs Asynchronous programming 
+
+# XXI. Synchronous vs Asynchronous programming 
 ![Prompt> commande arguments](./img/synchronous-vs-asynchronous.png)
-## 21. DevOps
-### Git & Git CLI (#1 GitHub, #2 Gitlab, #3 Bitbucket, #4 Gitbucket)
+
+# XXII 21. DevOps
+## 01. Git & Git CLI (#1 GitHub, #2 Gitlab, #3 Bitbucket, #4 Gitbucket)
 ![Prompt> commande arguments](./img/git.gif)
-### Semantic versioning
+## 02.  Semantic versioning
 ![Prompt> commande arguments](./img/versioning.png)
-### Linux
-#### Redhat
-#### Ubuntu
+## 03. Linux
+### 03.A. Redhat
+### 03.B. Ubuntu
 ![Prompt> commande arguments](./img/linux.jpg)
-#### Les scripts bash
+### 03.C. Les scripts bash
 ![Prompt> commande arguments](./img/linux-bin-bash.png)
-### Protocole SSH (Secure SHell)
+## 04. Protocole SSH (Secure SHell)
 ![Prompt> commande arguments](./img/ssh.jpg)
-### Les containers
+## 05. Les containers
 ![Prompt> commande arguments](./img/container.png)
-#### CI / CD : Continuous Integrations / Countinuous Deployment
-#### Les tests automatisé : Selenium
-#### Logiciels de virtualisation : VirtualBox, VMWare
-### Les outils :
-#### Ansible
-#### Jenkins
-#### Vagrant : environnements de développement virtuel
-#### Splunk
+## 06. CI / CD : Continuous Integrations / Countinuous Deployment
+## 07. Les tests automatisé : Selenium
+## 08. Logiciels de virtualisation : VirtualBox, VMWare
+## 09. Autres outils devops :
+### 09.A. Ansible
+### 09.B. Jenkins
+### 09.C. Vagrant : environnements de développement virtuel
+### 09.D.Splunk
+
 ## 21. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
 ### Types de données :
