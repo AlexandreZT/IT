@@ -26,7 +26,8 @@
 ### 01.D. différent de
 ### 01.E. supérieur ou égal à
 ### 01.F. inférieur ou égal à
-## 02. Les opérateurs AND, OR, NOT
+## 02. Les opérateurs logiques
+![Prompt> commande arguments](./img/logic_operators_table.gif)
 ## 03. Les boucles : while / do…while (repeat… until) & for.
 ## 04. Les conditions : if…else & switch.
 ## 05. Contrôle de boucles : repeat, break, next, continue, pass & txtProgressBar.
