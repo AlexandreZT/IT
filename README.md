@@ -195,8 +195,18 @@
 # XII - Base de données 
 ## 01. RDBMS / SGBDR :
 ![Prompt> commande arguments](./img/RDBMS.jpg)
-### 01.A. Propriétaire : #1 Oracle, #2 Microsoft Server #3 MySQL
-### 01.B. Libre : #1 PostegreSQL #2 MariaDB, #3 SQLite
+### 01.A. Propriétaire : 
+|Popularity|Name|
+|----------|----|
+|#1|Oracle|
+|#2|Micrsoft Server|
+|#3|MySQL|
+### 01.B. Libre : 
+|Popularity|Name|
+|----------|----|
+|#1|PostegreSQL|
+|#2|MariaDB|
+|#3|SQLite|
 ## 02. OLTP (Online Transactional Processing) / OLAP (Online analytical processing)
 ![Prompt> commande arguments](./img/OLTP-vs-OLAP.png)
 ## 03. SQL
