@@ -20,7 +20,7 @@
 
 # III - Structures conditionnelles
 ##  01. Les opérateurs relationnels (outils de comparaison)
-|Symbole|Signification|
+|Opérateur|Signification|
 |-------|-------------|
 |>|supérieur à|
 |<|inférieur à|
