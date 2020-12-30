@@ -1,6 +1,6 @@
 # I - Environnement de développement
-## 01. Environnement virtuel (pipenv, etc.)
-## 02. IDE or Text Editor ? (VSC, Vim, emacs, nano, Notepad++, outils Jetbrains, repl.it, etc.)
+## 01. IDE or Text Editor ? (VSC, Vim, emacs, nano, Notepad++, outils Jetbrains, repl.it, etc.)
+## 02. Environnement virtuel (virtualenv (python), RVM (ruby), etc.)
 ## 03. Notebook interface: Jupyter, Colaboratory, etc.
 ## 04. Package manager : anaconda (data science), npm (node), pip (python), etc.
 ## 05. Raccourcis de productivité
