@@ -34,10 +34,10 @@
 ## 02. Les opérateurs logiques
 |Opérateur|Opérator|Signification|
 |---------|--------|-------------|
-|non|not|test si l'expression ne vaut pas la valeur indiqué|
-|et|and|test si deux expressions sont vraies|
-|ou  inclusif|or|test si au moins une expression est vraie|
-|ou exclusif|Xor|test si seulement une expression est vraie|
+|NON|NOT|L'opérateur "non" permet d'évaluer une expression à vrai si le test est faux|
+|ET|AND|L'opérateur "et" permet d'évaluer une expression à vrai si chacun des tests sont vrais|
+|OUI|OR|L'opérateur "ou Inclusif" permet d'évaluter une expression à vrai si au moins un test est vrai|
+|OUX|XOR|L'opérateur "ou eXclusif" permet d'évaluer une expression à vrai si seulement un test est vrai|
 
 ## 03. Les boucles : while / do…while (repeat… until) & for.
 ## 04. Les conditions : if…else & switch.
