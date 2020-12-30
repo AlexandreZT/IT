@@ -32,7 +32,7 @@
 |≠|différent de|
 
 ## 02. Les opérateurs logiques
-|Opérateur|Opérator|Signification|
+|Opérateur|Operator|Signification|
 |---------|--------|-------------|
 |NON|NOT|L'opérateur "non" permet d'évaluer une expression à vrai si le test est faux|
 |ET|AND|L'opérateur "et" permet d'évaluer une expression à vrai si chacun des tests sont vrais|
