@@ -99,9 +99,11 @@
 # XI - Développement web
 ## 01. La standardisation W3C, ECMAScript, RFC, etc.
 ## 02. CMS (Content Management System) : 
-### 02.A. #1 WordPress
-### 02.B. #2 Drupal
-### 02.C. #3 Shopify
+|Popularity|Name|
+|----------|----|
+|#1|WordPress|
+|#2|Drupal|
+|#3|Shopify|
 ## 03. Le marketing digital
 ![Prompt> commande arguments](./img/marketing.jpg)
 ## 04.	Front-end technologies :
