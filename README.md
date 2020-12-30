@@ -463,8 +463,8 @@
 ## 14. Bruteforce attack (attaque de la force brute) : Cherche à cracker un mot de passe, en testant toutes les combinaisons possible.
 ## 15. Dictionary attack (attaque par dictionnaire) : Cherche à cracker un mot de passe à  partir d'un dictionnaire, souvent grâce à un répertoire de mot de passe fréquent utilisé dans le monde, généralement issue d'une récupération des mots de passe sur des sites piraté. 
 ## 16. Hybrid attack (attaque combiné) : Attaque combinant l'attaque de la brute à celle de l'attaque par dictionnaire
-## 16. Injection SQL :
-## 17. MITM (Man in the middle attack) ou HDM (Attaque de l'homme du milieu:)
+## 16. Injection SQL : Résultant d'une faille de conception, l'attaque permet d'envoyer des requêtes dans un système afin de le saboter et/ou de dérober des informations.
+## 17. MITM (Man in the middle attack) ou HDM (Attaque de l'homme du milieu) : L'objectif de cette attaque est d'intercepter les communications entre deux hôtes.
 ## 18. Backdoor (Porte dérobée) :
 ## 19. DDoS attack (Distributed Denial-of-Service attack) : Attaque ayant pour objectif de rendre impossible l'accès à un service. Par exemple en envoyant un nombre de requêtes tel que le réseau est inondé, le rendant hors d'usage.
 ## 20. Phishing : Imitation d'un site internet de confiance de manière à trompé sa victime, ainsi il pensera être en lieu sûr et pourrait saisir ses identifiants qui seront transmit à l'attaquant.
