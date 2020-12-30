@@ -164,31 +164,33 @@
 ![Prompt> commande arguments](./img/mvt-architecture.jpg)
 ### 05.C. Web services (deux grandes familles) :
 ![Prompt> commande arguments](./img/SOAP-vs-REST.PNG)
-#### 05.C.a. Simple Object Access Protocol
-#### 05.C.b. Extensible Markup Language
-#### 05.C.c. REpresentational State Transfer
-#### 05.C.d. JavaScript Object Notation
-#### 05.C.e. Communication client/serveur 
-### 05.D. La méthode AJAX (Asynchronous JavaScript And XML)
+|Acronym|Meaning|
+|-------|-------|
+|SOAP|Simple Object Access Protocol|
+|XML|eXtensible Markup Language|
+|REST|REpresentational State Transfer|
+|JSON|JavaScript Object Notation|
+### 05.D. Communication client/serveur 
+### 05.D.a. La méthode AJAX (Asynchronous JavaScript And XML)
 ![Prompt> commande arguments](./img/ajax.png)
-### 05.E. Les protocoles internet :
+### 05.D.b. Les protocoles internet :
 ![Prompt> commande arguments](./img/protocoles.png)
-### 05.F. HTTP request
+### 05.D.c. HTTP request
 ![Prompt> commande arguments](./img/http-request.png)
-### 05.G. HTTP methods
+### 05.D.d. HTTP methods
 ![Prompt> commande arguments](./img/http-methods.png)
-### 05.H. HTTP status code
+### 05.D.e. HTTP status code
 ![Prompt> commande arguments](./img/http-status-codes.jpeg)
-### 05.I. HTTPS
+### 05.D.f. HTTPS
 ![Prompt> commande arguments](./img/https.png)
-### 05.J. HTTP/1 vs HTTP/2
+### 05.D.g. HTTP/1 vs HTTP/2
 ![Prompt> commande arguments](./img/http1-vs-http2.jpg)
-### 05.K. Le modèle OSI et le modèle TCP/IP
+### 05.D.h. Le modèle OSI et le modèle TCP/IP
 ![Prompt> commande arguments](./img/modele-osi-vs-tcp.png)
-### 05.L.  Duplex (canal de communication)
+### 05.D.i.  Duplex (canal de communication)
 ![Prompt> commande arguments](./img/duplex.jpg)
-#### 05.L.a. Les Websockets sont une spécification full-duplex du protocole HTTP.
-##### 05.L.a. - Utilisé pour le développement de messagerie instantanée.
+#### 05.D.i. - Les Websockets sont une spécification full-duplex du protocole HTTP.
+##### 05.D.i. • Utilisé pour le développement de messagerie instantanée.
 
 # XII - Base de données 
 ## 01. RDBMS / SGBDR :
