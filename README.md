@@ -59,12 +59,14 @@
 ### 02.B. Multi Line Comment
 ### 02.C. Documentation Comment
 ## 03. Convention de nommage (classe, méthode, fonctions, constante, variable, module, package, etc.)
-### 03.A. Pascal Case : FirstName
-### 03.B. Camel Case : firstName
-### 03.C. Screaming Case : FIRSTNAME
-### 03.D. Snake Case : first_name
-### 03.E. Kebab case : first-name
-### 03.F. Hungarian Notation : strFirstName
+|Convention Name|Example|
+|---------------|-------|
+|Pascal Case|FirstName|
+|Camel Case|firstName|
+|Screaming Case|FIRSTNAME|
+|Snake Case|first_name|
+|Kebab case|first-name|
+|Hungarian Notation|strFirstName|
 
 # IX - Les langages interprétés vs compilés + Input/Output
 ## 01. La compilation
