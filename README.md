@@ -44,6 +44,16 @@
 ## 05. Contrôle de boucles : repeat, break, next, continue, pass & txtProgressBar.
 
 # IV - Les principaux paradigmes de programmation
+|Paradigm|Description|
+|--------|-----------|
+|Imperative|Programs as statements that directly change computed state|
+|Sturtured|A style of imperative programming with more logical program structure|
+|Procedural|Derived from structured programming, based on the concept of modular programming|
+|Functional|Treats computation as the evaluation of mathematical functions avoiding state and mutable data|
+|Event-driven|Control flow is determined mainly by events, such as mouse clicks or interrupts including timer|
+|Object-oriented|Treats datafields as objects manipulated through predefined methods only|
+|Declarative|Defines program logic, but not detailed control flow|
+|Automata-based progrmaming|Treats programs as a model of a finite state machine or any other formal automata|
 ![Prompt> commande arguments](./img/paradigmes.png)
 
 # V - Fonctions, procédures et arguments
