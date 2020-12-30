@@ -412,7 +412,8 @@
 ### 03.C. Xamarin & C#
 ### 03.D. HTML5 & Apache Cordova
 
-# XXV - ERP VS CRM
+# XXV - Core EIMS (Enterprise Information Management Systems) Software
+![Prompt> commande arguments](./img/CRM-SCM-ERP.jpg)
 
 # XXVI - Législation
 ## 01. Propriété intellectuel et droit internet
