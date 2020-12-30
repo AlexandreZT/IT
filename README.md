@@ -35,7 +35,7 @@
 |Opérateur|Opérator|Signification|
 |---------|--------|-------------|
 |non|not|test si l'expression ne vaut pas la valeur indiqué|
-|et|and|test si deux expressions sont vrai|
+|et|and|test si deux expressions sont vraies|
 |ou  inclusif|or|test si au moins une expression est vraie|
 |ou exclusif|Xor|test si seulement une expression est vraie|
 
