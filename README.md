@@ -463,7 +463,7 @@
 |Nom|Définition|
 |---|----------|
 |Bruteforce attack|Cherche à cracker un mot de passe, en testant toutes les combinaisons possible.
-|Dictionary attack|Cherche à cracker un mot de passe à  partir d'un dictionnaire, souvent grâce à un répertoire de mot de passe fréquent utilisé dans le monde, généralement issue d'une récupération des mots de passe sur des sites piraté. 
+|Dictionary attack|Cherche à cracker un mot de passe à  partir d'un dictionnaire, souvent grâce à un répertoire de mot de passe fréquemment utilisé dans le monde, généralement conçu à partir de fuites de données. 
 |Hybrid attack|Attaque combinant l'attaque de la brute à celle de l'attaque par dictionnaire
 |Rainbow table attack|Consite à trouver un mot de passe à partir de son empreinte numérique (issue d'une fonction de hashage|
 |Phishing|Imitation d'un site internet de confiance de manière à trompé sa victime, ainsi il pensera être en lieu sûr et pourrait saisir ses identifiants qui seront transmit à l'attaquant.
