@@ -10,13 +10,15 @@
 ## 01. La table ASCII
 ## 02. Les caractères d'échappement
 ## 03. Les opérateurs arithmétiques :
-### 03.A. Addition / incrémentation / concaténation
-### 03.B. Soustraction (Substration) / décrémantion
-### 03.C. Multiplication
-### 03.D. Puissance (Exponentiation)
-### 03.E. Division
-### 03.F. Division entière (Floor division)
-### 03.G. Modulo (modulus)
+|Opérateur|Signification|Meaning|
+|---------|-------------|-------|
+|a+b|Addition|Addition|
+|a-b|Soustraction|Substraction|
+|a.b|Multiplication|Multiplication|
+|a^b|Puissance|Exponentiation|
+|a/b|Division|Division|
+|⌊a/b⌋|Division entière|Floor Division|
+|a%b|Modulo|Modulus|
 
 # III - Structures conditionnelles
 ##  01. Les opérateurs relationnels (outils de comparaison)
