@@ -1,7 +1,7 @@
 # I - Environnement de développement
 ## 01. Environnement virtuel (pipenv, etc.)
 ## 02. IDE or Text Editor ? (VSC, Vim, Notepad++, outils Jetbrains, etc.)
-## 03. Cloud plateform: Jupyter, Collab, etc.
+## 03. Cloud plateform: Jupyter, Colab, etc.
 ## 04. Package manager : anaconda (data science), npm (node), pip (python), etc.
 ## 05. Raccourcis de productivité
 
