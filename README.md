@@ -55,7 +55,7 @@
 ### 03.E. Kebab case : first-name
 ### 03.F. Hungarian Notation : strFirstName
 
-## IX - Les langages interprétés vs compilés + Input/Output
+# IX - Les langages interprétés vs compilés + Input/Output
 ## 01. La compilation
 ![Prompt> commande arguments](./img/compilation.png)
 ## 02. L'interprétation
