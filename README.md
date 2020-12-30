@@ -115,25 +115,52 @@
 ### 04.C.c. Les fonctions à flèches depuis l’ES6.
 ### 04.C.d. L’asynchronisme avec les promesses (promise, resolve, reject)
 ## 04.D. Framework JS : 
-### 04.D.a. #1 React
-### 04.D.b. #2 Angular
-### 04.D.c. #3 Vue.js
-## 04.E. Framework CSS : #1 Bootstrap, #2 Semantic UI
+|Popularity|Name|
+|----------|----|
+|#1|React|
+|#2|Angular|
+|#3|Vue|
+## 04.E. Framework CSS : 
+|Popularity|Name|
+|----------|----|
+|#1|Bootstrap|
+|#2|Semantic UI|
 ## 04.F.	Créer une maquette (tous les écrans d’une app) et les coder
-### 04.F.a. #1 Adobe XD (Windows et Mac)
-### 04.F.b. #2 Sketch (Mac) 
+|Popularity|Name|
+|----------|----|
+|#1|Adobe XD (Windows et Mac)|
+|#2|Sketch (Mac) |
 ## 04.G. SPA (Single Page Application) vs MPA (Multi Page Application)
 ![Prompt> commande arguments](./img/spa-and-mpa.jpg)
 ## 05. Back-end technologies :  
 ![Prompt> commande arguments](./img/web-backend.png)
 ### 05.A. Server framework :
-#### 05.A.a. Node : #1 Express.js (Jest, Mocha, Jasmine, Karma, selenium, etc)
-#### 05.A.b. Python : #1 Django et #2 Flask (unittest, selenium, etc)
-#### 05.A.c. PHP #1 Laravel et #2 Symfony (testunit, etc)
-#### 05.A.d. Java : #1 Spring (JUnit, selenium, etc)
-#### 05.A.e. C# : #1 ASP.NET (MSTest, selenium, etc)
-### 05.B. Les architecture web : MVC vs MVT (django)
+#### 05.A.a. Node : (Jest, Mocha, Jasmine, Karma, selenium, etc)
+|Popularity|Name|
+|----------|----|
+|#1|Express|
+#### 05.A.b. Python : (unittest, selenium, etc)
+|Popularity|Name|
+|----------|----|
+|#1|Django|
+|#2|Flask|
+#### 05.A.c. PHP : (testunit, etc)
+|Popularity|Name|
+|----------|----|
+|#1|Laravel|
+|#2|Symfony|
+#### 05.A.d. Java : (JUnit, selenium, etc)
+|Popularity|Name|
+|----------|----|
+|#1|Spring|
+#### 05.A.e. C# : (MSTest, selenium, etc)
+|Popularity|Name|
+|----------|----|
+|#1|ASP.NET|
+### 05.B. Les architecture web : 
+#### 05.B.a MVC 
 ![Prompt> commande arguments](./img/mvc-architecture.jpg)
+#### 05.B.b MVT (django)
 ![Prompt> commande arguments](./img/mvt-architecture.jpg)
 ### 05.C. Web services (deux grandes familles) :
 ![Prompt> commande arguments](./img/SOAP-vs-REST.PNG)
