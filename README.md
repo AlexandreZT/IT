@@ -487,7 +487,7 @@
 |WBS (Work Breakdown Structure)|
 |PERT (Program Evaluation and Review Technique)|
 |CPM (Critical Path Method)|
-|Gaant chart|
+|Gantt chart|
 ## 03. Lois de productivité :
 ![Prompt> commande arguments](./img/11-lois-de-productivité.jpg)
 ## 04. La matrice d'Eisenhower :
