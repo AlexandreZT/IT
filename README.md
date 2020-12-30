@@ -466,7 +466,7 @@
 ## 16. Injection SQL :
 ## 17. MITM (Man in the middle attack) ou HDM (Attaque de l'homme du milieu:)
 ## 18. Backdoor (Porte dérobée) :
-## 19. DDoS attack (Distributed Denial-of-Service attack) :
+## 19. DDoS attack (Distributed Denial-of-Service attack) : Attaque ayant pour objectif de rendre impossible l'accès à un service. Par exemple en envoyant un nombre de requêtes tel que le réseau est inondé, le rendant hors d'usage.
 ## 20. Phishing : Imitation d'un site internet de confiance de manière à trompé sa victime, ainsi il pensera être en lieu sûr et pourrait saisir ses identifiants qui seront transmit à l'attaquant.
 
 ## XXVIII - Management
