@@ -481,11 +481,13 @@
 ### 01.B. ITIL
 ### 01.C. Lean management
 ### 01.D. Six Sigma
-## 02. Outils
-### 02.A. Gaant chart
-### 02.B. WBS (Work Breakdown Structure)
-### 02.C. PERT (program evaluation and review technique)
-### 03.D. CPM (Critical Path Method)
+## 02. Techniques
+|Name|
+|----|
+|WBS (Work Breakdown Structure)|
+|PERT (Program Evaluation and Review Technique)|
+|CPM (Critical Path Method)|
+|Gaant chart|
 ## 03. Lois de productivité :
 ![Prompt> commande arguments](./img/11-lois-de-productivité.jpg)
 ## 04. La matrice d'Eisenhower :
