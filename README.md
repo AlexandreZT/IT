@@ -446,26 +446,28 @@
 ## 01. Surface web vs Deep web vs Dark web
 ![Prompt> commande arguments](./img/surface-web-vs-deep-web-vs-dark-web.png)
 ### 01.A. Tails / Tor / .onion
-## 02. VPN
-## 03. firewall
-## 04. windows defender
-## 05. antivirus
-## 06. metasploit
-## 07. Le chiffrement (ou cryptage) vs le encrypter (ou encryption)  / 
-## 08. Crypter / Cryptage vs Encrypter / Déencrypter
-## 09. Chiffrer / Déchiffrer
-## 10. Les algorithmes de hashage
+## 02. VPN (Virtual Private Network) :
+## 03. Firewall (pare-feu) :
+## 04. Windows defender :
+## 05. Antivirus :
+## 06. Metasploit :
+## 07. Le chiffrement (ou cryptage) vs le encrypter (ou encryption) :
+## 08. Crypter / Cryptage vs Encrypter / Déencrypter :
+## 09. Chiffrer / Déchiffrer :
+## 10. Les algorithmes de hashage :
 ![Prompt> commande arguments](./img/hash-algorithms.jpg)
 ## 11. Permutations and combination formulae
 ![Prompt> commande arguments](./img/permutations-combination-formulae.jpg)
 ## 12. Les logiciels malveillants ou malwares : Les chevaux de Troie, les ransomwares, etc.
 ## 13. Les sniffer (analyseur réseau) : Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
-## 14. Bruteforce / attaque par dictionnaire : Cherche à cracker un mot de passe, en testant toutes les combinaisons possible
-## 15. Injection SQL
-## 16. Man in the middle
-## 17. Backdoor
-## 18. DDoS attack (Distributed Denial-of-Service attack)
-## 19. Phishing
+## 14. Bruteforce attack (attaque de la force brute) : Cherche à cracker un mot de passe, en testant toutes les combinaisons possible.
+## 15. Dictionary attack (attaque par dictionnaire) : Cherche à cracker un mot de passe à  partir d'un dictionnaire, souvent grâce à un répertoire de mot de passe fréquent utilisé dans le monde, généralement issue d'une récupération des mots de passe sur des sites piraté. 
+## 16. Hybrid attack (attaque combiné) : Attaque combinant l'attaque de la brute à celle de l'attaque par dictionnaire
+## 16. Injection SQL :
+## 17. MITM (Man in the middle attack) ou HDM (Attaque de l'homme du milieu:)
+## 18. Backdoor (Porte dérobée) :
+## 19. DDoS attack (Distributed Denial-of-Service attack) :
+## 20. Phishing : Imitation d'un site internet de confiance de manière à trompé sa victime, ainsi il pensera être en lieu sûr et pourrait saisir ses identifiants qui seront transmit à l'attaquant.
 
 ## XXVIII - Management
 ## 01. Méthodologie
