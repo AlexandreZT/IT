@@ -32,7 +32,13 @@
 |≠|différent de|
 
 ## 02. Les opérateurs logiques
-![Prompt> commande arguments](./img/logic_operators_table.gif)
+|Opérateur|Opérator|Signification|
+|---------|--------|-------------|
+|non|not|test si l'expression ne vaut pas la valeur indiqué|
+|et|and|test si deux expressions sont vrai|
+|ou  inclusif|or|test si au moins une expression est vraie|
+|ou exclusif|Xor|test si seulement une expression est vraie|
+
 ## 03. Les boucles : while / do…while (repeat… until) & for.
 ## 04. Les conditions : if…else & switch.
 ## 05. Contrôle de boucles : repeat, break, next, continue, pass & txtProgressBar.
