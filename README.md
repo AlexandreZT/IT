@@ -459,13 +459,13 @@
 ![Prompt> commande arguments](./img/hash-algorithms.jpg)
 ## 11. Permutations and combination formulae
 ![Prompt> commande arguments](./img/permutations-combination-formulae.jpg)
-## 12. Password cracking attaque:
+## 12. Password cracking techniques :
 |Nom|Définition|
 |---|----------|
 |Bruteforce attack|Cherche à cracker un mot de passe, en testant toutes les combinaisons possible.
 |Dictionary attack|Cherche à cracker un mot de passe à  partir d'un dictionnaire, souvent grâce à un répertoire de mot de passe fréquent utilisé dans le monde, généralement issue d'une récupération des mots de passe sur des sites piraté. 
 |Hybrid attack|Attaque combinant l'attaque de la brute à celle de l'attaque par dictionnaire
-|Rainbow table attack||
+|Rainbow table attack|Consite à trouver un mot de passe à partir de son empreinte numérique (issue d'une fonction de hashage|
 |Phishing|Imitation d'un site internet de confiance de manière à trompé sa victime, ainsi il pensera être en lieu sûr et pourrait saisir ses identifiants qui seront transmit à l'attaquant.
 ## 13. Les logiciels malveillants ou malwares : Les chevaux de Troie, les ransomwares, etc.
 ## 14. Les sniffer (analyseur réseau) : Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
