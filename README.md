@@ -11,7 +11,7 @@
 ## 02. Les caractères d'échappement
 ## 03. Les opérateurs arithmétiques :
 ### 03.A. Addition / incrémentation / concaténation
-### 03.B. Soustraction (Substration) / décrémantion / déconcaténation
+### 03.B. Soustraction (Substration) / décrémantion
 ### 03.C. Multiplication
 ### 03.D. Puissance (Exponentiation)
 ### 03.E. Division
