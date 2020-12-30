@@ -46,6 +46,7 @@
 # IV - Les principaux paradigmes de programmation
 |Paradigm|Description|
 |--------|-----------|
+|Machine Code|Represents the instructions (the contents of program memory) as a sequence of numbers, and assembly language where the machine instructions are represented by mnemonics and memory addresses can be given symbolic labels|
 |Imperative|Programs as statements that directly change computed state|
 |Sturtured|A style of imperative programming with more logical program structure|
 |Procedural|Derived from structured programming, based on the concept of modular programming|
@@ -54,6 +55,7 @@
 |Object-oriented|Treats datafields as objects manipulated through predefined methods only|
 |Declarative|Defines program logic, but not detailed control flow|
 |Automata-based progrmaming|Treats programs as a model of a finite state machine or any other formal automata|
+
 ![Prompt> commande arguments](./img/paradigmes.png)
 
 # V - Fonctions, procédures et arguments
