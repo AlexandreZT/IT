@@ -21,17 +21,14 @@
 # III - Structures conditionnelles
 ##  01. Les opérateurs relationnels (outils de comparaison)
 |Symbole|Signification|
-|<|supérieur à|
-|>|-------------|
-|≤|-------------|
-|≤|-------------|
-|=|-------------|
-|≠|-------------|
-### 01.B. inférieur à
-### 01.C. égal à
-### 01.D. différent de
-### 01.E. supérieur ou égal à
-### 01.F. inférieur ou égal à
+|-------|-------------|
+|>|supérieur à|
+|<|inférieur à|
+|≤|supérieur ou égal à|
+|≤|inférieur ou égal à|
+|=|égal à|
+|≠|différent de|
+
 ## 02. Les opérateurs logiques
 ![Prompt> commande arguments](./img/logic_operators_table.gif)
 ## 03. Les boucles : while / do…while (repeat… until) & for.
