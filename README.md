@@ -127,19 +127,19 @@
 ### 04.B.b. Les sélecteur CSS : 
 |Selector|Syntax|Description|
 |--------|------|-----------|
-|element selector|element {}|Sélectionne un type d'élément|
-|star selector|* {}|Sélectionne tous les elements|
-|id selectors|#idName {}|Sélectionne un id unique|
+|element selector|element {}|Sélection d'un type d'élément|
+|star selector|* {}|Sélection de tous les elements|
+|id selectors|#idName {}|Sélection d'un id unique|
 |class selectors|.className {}|Sélection sur une classe|
 |attribute selector|element[attribute=value] {}|Sélection à partir d'un attribut|
-|Descendant selector|element element {}||
-|Child selector|element>element {}||
-|Adjacent selector|element+element {}||
-|Sibling selectors|element~element {}||
+|Descendant selector|element element {}|Sélection des elements contenu dans l'element ancestre|
+|Child selector|element1>element2 {}|Sélection des elements d'un element parent|
+|Adjacent sibling selector|element+element {}|Sélection de l'élement qui est précédé d'un autre élément|
+|General sibling selectors|element~element {}|Sélection de tous les éléments précédé d'un autre élément|
 |Pseudo-classes|selector:pseudo-class {}||
 |Pseudo-element|selector::pseudo-element {}||
-|nth-of-type|li:nth-of-type(2) {}||
-|nth-child|ul:nth-child(2) {}||
+|nth-of-type|element:nth-of-type(n) {}||
+|nth-child|element:nth-child(n) {}||
 ## 04.C. JavaScript :
 ### 04.C.a. Dynamisation des pages
 ### 04.C.b. Manipulation du DOM avec la librairie jQuery
