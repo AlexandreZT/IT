@@ -126,32 +126,32 @@
 ### 04.B.a. Les balises fondamentales HTML :
 |Tag name|Definition|
 |--------|----------|
-|&lt;!-- -->|Comment|
-|html|
-|head||
+|html|root container|
+|head|metadata container|
 |title|Title|
-|meta||
-|body||
+|meta|metadata|
+|body|document container|
 |h1-h6|Heading|
 |img|Image|
 |p|Paragraph|
+|span|Text container|
 |div|Division|
 |ul|Unordered List|
 |ol|Ordered List|
 |li|List Item|
-|table|Table|
+|table|Table container|
 |tr|table row|
 |th|table header|
-|nav||
-|article||
+|nav|Navigation container|
+|article|Article container|
 |aside||
-|header||
-|footer||
+|header|Header container|
+|footer|Footer container|
 |em|Emphasis|
-|b|Bold|
-|strong|Strong|
-|i|italic|
-|small||
+|b|Bold text|
+|strong|Strong text|
+|i|italic text|
+|small|Small text|
 |u|underline|
 |strike|Deleted text|
 |a|anchor|
@@ -159,7 +159,6 @@
 |center||
 |font||
 |hr|Horizontal Rule|
-|span||
 ### 04.B.b. Les sélecteur CSS : 
 |Selector|Syntax|Description|
 |--------|------|-----------|
