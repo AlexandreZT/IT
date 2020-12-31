@@ -130,36 +130,36 @@
 |html>|
 |head||
 |title|Title|
-|<meta>||
-|<body>||
-|<h1>-<h6>|Heading|
-|<img>|Image|
-|<p>|Paragraph|
-|<div>|Division|
-|<ul>|Unordered List|
-|<ol>|Ordered List|
-|<li>|List Item|
-|<table>|Table|
-|<tr>|table row|
-|<th>|table header|
-|<nav>||
-|<article>||
-|<aside>||
-|<header>||
-|<footer>||
-|<em>|Emphasis|
-|<b>|Bold|
-|<strong>|Strong|
-|<i>|italic|
-|<small>||
-|<u>|underline|
-|<strike>|Deleted text|
-|<a>|anchor|
-|<marquee>||
-|<center>||
-|<font>||
-|<hr>|Horizontal Rule|
-|<span>||
+|meta||
+|body||
+|h1-h6|Heading|
+|img|Image|
+|p|Paragraph|
+|div|Division|
+|ul|Unordered List|
+|ol|Ordered List|
+|li|List Item|
+|table|Table|
+|tr|table row|
+|th|table header|
+|nav||
+|article||
+|aside||
+|header||
+|footer||
+|em|Emphasis|
+|b|Bold|
+|strong|Strong|
+|i|italic|
+|small||
+|u|underline|
+|strike|Deleted text|
+|a|anchor|
+|marquee||
+|center||
+|font||
+|hr|Horizontal Rule|
+|span||
 ### 04.B.b. Les sélecteur CSS : 
 |Selector|Syntax|Description|
 |--------|------|-----------|
