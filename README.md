@@ -144,7 +144,6 @@
 |th|table header|
 |nav|Navigation container|
 |article|Article container|
-|aside||
 |header|Header container|
 |footer|Footer container|
 |em|Emphasis|
@@ -155,9 +154,6 @@
 |u|underline|
 |strike|Deleted text|
 |a|anchor|
-|marquee||
-|center||
-|font||
 |hr|Horizontal Rule|
 ### 04.B.b. Les sélecteur CSS : 
 |Selector|Syntax|Description|
