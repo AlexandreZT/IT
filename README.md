@@ -515,7 +515,7 @@
 ## 04. La matrice d'Eisenhower :
 ![Prompt> commande arguments](./img/La-matrice-d'Eisenhower.jfif)
 
-# XXVX - Business operations
+# XXIX - Business operations
 ## Strategic planning
 ## Enterprise performance management (EPM)
 ## Business intelligence and analytics (BA and BA)
