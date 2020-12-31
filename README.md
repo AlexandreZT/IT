@@ -122,7 +122,24 @@
 ![Prompt> commande arguments](./img/web-frontend.png)
 ## 04.A. Qu’est-ce que le DOM (Document Object Model)
 ![Prompt> commande arguments](./img/DOM.png)
-## 04.B. L’essentiel des tags HTML et des styles CSS
+## 04.B. HTML et CSS
+### 04.B.a. Les balises fondamentales HTML :
+### 04.B.b. Les sélecteur CSS : 
+|Selector|Syntax|Description|
+|--------|------|-----------|
+|element selector|element {}|Sélectionne un type d'élément|
+|star selector|* {}|Sélectionne tous les elements|
+|id selectors|#idName {}|Sélectionne un id unique|
+|class selectors|.className {}|Sélection sur une classe|
+|attribute selector|element[attribute=value] {}|Sélection à partir d'un attribut|
+|Descendant selector|element element {}||
+|Child selector|element>element {}||
+|Adjacent selector|element+element {}||
+|Sibling selectors|element~element {}||
+|Pseudo-classes|selector:pseudo-class {}||
+|Pseudo-element|selector::pseudo-element {}||
+|nth-of-type|li:nth-of-type(2) {}||
+|nth-child|ul:nth-child(2) {}||
 ## 04.C. JavaScript :
 ### 04.C.a. Dynamisation des pages
 ### 04.C.b. Manipulation du DOM avec la librairie jQuery
