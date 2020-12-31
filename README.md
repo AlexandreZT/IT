@@ -388,25 +388,31 @@
 ### 09.C. Apprentissage : supervisé, non/semi-supervisé, par renforcement et incrémental
 ### 09.D. Algorithmes (k-moyennes / proches voisins, etc.)
 ## 10. Python libraries
-### 10.A. Machine Learning : scikit-learn, keras, orange
-### 10.B. Web Scraping : beautifulsoup, selenium, scrapy
-### 10.C. Deep Learning : tensorflow, pytorch
-### 10.D. Data Visualization : matplotlib, seaborn
-### 10.E. Data Analysis : pandas, numpy, scipy
-### 10.F. Image Processing : pillow, opencv
-### 10.G. Audio processing : Librosa
-### 10.H. Natural Language processing : NLP, NLTK
-### 10.I. Statistique : statsmodels
+|Domain|Librairies|
+|------|---------|
+|Machine Learning|scikit-learn, keras, orange|
+|Web Scraping|beautifulsoup, selenium, scrapy|
+|Deep Learning|tensorflow, pytorch|
+|Data Visualization|matplotlib, seaborn|
+|Data Analysis|pandas, numpy, scipy|
+|Image Processing|pillow, opencv|
+|Audio processing|Librosa|
+|Natural Language processing|NLP, NLTK|
+|Statistique|statsmodels|
 ## 11. JavaScript libraries
-### 11.A. Web Scraping : puppeteer.js
-### 11.B. Data Visualization : D3.js, DC.js
-### 11.C. Machine learning : ml.js
-## 12. R package
-### 12.A. Data Visualization : ggplot2, plotly, esquisse
-### 12.B. Machine Learning : mlr3
-### 12.C. Data analysis : dplyr
-### 12.D. Web Scraping : RCrawler
-### 12.E. Mics : Tedyverse, bioconductor, shiny
+|Domain|Librairies|
+|------|---------|
+|Data Visualization|D3, DC, processing|
+|Machine Learning|ml|
+|Web Scraping|puppeteer|
+## 12. R packages
+|Domain|Packages|
+|------|---------|
+|Data Visualization|ggplot2, plotly, esquisse|
+|Machine Learning|mlr3|
+|Data analysis|dplyr|
+|Web Scraping|RCrawler|
+|Mics|Tedyverse, bioconductor, shiny|
 ## 13. Hadoop
 ## 14. Apache Spark
 ## 15. Tools : Tableau, PowerBI, Qlickview, Excel, etc.
