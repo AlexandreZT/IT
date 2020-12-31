@@ -126,10 +126,10 @@
 ### 04.B.a. Les balises fondamentales HTML :
 |Tag name|Definition|
 |--------|----------|
-|<!-- -->|Comment|
-|<html>||
-|<head>||
-|<title>|Title|
+|!-- --|Comment|
+|html>|
+|head||
+|title|Title|
 |<meta>||
 |<body>||
 |<h1>-<h6>|Heading|
