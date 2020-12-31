@@ -516,9 +516,9 @@
 ![Prompt> commande arguments](./img/La-matrice-d'Eisenhower.jfif)
 
 # XXIX - Business operations
-## Strategic planning
-## Enterprise performance management (EPM)
-## Business intelligence and analytics (BA and BA)
-## Key performance indicators (KPI)
-## Management reporting
-## Strategic decision making
+## 01. Strategic planning
+## 02. Enterprise performance management (EPM)
+## 03. Business intelligence and analytics (BA and BA)
+## 04. Key performance indicators (KPI)
+## 05. Management reporting
+## 06. Strategic decision making
