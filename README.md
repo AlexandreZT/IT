@@ -398,7 +398,7 @@
 |Image Processing|pillow, opencv|
 |Audio processing|Librosa|
 |Natural Language processing|NLP, NLTK|
-|Statistique|statsmodels|
+|Statistics|statsmodels|
 ## 11. JavaScript libraries
 |Domain|Librairies|
 |------|---------|
@@ -493,7 +493,7 @@
 ## 18. DDoS attack (Distributed Denial-of-Service attack) : Attaque ayant pour objectif de rendre impossible l'accès à un service. Par exemple en envoyant un nombre de requêtes tel que le réseau est inondé, le rendant hors d'usage.
 ## 19. Le drive-by download ou téléchargement furtif : Cette attaque infecte les ordinateurs des personnes présentant des failles de sécurités, à partir d'un virus présent sur une page d’un site internet non sécurisé.
 
-## XXVIII - Management
+# XXVIII - Management
 ## 01. Méthodologie
 ### 01.A. Agil
 #### 01.A.a. Les 12 principes fondamentaux
@@ -514,3 +514,11 @@
 ![Prompt> commande arguments](./img/11-lois-de-productivité.jpg)
 ## 04. La matrice d'Eisenhower :
 ![Prompt> commande arguments](./img/La-matrice-d'Eisenhower.jfif)
+
+# XXVX - Business operations
+## Strategic planning
+## Enterprise performance management (EPM)
+## Business intelligence and analytics (BA and BA)
+## Key performance indicators (KPI)
+## Management reporting
+## Strategic decision making
