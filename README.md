@@ -56,7 +56,7 @@
 |Declarative|Defines program logic, but not detailed control flow|
 |Automata-based progrmaming|Treats programs as a model of a finite state machine or any other formal automata|
 
-![Prompt> commande arguments](./img/paradigmes.png)
+## L'évolution des paradigmes de programmations rendent d'avantage le code : modulaire, réutilisable et évolutif
 
 # V - Fonctions, procédures et arguments
 
