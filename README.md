@@ -125,6 +125,7 @@
 ## 04.B. HTML et CSS
 ### 04.B.a. Les balises fondamentales HTML :
 |Tag name|Definition|
+|--------|----------|
 |<!-- -->|Comment|
 |<html>||
 |<head>||
