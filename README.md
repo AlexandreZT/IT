@@ -8,6 +8,7 @@
 # II - Les types de données
 ![Prompt> commande arguments](./img/data_types.png)
 ## 01. La table ASCII
+![Prompt> commande arguments](./img/ascii-table.png)
 ## 02. Les caractères d'échappement
 ![Prompt> commande arguments](./img/escape-sequence.png)
 ## 03. Les opérateurs arithmétiques :
