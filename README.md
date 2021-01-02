@@ -174,8 +174,8 @@
 |General sibling selectors|element1~element2 {}|Sélection de tous les élément précédé d'un autre élément|
 |Pseudo-classes|selector:pseudo-class {}|Sélection à partir de l'état de l'élément|
 |Pseudo-element|selector::pseudo-element {}|Sélection d'un fragment d'un élément|
-|nth-of-type|element:nth-of-type(n) {}||
-|nth-child|element:nth-child(n) {}||
+|nth-of-type|element:nth-of-type(n) {}|Sélection des éléments d'un type donné, en fonction de leur position au sein d'un groupe de frères et sœurs|
+|nth-child|element:nth-child(n) {}|Sélection des éléments basés sur leur position dans un groupe de frères et sœurs|
 ## 04.C. JavaScript :
 ### 04.C.a. Dynamisation des pages
 ### 04.C.b. Manipulation du DOM avec la librairie jQuery
