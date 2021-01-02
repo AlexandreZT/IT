@@ -346,7 +346,7 @@
 ## 05. Marketing
 ### 05.A. Instructions sur le produit et garantie promotionnelle.
 
-# XIX. L’architecture des ordinateurs (Taxonomie de Flynn)
+# XIX - L’architecture des ordinateurs (Taxonomie de Flynn)
 ## 01. Single Instruction on Single Data
 ![Prompt> commande arguments](./img/SISD.png)
 ## 02. Multiple Instructions on Single Data
@@ -356,13 +356,16 @@
 ## 04. Multiple Instructions on Multiple Data 
 ![Prompt> commande arguments](./img/MIMD.png)
 
-# XX. Single-Thread vs Multi-Thread programming
+# XX - Single-Thread vs Multi-Thread programming
 ![Prompt> commande arguments](./img/threads.jpg)
 
-# XXI. Synchronous vs Asynchronous programming 
+# XXI - Synchronous vs Asynchronous programming 
 ![Prompt> commande arguments](./img/synchronous-vs-asynchronous.png)
 
-# XXII 21. DevOps
+# XXII - Sequential vs Concurrent vs Parallel programming
+![Prompt> commande arguments](./img/sequencial-concurrent-parallel.png)
+
+# XXIII - DevOps
 ## 01. Git & Git CLI (#1 GitHub, #2 Gitlab, #3 Bitbucket, #4 Gitbucket)
 ![Prompt> commande arguments](./img/git.gif)
 ## 02.  Semantic versioning
@@ -386,7 +389,7 @@
 ### 09.C. Vagrant : environnements de développement virtuel
 ### 09.D.Splunk
 
-# XXIII. Data Science
+# XXIV. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
 ## 01. Types de données :
 ### 01.A. Numérique :
@@ -470,7 +473,7 @@
 ## 14. Apache Spark
 ## 15. Tools : Tableau, PowerBI, Qlickview, Excel, etc.
 
-# XXIV - Mobile development
+# XXV - Mobile development
 ## 01. Android
 ### 01.A. Plateforme : Android Studio
 ### 01.B. Langage : Java, Kotlin
@@ -483,10 +486,10 @@
 ### 03.C. Xamarin & C#
 ### 03.D. HTML5 & Apache Cordova
 
-# XXV - Core EIMS (Enterprise Information Management Systems) Software
+# XXVI - Core EIMS (Enterprise Information Management Systems) Software
 ![Prompt> commande arguments](./img/CRM-SCM-ERP.jpg)
 
-# XXVI - Législation
+# XXVII - Législation
 ## 01. Propriété intellectuel et droit internet
 ## 02. Le RGPD (Règlement Général sur la Protection des Données) ou GDPR (General Data Protection Regulation
 ## 03. Hadopi (Haute Autorité pour la Diffusion des Œuvres et la Protection des droits sur Internet)
@@ -514,7 +517,7 @@
 #### 05.E.c. Licence Apache : Licence de logiciel libre et open source. Elle est écrite par l'Apache Software Foundation. 
 #### 05.E.d. Licence BSD (Berkeley Software Distribution License) : Elle permet de réutiliser tout ou une partie du logiciel sans restriction, qu'il soit intégré dans un logiciel libre ou propriétaire.
 
-# XXVII - Sécurité informatique / technique de piratage
+# XXVIII - Sécurité informatique / technique de piratage
 ## 01. Surface web vs Deep web vs Dark web
 ![Prompt> commande arguments](./img/surface-web-vs-deep-web-vs-dark-web.png)
 ### 01.A. Tails / Tor / .onion
@@ -546,7 +549,7 @@
 ## 18. DDoS attack (Distributed Denial-of-Service attack) : Attaque ayant pour objectif de rendre impossible l'accès à un service. Par exemple en envoyant un nombre de requêtes tel que le réseau est inondé, le rendant hors d'usage.
 ## 19. Le drive-by download ou téléchargement furtif : Cette attaque infecte les ordinateurs des personnes présentant des failles de sécurités, à partir d'un virus présent sur une page d’un site internet non sécurisé.
 
-# XXVIII - Management
+# XXIX - Management
 ## 01. Méthodologie
 ### 01.A. Agil
 #### 01.A.a. Les 12 principes fondamentaux
@@ -568,7 +571,7 @@
 ## 04. La matrice d'Eisenhower :
 ![Prompt> commande arguments](./img/La-matrice-d'Eisenhower.jfif)
 
-# XXIX - Business operations
+# XXX - Business operations
 ## 01. Strategic planning
 |Step|Strategic Planning Process|
 |----|--------------------------|
