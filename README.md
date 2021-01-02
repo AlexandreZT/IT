@@ -172,8 +172,8 @@
 |Child selector|element1>element2 {}|Sélection des éléments d'un élément parent|
 |Adjacent sibling selector|element1+element2 {}|Sélection de l'élément qui est précédé d'un autre élément|
 |General sibling selectors|element1~element2 {}|Sélection de tous les élément précédé d'un autre élément|
-|Pseudo-classes|selector:pseudo-class {}||
-|Pseudo-element|selector::pseudo-element {}||
+|Pseudo-classes|selector:pseudo-class {}|Sélection à partir de l'état de l'élément|
+|Pseudo-element|selector::pseudo-element {}|Sélection d'un fragment d'un élément|
 |nth-of-type|element:nth-of-type(n) {}||
 |nth-child|element:nth-child(n) {}||
 ## 04.C. JavaScript :
