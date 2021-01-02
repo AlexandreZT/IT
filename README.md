@@ -581,14 +581,14 @@
 |Consolidation of the results|
 |Performance analysis|
 ## 03. Business intelligence and analytics (BA and BA)
-||Business Intelligence	Business Analytics|
-||----------------------------------------|
-|Definition|Analyses past and present to drive current business needs	Analyses past data to drive current business.|
-|Usage|To run current business operations	To change business operations and improve productivity.|
-|Ease of Operations|For current business operations	For future business operations.|
-|Tools|SAP Business Objects, QlikSense, TIBCO, PowerBI etc.,	Word processing, Google docs, MS Visio, MS Office Tools etc.|
-|Applications|Apply to all large-scale companies to run current business operations	Applies to companies where future growth and productivity as its goal.|
-|Field|Comes under Business Analytics	Contains Data warehouse, information management etc.|
+|Comparison|Business Intelligence|Business Analytics|
+|----------|----------------------------------------|
+|Definition|Analyses past and present to drive current business needs|Analyses past data to drive current business.|
+|Usage|To run current business operations|To change business operations and improve productivity.|
+|Ease of Operations|For current business operations|For future business operations.|
+|Tools|SAP Business Objects, QlikSense, TIBCO, PowerBI etc.,|Word processing, Google docs, MS Visio, MS Office Tools etc.|
+|Applications|Apply to all large-scale companies to run current business operations|Applies to companies where future growth and productivity as its goal.|
+|Field|Comes under Business Analytics|Contains Data warehouse, information management etc.|
 ## 04. Key performance indicators (KPI)
 ### Measure your performance against key business objectives
 ## 05. Management reporting
