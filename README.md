@@ -565,8 +565,25 @@
 
 # XXIX - Business operations
 ## 01. Strategic planning
+|Step|Strategic Planning Process|
+|----|--------------------------|
+|1|Determine your strategic position.|
+|2|Prioritize your objectives.|
+|3|Develop a strategic plan.|
+|4|Execute and manage your plan.|
+|5|Review and revise the plan.|
 ## 02. Enterprise performance management (EPM)
 ## 03. Business intelligence and analytics (BA and BA)
 ## 04. Key performance indicators (KPI)
+### Measure your performance against key business objectives
 ## 05. Management reporting
+|Objectives|
+|----------|
+|Measure and monitor specific performance metrics and KPIs.|
+|Understand your status, health and what you should do next.|
+|Determine benchmarks.|
+|Ensure better communication between stakeholders, colleagues, and executives.|
+|Guide your next steps.|
+|Force you to have an action plan.|
+|Monitor performance frequently.|
 ## 06. Strategic decision making
