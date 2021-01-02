@@ -582,7 +582,7 @@
 |Performance analysis|
 ## 03. Business intelligence and analytics (BA and BA)
 |Comparison|Business Intelligence|Business Analytics|
-|----------|----------------------------------------|
+|----------|---------------------|------------------|
 |Definition|Analyses past and present to drive current business needs|Analyses past data to drive current business.|
 |Usage|To run current business operations|To change business operations and improve productivity.|
 |Ease of Operations|For current business operations|For future business operations.|
