@@ -603,4 +603,4 @@
 |Force you to have an action plan.|
 |Monitor performance frequently.|
 ## 06. Strategic decision making
-### Strategic decision-making is the process of charting a course based on long-term goals and a long-term vision. By clarifying the company's overall objectives, the ability to align short-term plans with this deeper and broader mission - giving operations clarity and consistency - is a key factor in the success of the company's business.
+### Strategic decision-making is the process of charting a course based on long-term goals and a long-term vision. By clarifying the company's overall objectives, the ability to align short-term plans with this deeper and broader mission, giving operations clarity and consistency.
