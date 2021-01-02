@@ -9,6 +9,7 @@
 ![Prompt> commande arguments](./img/data_types.png)
 ## 01. La table ASCII
 ## 02. Les caractères d'échappement
+![Prompt> commande arguments](./img/escape-sequence.png)
 ## 03. Les opérateurs arithmétiques :
 |Opérateur|Signification|Meaning|
 |---------|-------------|-------|
