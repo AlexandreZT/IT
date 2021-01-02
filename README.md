@@ -371,9 +371,19 @@
 ## 02.  Semantic versioning
 ![Prompt> commande arguments](./img/versioning.png)
 ## 03. Linux
-### 03.A. Redhat
-### 03.B. Ubuntu
-![Prompt> commande arguments](./img/linux.jpg)
+![Prompt> commande arguments](./img/linux.png)
+|Popularity|Distribution|
+|----------|------------|
+||Debian|
+||Ubuntu|
+||CentOS|
+||Redhat|
+
+
+
+||Arch Linux|
+||Fedora|
+
 ### 03.C. Les scripts bash
 ![Prompt> commande arguments](./img/linux-bin-bash.png)
 ## 04. Protocole SSH (Secure SHell)
@@ -520,12 +530,16 @@
 # XXVIII - Sécurité informatique / technique de piratage
 ## 01. Surface web vs Deep web vs Dark web
 ![Prompt> commande arguments](./img/surface-web-vs-deep-web-vs-dark-web.png)
-### 01.A. Tails / Tor / .onion
+### 01.A. Tails
+### 01.B. Tor
+### 01.C. onion sites
 ## 02. VPN (Virtual Private Network) :
 ## 03. Firewall (pare-feu) :
 ## 04. Windows defender :
 ## 05. Antivirus :
-## 06. Metasploit :
+## 06. Pen test :
+### 06.A. Kali linux
+### 06.B. Metasploit
 ## 07. Le chiffrement (ou cryptage) vs le encrypter (ou encryption) :
 ## 08. Crypter / Cryptage vs Encrypter / Déencrypter :
 ## 09. Chiffrer / Déchiffrer :
