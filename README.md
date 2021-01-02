@@ -573,6 +573,13 @@
 |4|Execute and manage your plan.|
 |5|Review and revise the plan.|
 ## 02. Enterprise performance management (EPM)
+### It describes methods and solutions that are required for enterprise management
+|Management processes|
+|--------------------|
+|Budgeting, planning, forecasting|
+|Modeling the value creation of a company|
+|Consolidation of the results|
+|Performance analysis|
 ## 03. Business intelligence and analytics (BA and BA)
 ## 04. Key performance indicators (KPI)
 ### Measure your performance against key business objectives
