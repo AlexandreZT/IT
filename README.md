@@ -132,6 +132,7 @@
 |head|metadata container|
 |title|Title|
 |meta|metadata|
+|link|link to external style sheet|
 |body|document container|
 |h1-h6|Heading|
 |img|Image|
@@ -148,7 +149,7 @@
 |article|Article container|
 |header|Header container|
 |footer|Footer container|
-|em|Emphasis|
+|em|Emphasis text|
 |b|Bold text|
 |strong|Strong text|
 |i|italic text|
@@ -157,6 +158,7 @@
 |strike|Deleted text|
 |a|anchor|
 |hr|Horizontal Rule|
+|script|execute or link to external script|
 ### 04.B.b. Les sélecteur CSS : 
 |Selector|Syntax|Description|
 |--------|------|-----------|
