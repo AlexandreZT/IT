@@ -577,6 +577,7 @@
 ## 04. Key performance indicators (KPI)
 ### Measure your performance against key business objectives
 ## 05. Management reporting
+### Reports that management uses to run the organization, make business decisions, and monitor progress. 
 |Objectives|
 |----------|
 |Measure and monitor specific performance metrics and KPIs.|
