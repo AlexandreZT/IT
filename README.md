@@ -163,14 +163,15 @@
 |Selector|Syntax|Description|
 |--------|------|-----------|
 |element selector|element {}|Sélection d'un type d'élément|
-|star selector|* {}|Sélection de tous les elements|
-|id selectors|#idName {}|Sélection d'un id unique|
+|multiple element selector|element1, element2 {}|Sélection de plusieurs élements|
+|star selector|* {}|Sélection de tous les éléments|
+|id selectors|#idName {}|Sélection sur un id unique|
 |class selectors|.className {}|Sélection sur une classe|
-|attribute selector|element[attribute=value] {}|Sélection à partir d'un attribut|
-|Descendant selector|element element {}|Sélection des elements contenu dans l'element ancestre|
-|Child selector|element1>element2 {}|Sélection des elements d'un element parent|
-|Adjacent sibling selector|element+element {}|Sélection de l'élement qui est précédé d'un autre élément|
-|General sibling selectors|element~element {}|Sélection de tous les éléments précédé d'un autre élément|
+|attribute selector|element[attribute=value] {}|Sélection à partir de son attribut|
+|Descendant selector|element1 element2 {}|Sélection des éléments contenu dans l'élément ancestre|
+|Child selector|element1>element2 {}|Sélection des éléments d'un élément parent|
+|Adjacent sibling selector|element1+element2 {}|Sélection de l'élément qui est précédé d'un autre élément|
+|General sibling selectors|element1~element2 {}|Sélection de tous les élément précédé d'un autre élément|
 |Pseudo-classes|selector:pseudo-class {}||
 |Pseudo-element|selector::pseudo-element {}||
 |nth-of-type|element:nth-of-type(n) {}||
