@@ -372,17 +372,14 @@
 ![Prompt> commande arguments](./img/versioning.png)
 ## 03. Linux
 ![Prompt> commande arguments](./img/linux.png)
-|Popularity|Distribution|
-|----------|------------|
-||Debian|
-||Ubuntu|
-||CentOS|
-||Redhat|
-
-
-
-||Arch Linux|
-||Fedora|
+|Distribution|
+|------------|
+|Debian|
+|Ubuntu|
+|CentOS|
+|Redhat|
+|Arch Linux|
+|Fedora|
 
 ### 03.C. Les scripts bash
 ![Prompt> commande arguments](./img/linux-bin-bash.png)
