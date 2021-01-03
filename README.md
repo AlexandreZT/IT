@@ -160,6 +160,7 @@
 |hr|Horizontal Rule|
 |script|execute or link to external script|
 ### 04.B.b. Les attributs HTML
+## 04.C. CSS
 ### 04.C.a. Les sélecteur CSS : 
 |Selector|Syntax|Description|
 |--------|------|-----------|
@@ -197,28 +198,28 @@
 |SASS (Syntactically Awesome Style Sheet)|
 |LESS (Leaner Style Sheets)|
 |Stylus|
+### 04.Cd Framework CSS : 
+|Popularity|Name|
+|----------|----|
+|#1|Bootstrap|
+|#2|Semantic UI|
 ## 04.D. JavaScript :
 ### 04.D.a. Dynamisation des pages
 ### 04.D.b. Manipulation du DOM avec la librairie jQuery
 ### 04.D.c. Les fonctions à flèches depuis l’ES6.
 ### 04.D.d. L’asynchronisme avec les promesses (promise, resolve, reject)
-## 04.E. Framework JS : 
+### 04.D.e. Framework JS : 
 |Popularity|Name|
 |----------|----|
 |#1|React|
 |#2|Angular|
 |#3|Vue|
-## 04.F. Framework CSS : 
-|Popularity|Name|
-|----------|----|
-|#1|Bootstrap|
-|#2|Semantic UI|
-## 04.G.	Créer une maquette (tous les écrans d’une app) et les coder
+## 04.E.	Créer une maquette (tous les écrans d’une app) et les coder
 |Popularity|Name|
 |----------|----|
 |#1|Adobe XD (Windows et Mac)|
 |#2|Sketch (Mac) |
-## 04.H. SPA (Single Page Application) vs MPA (Multi Page Application)
+## 04.F. SPA (Single Page Application) vs MPA (Multi Page Application)
 ![Prompt> commande arguments](./img/spa-and-mpa.jpg)
 ## 05. Back-end technologies :  
 ![Prompt> commande arguments](./img/web-backend.png)
