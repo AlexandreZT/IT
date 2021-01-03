@@ -124,7 +124,7 @@
 ![Prompt> commande arguments](./img/web-frontend.png)
 ## 04.A. Qu’est-ce que le DOM (Document Object Model)
 ![Prompt> commande arguments](./img/DOM.png)
-## 04.B. HTML et CSS
+## 04.B. HTML
 ### 04.B.a. Les balises fondamentales HTML :
 |Tag name|Definition|
 |--------|----------|
@@ -159,7 +159,8 @@
 |a|anchor|
 |hr|Horizontal Rule|
 |script|execute or link to external script|
-### 04.B.b. Les sélecteur CSS : 
+### 04.B.b. Les attributs HTML
+### 04.C.a. Les sélecteur CSS : 
 |Selector|Syntax|Description|
 |--------|------|-----------|
 |element selector|element {}|Sélection d'un type d'élément|
@@ -176,28 +177,48 @@
 |Pseudo-element|selector::pseudo-element {}|Sélection d'un fragment d'un élément|
 |nth-of-type|element:nth-of-type(n) {}|Sélection des éléments d'un type donné, en fonction de leur position au sein d'un groupe de frères et sœurs|
 |nth-child|element:nth-child(n) {}|Sélection des éléments basés sur leur position dans un groupe de frères et sœurs|
-## 04.C. JavaScript :
-### 04.C.a. Dynamisation des pages
-### 04.C.b. Manipulation du DOM avec la librairie jQuery
-### 04.C.c. Les fonctions à flèches depuis l’ES6.
-### 04.C.d. L’asynchronisme avec les promesses (promise, resolve, reject)
-## 04.D. Framework JS : 
+### 04.C.b. Les propriétés CSS
+|Propriété CSS|
+|-------------|
+|marging|
+|padding|
+|border|
+|font|
+|color|
+|background|
+|display|
+|width|
+|height|
+|float|
+|...|
+### 04.C.c. Les préprocesseur CSS
+|Préprocesseur CSS|
+|-----------------|
+|SASS (Syntactically Awesome Style Sheet)|
+|LESS (Leaner Style Sheets)|
+|Stylus|
+## 04.D. JavaScript :
+### 04.D.a. Dynamisation des pages
+### 04.D.b. Manipulation du DOM avec la librairie jQuery
+### 04.D.c. Les fonctions à flèches depuis l’ES6.
+### 04.D.d. L’asynchronisme avec les promesses (promise, resolve, reject)
+## 04.E. Framework JS : 
 |Popularity|Name|
 |----------|----|
 |#1|React|
 |#2|Angular|
 |#3|Vue|
-## 04.E. Framework CSS : 
+## 04.F. Framework CSS : 
 |Popularity|Name|
 |----------|----|
 |#1|Bootstrap|
 |#2|Semantic UI|
-## 04.F.	Créer une maquette (tous les écrans d’une app) et les coder
+## 04.G.	Créer une maquette (tous les écrans d’une app) et les coder
 |Popularity|Name|
 |----------|----|
 |#1|Adobe XD (Windows et Mac)|
 |#2|Sketch (Mac) |
-## 04.G. SPA (Single Page Application) vs MPA (Multi Page Application)
+## 04.H. SPA (Single Page Application) vs MPA (Multi Page Application)
 ![Prompt> commande arguments](./img/spa-and-mpa.jpg)
 ## 05. Back-end technologies :  
 ![Prompt> commande arguments](./img/web-backend.png)
