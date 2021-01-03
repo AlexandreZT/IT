@@ -645,3 +645,13 @@
 |Monitor performance frequently.|
 ## 06. Strategic decision making
 ### Strategic decision-making is the process of charting a course based on long-term goals and a long-term vision. By clarifying the company's overall objectives, the ability to align short-term plans with this deeper and broader mission, giving operations clarity and consistency.
+
+# XXXI - Game development
+## Game engine
+|Game engine|Language|
+|-----------|--------|
+|Unreal Engine|C++|
+|Unity|C#|
+
+# XXXII - Low-code vs No-code
+![Prompt> commande arguments](./img/low-code_vs_no-code.png)
