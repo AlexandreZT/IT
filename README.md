@@ -99,6 +99,9 @@
 ## 04. Abstraction 
 ![Prompt> commande arguments](./img/abstraction.png)
 ## 05. Encapsulation (public, private & protected)
+### Publique : Accessible partout.
+### Protégé : Accessible uniquement au sein de la classe elle-même et par les classes filles et parent.
+### Privé : Accessible uniquement par le groupe qui définit le membre.
 ![Prompt> commande arguments](./img/encapsulation.png)
 ## 06. Coupling vs Cohesion
 ![Prompt> commande arguments](./img/cohesion-vs-coupling.jpg)
