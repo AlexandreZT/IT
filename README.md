@@ -90,6 +90,7 @@
 
 # X - OOPs (Object-Oriented Programming System)
 ## 01. Class, factory and objects
+### Avec une classe abstraite, on ne peux pas créer d'objet.
 ![Prompt> commande arguments](./img/class-factory-objects.png)
 ### 02. Inheritance
 ![Prompt> commande arguments](./img/inheritance.png)
@@ -104,10 +105,10 @@
 ## 07. Association
 ![Prompt> commande arguments](./img/association.png)
 ## 08. Aggregation (uses)
-L'objet esclave est indépendant et ne sera pas supprimé si l'objet maître est supprimé.
+### L'objet esclave est indépendant et ne sera pas supprimé si l'objet maître est supprimé.
 ![Prompt> commande arguments](./img/aggregation.png)
 ## 09. Composition (owns)
-L'objet esclave est supprimé si l'objet maître est supprimé.
+### L'objet esclave est supprimé si l'objet maître est supprimé.
 ![Prompt> commande arguments](./img/composition.png)
 ## 10. Generalization and specialization
 ![Prompt> commande arguments](./img/generalization-and-specialization.png)
