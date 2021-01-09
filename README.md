@@ -590,10 +590,12 @@
 
 # XXIX - Management
 ## 01. Méthodologie
-### 01.A. Agil
-#### 01.A.a. Les 12 principes fondamentaux
-![Prompt> commande arguments](./img/12-agile-principles.png)
-#### 01.A.b. Frameworks
+### 01.A. Agile
+#### 01.A.a. Le manifeste agile
+![Prompt> commande arguments](./img/agile-manifesto.png)
+#### 01.A.b. Les principes du manifeste agile
+![Prompt> commande arguments](./img/agile-principles.jpg)
+#### 01.A.c. Les frameworks agile
 ![Prompt> commande arguments](./img/agile-frameworks.png)
 ### 01.B. ITIL
 ### 01.C. Lean management
