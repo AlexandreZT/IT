@@ -595,7 +595,7 @@
 ![Prompt> commande arguments](./img/agile-manifesto.png)
 #### 01.A.b. Les principes du manifeste agile
 ![Prompt> commande arguments](./img/agile-principles.jpg)
-#### 01.A.c. Les frameworks agile - cf : stateofagile.com 14th report (2020)
+#### 01.A.c. Les frameworks agile - cf : stateofagile.com 14th annual report (2020)
 ![Prompt> commande arguments](./img/14th_stateofagile.com.PNG)
 ### 01.B. ITIL
 ### 01.C. Lean management vs Six Sigma management vs Lean Six Sigma management
