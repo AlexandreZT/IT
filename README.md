@@ -598,8 +598,12 @@
 #### 01.A.c. Les frameworks agile
 ![Prompt> commande arguments](./img/agile-frameworks.png)
 ### 01.B. ITIL
-### 01.C. Lean management
-### 01.D. Six Sigma
+### 01.C. Lean management vs Six Sigma management vs Lean Six Sigma management
+|Management method|Principe|
+|-----------------|--------|
+|Lean|Focus on eliminating waste|
+|Six Sigma|Focus on eliminating variation|
+|Lean Six Sigma|Combinaison of both|
 ## 02. Techniques
 |Name|
 |----|
