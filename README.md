@@ -465,6 +465,7 @@
 ## 07. La blockchain
 ## 08. Time series
 ## 09. Machine learning :
+![Prompt> commande arguments](./img/machine_learning_steps.png)
 ### 09.A. Augmenter la précision du modèle :
 #### 09.A.a. Ajouter des données
 #### 09.A.b. Traiter les valeurs manquantes ou aberrantes
