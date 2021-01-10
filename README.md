@@ -456,6 +456,7 @@
 ### 04.D. Binomial distribution (loi binomiale) : La loi binomiale modélise la fréquence du nombre de succès obtenus lors de la répétition de plusieurs expériences aléatoires identiques et indépendantes.
 ### 04.E. Poisson distribution (loi de poisson) : La loi de poisson est une loi qui décrit le comportement du nombre d'évènement se produisant dans un intervalle de temps fixé.
 ## 05. Big Data
+![Prompt> commande arguments](./img/big-data_3v.png)
 ## 06. Intelligence artificielle
 ### 06.A. Les réseaux neuronaux
 ![Prompt> commande arguments](./img/neural-network.png)
