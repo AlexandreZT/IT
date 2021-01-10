@@ -458,6 +458,7 @@
 ## 05. Big Data
 ![Prompt> commande arguments](./img/big-data_3v.png)
 ## 06. Intelligence artificielle
+![Prompt> commande arguments](./img/ai-vs-machine-learning-vs-deep-learning.png)
 ### 06.A. Les réseaux neuronaux
 ![Prompt> commande arguments](./img/neural-network.png)
 #### 06.A.a. Weight : importance de l'influence de l'input sur l'output
