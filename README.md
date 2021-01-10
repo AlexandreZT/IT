@@ -478,8 +478,8 @@
 #### 09.A.i. La cross-validation : laisser un échantillion sans entrainement pour le tester plus tard après l'entrainement
 ### 09.B. Classification VS Régression
 ### 09.C. Apprentissage : supervisé, non/semi-supervisé, par renforcement et incrémental
-![Prompt> commande arguments](./img/reinforcement_deep learning.png)
-![Prompt> commande arguments](./img/supervised_unsupervised learning.png)
+![Prompt> commande arguments](./img/reinforcement_deep-learning.png)
+![Prompt> commande arguments](./img/supervised_unsupervised-learning.png)
 ### 09.D. Algorithmes (k-moyennes / proches voisins, etc.)
 ## 10. Python libraries
 |Domain|Librairies|
