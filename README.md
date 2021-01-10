@@ -465,6 +465,7 @@
 #### 06.A.b. Biais : constante d'ajustement
 #### 06.A.c. Softmax activation
 ## 07. La blockchain
+### Une blockchain est un registre, une grande base de données qui a la particularité d’être partagée simultanément avec tous ses utilisateurs, tous également détenteurs de ce registre, et qui ont également tous la capacité d’y inscrire des données, selon des règles spécifiques fixées par un protocole informatique très bien sécurisé grâce à la cryptographie.
 ## 08. Time series
 ## 09. Machine learning :
 ![Prompt> commande arguments](./img/machine_learning_steps.png)
