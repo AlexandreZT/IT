@@ -2,7 +2,7 @@
 ## 01. IDE or Text Editor ? (VSC, Vim, emacs, nano, Notepad++, outils Jetbrains, repl.it, etc.)
 ## 02. Environnement virtuel (virtualenv (python), RVM (ruby), etc.)
 ## 03. Notebook interface: Jupyter, Colaboratory, etc.
-## 04. Package manager : anaconda (data science), npm (node), pip (python), etc.
+## 04. Package manager : conda (anaconda), npm (node), pip (python), etc.
 ## 05. Raccourcis de productivité
 
 # II - Les types de données
