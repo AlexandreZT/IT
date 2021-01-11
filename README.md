@@ -434,19 +434,28 @@
     <td colspan="4">Données qualitative (catégorielles)</td>
   </tr>
   <tr>
-    <td colspan="2">Données de ratio</td>
     <td colspan="2">Données d'intervalles</td>
+    <td colspan="2">Données de ratio</td>
     <td colspan="2">Données ordinales</td>
     <td colspan="2">Données nominales</td>
   </tr>
-    <td colspan="1">Données discrètes : Zéro identifiable. Peut prendre une seule valeur entière</td>
-    <td colspan="1"> Données continues : Zéro identifiable. Peut prendre une infinité de valeur</td>
-    <td colspan="1">Données discrètes : Zéro arbitraire. Peut prendre une seule valeur entière</td>
-    <td colspan="1"> Données continues : Zéro arbitraire. Peut prendre une infinité de valeur</td>
+  <tr>
+    <td colspan="1">Continues : Zéro arbitraire. Peut prendre une infinité de valeur</td>
+    <td colspan="1">Discrètes : Zéro arbitraire. Peut prendre une seule valeur entière</td>
+    <td colspan="1">Continues : Zéro identifiable. Peut prendre une infinité de valeur</td>
+    <td colspan="1">Discrètes : Zéro identifiable. Peut prendre une seule valeur entière</td>
     <td colspan="2">Peut être classé</td>
     <td colspan="2">Ne peut être mesuré ou comparé</td>
-  <tr>
   </tr>
+  <tr>
+    <td colspan="1">Exemple : Température</td>
+    <td colspan="1">Exemple : Date</td>
+    <td colspan="1">Exemple : Distance</td>
+    <td colspan="1">Exemple : Âge</td>
+    <td colspan="2">Exemple : Niveau de satisfaction</td>
+    <td colspan="2">Exemple : Couleurs</td>
+  </tr>
+  
 </table>
  
 ## 02. Mathématiques
