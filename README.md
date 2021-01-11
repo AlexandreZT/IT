@@ -430,16 +430,16 @@
 ## 01. Types de données :
 <table>
   <tr>
-    <td>Données quantitatives</td>
-    <td>Données qualitative</td>
+    <td colspan="2">Données quantitatives</td>
+    <td colspan="2">Données qualitative</td>
   </tr>
   <tr>
-    <td colspan="2">Données discrète</td>
-    <td colspan="2">Données continue</td>
+    <td Données discrètes</td>
+    <td>Données continues</td>
+    <td Données ordinales</td>
+    <td>Données nominales</td>
   </tr>
 </table>
-
-|Données discrète|Données continue|Données ordinal|Données nominal|
 
 ### 01.A. Données quantitatives (numérique) :
 #### 01.A.a. Données discrète : prendre une seule valeur entière
