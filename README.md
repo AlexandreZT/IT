@@ -430,23 +430,25 @@
 ## 01. Types de données :
 <table>
   <tr>
-    <td colspan="2">Données quantitatives</td>
-    <td colspan="2">Données qualitative</td>
+    <td colspan="4">Données quantitatives (numérique)</td>
+    <td colspan="4">Données qualitative (catégorielles)</td>
   </tr>
   <tr>
-    <td>Données discrètes</td>
-    <td>Données continues</td>
-    <td>Données ordinales</td>
-    <td>Données nominales</td>
+    <td colspan="2">Données de ratio</td>
+    <td colspan="2">Données d'intervalles</td>
+    <td colspan="2">Données ordinales</td>
+    <td colspan="2">Données nominales</td>
+  </tr>
+    <td colspan="1">Données discrètes : Zéro identifiable. Peut prendre une seule valeur entière</td>
+    <td colspan="1"> Données continues : Zéro identifiable. Peut prendre une infinité de valeur</td>
+    <td colspan="1">Données discrètes : Zéro arbitraire. Peut prendre une seule valeur entière</td>
+    <td colspan="1"> Données continues : Zéro arbitraire. Peut prendre une infinité de valeur</td>
+    <td colspan="2">Peut être classé</td>
+    <td colspan="2">Ne peut être mesuré ou comparé</td>
+  <tr>
   </tr>
 </table>
-
-### 01.A. Données quantitatives (numérique) :
-#### 01.A.a. Données discrète : prendre une seule valeur entière
-#### 01.A.b. Données continue : peut prendre une infinité de valeur
-### 01.B. Données qualitative (Catégorielles)
-### 01.B.a Données ordinal : Simillaire aux données catégorique, à la différence qu'on peut distinguer les valeurs prises, comme la note A est meilleur qu'une note B.
-### 01.B.b. Données nominal :  Ne peut-être mesuré, comme une couleur, un booléen, etc.
+ 
 ## 02. Mathématiques
 ### 02.A. Linear algebra (algèbre linéaire)
 #### 02.A.a. Matrix (matrice)
