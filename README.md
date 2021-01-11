@@ -428,7 +428,7 @@
 # XXIV. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
 ## 01. Types de données :
-|Données quantitatives|Données qualitative|
+|Données quantitatives|||Données qualitative|
 |----------------|----------------||--------------|---------------|
 |Données discrète|Données continue|Données ordinal|Données nominal|
 |A|B|C|D|
