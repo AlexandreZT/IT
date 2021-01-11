@@ -434,9 +434,9 @@
     <td colspan="2">Données qualitative</td>
   </tr>
   <tr>
-    <td Données discrètes</td>
+    <td>Données discrètes</td>
     <td>Données continues</td>
-    <td Données ordinales</td>
+    <td>Données ordinales</td>
     <td>Données nominales</td>
   </tr>
 </table>
