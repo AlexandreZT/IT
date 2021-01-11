@@ -434,16 +434,16 @@
     <td colspan="4">Données qualitative (catégorielles)</td>
   </tr>
   <tr>
-    <td colspan="2">Données d'intervalles</td>
-    <td colspan="2">Données de ratio</td>
+    <td colspan="2">Données d'intervalles (zéro arbitraire)</td>
+    <td colspan="2">Données de ratio (zéro identifiable)</td>
     <td colspan="2">Données ordinales</td>
     <td colspan="2">Données nominales</td>
   </tr>
   <tr>
-    <td colspan="1">Continues : Zéro arbitraire. Peut prendre une infinité de valeur</td>
-    <td colspan="1">Discrètes : Zéro arbitraire. Peut prendre une seule valeur entière</td>
-    <td colspan="1">Continues : Zéro identifiable. Peut prendre une infinité de valeur</td>
-    <td colspan="1">Discrètes : Zéro identifiable. Peut prendre une seule valeur entière</td>
+    <td colspan="1">Continues : Peut prendre une infinité de valeur</td>
+    <td colspan="1">Discrètes : Peut prendre une seule valeur entière</td>
+    <td colspan="1">Continues : Peut prendre une infinité de valeur</td>
+    <td colspan="1">Discrètes : Peut prendre une seule valeur entière</td>
     <td colspan="2">Peut être classé</td>
     <td colspan="2">Ne peut être mesuré ou comparé</td>
   </tr>
