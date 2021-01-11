@@ -428,11 +428,16 @@
 # XXIV. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
 ## 01. Types de données :
-### 01.A. Numérique :
-#### 01.A.a. discrète : prendre une seule valeur entière
-#### 01.A.b. continue : peut prendre une infinité de valeur
-### 01.B. Catégorique :  Ne peut-être mesuré, comme une couleur, un booléen, etc.
-### 01.C. Ordinal : Simillaire aux données catégorique, à la différence qu'on peut distinguer les valeurs prises, comme la note A est meilleur qu'une note B.
+|Données quantitatives|Données qualitative|
+|----------------|----------------||--------------|---------------|
+|Données discrète|Données continue|Données ordinal|Données nominal|
+|A|B|C|D|
+### 01.A. Données quantitatives (numérique) :
+#### 01.A.a. Données discrète : prendre une seule valeur entière
+#### 01.A.b. Données continue : peut prendre une infinité de valeur
+### 01.B. Données qualitative (Catégorielles)
+### 01.B.a Données ordinal : Simillaire aux données catégorique, à la différence qu'on peut distinguer les valeurs prises, comme la note A est meilleur qu'une note B.
+### 01.B.b. Données nominal :  Ne peut-être mesuré, comme une couleur, un booléen, etc.
 ## 02. Mathématiques
 ### 02.A. Linear algebra (algèbre linéaire)
 #### 02.A.a. Matrix (matrice)
