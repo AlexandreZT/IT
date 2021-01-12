@@ -358,11 +358,11 @@
 
 # XVII - Patterns (les patrons)
 ## 01. Designs pattern (patron de conception) :
-### Outil apporte des solutions aux problèmes communs de développement logiciel en rendant le code flexible, réutilisable et maintenable.
-## 01. Il existe 3 grand type de design pattern
-### 01.A. Creational « factory » : création
-### 01.B. Behavioral: comportemental
-### 01.C. Structural : structurante
+Outils apportant des solutions aux problèmes communs de développement logiciel en rendant le code flexible, réutilisable et maintenable.
+### Il existe 3 grand type de design pattern
+#### 01.A. Creational « factory » : création
+#### 01.B. Behavioral: comportemental
+#### 01.C. Structural : structurante
 ![Prompt> commande arguments](./img/design-patterns.jpg)
 ## 02. Architectural pattern (patron d'architecture) :
 
