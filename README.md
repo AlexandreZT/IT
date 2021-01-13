@@ -314,6 +314,8 @@
 ## 05. Cloud providers :
 ![Prompt> commande arguments](./img/cloud-provider.jpeg)
 ## 06. ORM (Object-Relational Mapping)
+## 07. What is CRUD  ?
+CRUD stand for (create, read, update, and delete, they are the four basic functions of persistent storage.
 
 # XIII - La mémoire : 
 ## 01. Allocation statique vs dynamique
