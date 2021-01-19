@@ -644,7 +644,13 @@ Outils apportant des solutions aux problèmes communs de développement logiciel
 ![Prompt> commande arguments](./img/agile-principles.jpg)
 #### 01.A.c. Les frameworks agile - cf : stateofagile.com 14th annual report (2020)
 ![Prompt> commande arguments](./img/14th_stateofagile.com.PNG)
-### 01.B. ITIL
+### 01.B. ITIL (Information Technology Infrastructure Library) :
+C'est un ensemble de pratiques détaillées pour la gestion des services informatiques (ITSM) qui se concentre sur l'alignement des services informatiques avec les besoins des entreprises.
+#### 01.B.a. Matrice des priorités
+![Prompt> commande arguments](./img/Impact_urgency.png)
+#### 01.B.b. Exemple de délais de résolution concernant la priorité des incidents
+![Prompt> commande arguments](./img/priority_time_to_resolve.png)
+
 ### 01.C. Lean management vs Six Sigma management vs Lean Six Sigma management
 |Management method|Principe|
 |-----------------|--------|
