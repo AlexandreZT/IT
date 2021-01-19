@@ -712,5 +712,9 @@ Outils apportant des solutions aux problèmes communs de développement logiciel
 |Unreal Engine|C++|
 |Unity|C#|
 ## 02. Sprintes : Ce sont des éléments graphiques d'un jeu vidéo pouvant se déplacer sur l'écran.
+![Prompt> commande arguments](./img/sprites.png)
+## 03. Ray casting : Il s'agit d'une technique de calcul d'images de synthèse 3D
+![Prompt> commande arguments](./img/ray_casting.gif)
+
 # XXXII - Low-code vs No-code
 ![Prompt> commande arguments](./img/low-code_vs_no-code.png)
