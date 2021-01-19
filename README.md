@@ -287,6 +287,7 @@
 ![Prompt> commande arguments](./img/duplex.jpg)
 #### 05.D.i. - Les Websockets sont une spécification full-duplex du protocole HTTP.
 ##### 05.D.i. • Utilisé pour le développement de messagerie instantanée.
+## 06. Payload (Charge utile) : la charge symbolise les données utiles transportées par un protocole.
 
 # XII - Base de données 
 ## 01. RDBMS / SGBDR :
@@ -334,7 +335,7 @@ CRUD stand for (create, read, update, and delete, they are the four basic functi
 ![Prompt> commande arguments](./img/pointers.jpg)
 ## 04. Espace mémoire et plage de données
 ![Prompt> commande arguments](./img/memory_space-data_range.jpeg)
-
+## 05. Leaks (fuite) : C'est une erreur lorsque la mémoire n'a pas été libérée
 
 # XIV - File management (read, write, append, create, etc.)
 ## 01. Les types de fichiers (TXT, CSV, JSON, PDF, etc.)
@@ -705,11 +706,11 @@ Outils apportant des solutions aux problèmes communs de développement logiciel
 ### Strategic decision-making is the process of charting a course based on long-term goals and a long-term vision. By clarifying the company's overall objectives, the ability to align short-term plans with this deeper and broader mission, giving operations clarity and consistency.
 
 # XXXI - Game development
-## Game engine
+## 01. Game engine
 |Game engine|Language|
 |-----------|--------|
 |Unreal Engine|C++|
 |Unity|C#|
-
+## 02. Sprintes : Ce sont des éléments graphiques d'un jeu vidéo pouvant se déplacer sur l'écran.
 # XXXII - Low-code vs No-code
 ![Prompt> commande arguments](./img/low-code_vs_no-code.png)
