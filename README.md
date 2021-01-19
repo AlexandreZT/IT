@@ -647,7 +647,7 @@ Outils apportant des solutions aux problèmes communs de développement logiciel
 ### 01.B. ITIL (Information Technology Infrastructure Library) :
 C'est un ensemble de pratiques détaillées pour la gestion des services informatiques (ITSM) qui se concentre sur l'alignement des services informatiques avec les besoins des entreprises.
 #### 01.B.a. Matrice des priorités
-![Prompt> commande arguments](./img/Impact_urgency.png)
+![Prompt> commande arguments](./img/impact_urgency.png)
 #### 01.B.b. Exemple de délais de résolution concernant la priorité des incidents
 ![Prompt> commande arguments](./img/priority_time_to_resolve.png)
 
