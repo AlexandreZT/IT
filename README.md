@@ -318,8 +318,11 @@
 CRUD stand for (create, read, update, and delete, they are the four basic functions of persistent storage.
 
 # XIII - La mémoire : 
+![Prompt> commande arguments](./img/memory.png)
 ## 01. Allocation statique vs dynamique
 ![Prompt> commande arguments](./img/memory-allocation.PNG)
+### 01.A. Allocation dynamique
+![Prompt> commande arguments](./img/Allocation_dynamique.png)
 ## 02. Stockage de la mémoire
 ### 02.A. Queue allocation (la file)
 ![Prompt> commande arguments](./img/queue-FIFO.jpg)
@@ -329,6 +332,9 @@ CRUD stand for (create, read, update, and delete, they are the four basic functi
 ![Prompt> commande arguments](./img/tas-HEAP.jpg)
 ## 03. Les pointeurs
 ![Prompt> commande arguments](./img/pointers.jpg)
+## 04. Espace mémoire et plage de données
+![Prompt> commande arguments](./img/memory_space-data_range.jpeg)
+
 
 # XIV - File management (read, write, append, create, etc.)
 ## 01. Les types de fichiers (TXT, CSV, JSON, PDF, etc.)
