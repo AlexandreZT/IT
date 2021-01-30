@@ -151,6 +151,7 @@
 |table|Table container|
 |tr|table row|
 |th|table header|
+|td|table data|
 |nav|Navigation container|
 |article|Article container|
 |header|Header container|
@@ -165,6 +166,11 @@
 |a|anchor|
 |hr|Horizontal Rule|
 |script|execute or link to external script|
+|form|Défini un formulaire|
+|label|Défini une étiquette|
+|input|Défini une saisie|
+|button|Défini un bouton|
+|...|...|
 ### 04.B.b. Les attributs HTML
 ## 04.C. CSS
 ### 04.C.a. Les sélecteur CSS : 
@@ -185,19 +191,25 @@
 |nth-of-type|element:nth-of-type(n) {}|Sélection des éléments d'un type donné, en fonction de leur position au sein d'un groupe de frères et sœurs|
 |nth-child|element:nth-child(n) {}|Sélection des éléments basés sur leur position dans un groupe de frères et sœurs|
 ### 04.C.b. Les propriétés CSS
-|Propriété CSS|
-|-------------|
-|marging|
-|padding|
-|border|
-|font|
-|color|
-|background|
-|display|
-|width|
-|height|
-|float|
-|...|
+|Propriété CSS|Description|Valeurs|
+|-------------|-----------|-------|
+|marging|Marge vers l'extérieur||
+|padding|Marge vers l'intérieur||
+|border|Créer un cadre visible||
+|font-family|Définir la police d'écriture||
+|font-size|Définir la taille de la police||
+|font-style|Définir le style de police|normal, italic, oblique|
+|font-weight|Défini l'épaisseur de la policenormal, bold, lighter, bolder|
+|color|Défini la couleur d'un élément|color, rgb(), rgba(), #xxx, #xxxxxx, hsl(), hsla()|
+|display|Comportement d'affichage|block, inline-block, inline, none|
+|width|Largeur||
+|height|Hauteur||
+|float|Permet de faire flotter un élément|none, left, right, initial, inherit|
+|background-color|Défini la couleur de fond|color, rgb(), rgba(), #xxx, #xxxxxx, hsl(), hsla()|
+|background-image|Défini une image de fond|url("local path or web link")|
+|position|Défini le type de positionnement|static, relative, absolute, fixed, sticky|
+|z-index|Défini l'ordre de chevauchement des éléments|auto, -1, 0, 1, 2, ...|
+|...|...|
 ### 04.C.c. Les préprocesseur CSS
 |Préprocesseur CSS|
 |-----------------|
