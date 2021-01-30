@@ -204,14 +204,14 @@
 |SASS (Syntactically Awesome Style Sheet)|
 |LESS (Leaner Style Sheets)|
 |Stylus|
-### 04.Cd Framework CSS : 
+### 04.Cd Framework CSS (il est généralement préférable d'utiliser CSS) : 
 |Popularity|Name|
 |----------|----|
 |#1|Bootstrap|
 |#2|Semantic UI|
-## 04.D. JavaScript :
+## 04.D. JavaScript (Vanilla) :
 ### 04.D.a. Dynamisation des pages
-### 04.D.b. Manipulation du DOM avec la librairie jQuery
+### 04.D.b. Manipulation du DOM 
 ### 04.D.c. Les fonctions à flèches depuis l’ES6.
 ### 04.D.d. L’asynchronisme avec les promesses (promise, resolve, reject)
 ### 04.D.e. Framework JS : 
@@ -227,6 +227,9 @@
 |#2|Sketch (Mac) |
 ## 04.F. SPA (Single Page Application) vs MPA (Multi Page Application)
 ![Prompt> commande arguments](./img/spa-and-mpa.jpg)
+## 04.G jQuery
+Technologie devenue obsolète, javascript natif est à utiliser.
+
 ## 05. Back-end technologies :  
 ![Prompt> commande arguments](./img/web-backend.png)
 ### 05.A. Server framework :
