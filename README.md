@@ -331,7 +331,7 @@ Technologie devenue obsolète, javascript natif est à utiliser.
 ![Prompt> commande arguments](./img/cloud-provider.jpeg)
 ## 06. ORM (Object-Relational Mapping)
 ## 07. What is CRUD  ?
-CRUD stand for (create, read, update, and delete, they are the four basic functions of persistent storage.
+CRUD stand for create, read, update, and delete, they are the four basic functions of persistent storage.
 
 # XIII - La mémoire : 
 ![Prompt> commande arguments](./img/memory.png)
@@ -355,10 +355,10 @@ CRUD stand for (create, read, update, and delete, they are the four basic functi
 # XIV - File management (read, write, append, create, etc.)
 ## 01. Les types de fichiers (TXT, CSV, JSON, PDF, etc.)
 
-# XV - Les algorithmes (voir : project euler)
+# XV - Les algorithmes (problems archives : https://projecteuler.net/archives)
 ## 01. Performances
 ### 01.A. Time complexity : mesure de la complexité d'un calcul en fonction de son nombre d'étapes, autrement dit son temps d'exécution.
-### 01.B. Big O notation : il s'agit d'une notation décrivant la complexité d'un temps de calcul.
+### 01.B. Big O notation : il s'agit d'une notation décrivant la complexité d'un calcul.
 ![Prompt> commande arguments](./img/time-complexity.png)
 ## 02. Les algorithmes pricipaux
 ### 02.A. Sort Algorithms (Merge Sort, Quick Sort, Bucket Sort, Heap Sort, Counting Sort)
