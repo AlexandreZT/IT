@@ -190,7 +190,7 @@
 |Pseudo-element|selector::pseudo-element {}|Sélection d'un fragment d'un élément|
 |nth-of-type|element:nth-of-type(n) {}|Sélection des éléments d'un type donné, en fonction de leur position au sein d'un groupe de frères et sœurs|
 |nth-child|element:nth-child(n) {}|Sélection des éléments basés sur leur position dans un groupe de frères et sœurs|
-### 04.C.b. Les propriétés CSS
+### 04.C.b. Les propriétés fondamentales CSS
 |Propriété CSS|Description|Valeurs|
 |-------------|-----------|-------|
 |marging|Marge vers l'extérieur||
