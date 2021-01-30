@@ -730,8 +730,9 @@ C'est un ensemble de pratiques détaillées pour la gestion des services informa
 ## 01. Game engine
 |Game engine|Language|
 |-----------|--------|
-|Unreal Engine|C++|
 |Unity|C#|
+|Unreal Engine|C++|
+|Godot|C#, C++, etc.|
 ## 02. Sprintes : Ce sont des éléments graphiques d'un jeu vidéo pouvant se déplacer sur l'écran.
 ![Prompt> commande arguments](./img/sprites.png)
 ## 03. Ray casting : Il s'agit d'une technique de calcul d'images de synthèse 3D
