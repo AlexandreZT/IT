@@ -330,6 +330,7 @@ Technologie devenue obsolète, javascript natif est à utiliser.
 ## 05. Cloud providers :
 ![Prompt> commande arguments](./img/cloud-provider.jpeg)
 ## 06. ORM (Object-Relational Mapping)
+C'est un programme informatique qui permet de générer une base de données, ex: django, entity framework, hibernate, etc.
 ## 07. What is CRUD  ?
 CRUD stand for create, read, update, and delete, they are the four basic functions of persistent storage.
 
