@@ -382,7 +382,7 @@ CRUD stand for create, read, update, and delete, they are the four basic functio
 ### 03.B. throws…throw
 
 # XVII - Patterns (les patrons)
-## 01. Designs pattern (patron de conception) :
+## 01. Design pattern (patron de conception) :
 Outils apportant des solutions aux problèmes communs de développement logiciel en rendant le code flexible, réutilisable et maintenable.
 ### Il existe 3 grand type de design pattern
 #### 01.A. Creational « factory » : création
@@ -390,8 +390,8 @@ Outils apportant des solutions aux problèmes communs de développement logiciel
 #### 01.C. Structural : structurante
 ![Prompt> commande arguments](./img/design-patterns.jpg)
 ## 02. Architectural pattern (patron d'architecture) :
-Solutions de référence pour la conception d'architecture logicielle, semble aux design patterns sa portée est plus large.
-Ces solutions permettent de décomposer un problèmes récurrent en éléments simples.
+Solutions de référence pour la conception d'architecture logicielle, semblable aux design patterns, sa portée est plus large.
+Ces solutions permettent de décomposer un problèmes d'architecture récurrent en éléments simples.
 Exemple : MVC, REST, P2P, etc.
 
 # XVIII - Documentation logicielle
