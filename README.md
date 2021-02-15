@@ -390,6 +390,9 @@ Outils apportant des solutions aux problèmes communs de développement logiciel
 #### 01.C. Structural : structurante
 ![Prompt> commande arguments](./img/design-patterns.jpg)
 ## 02. Architectural pattern (patron d'architecture) :
+Solutions de référence pour la conception d'architecture logicielle, semble aux design patterns sa portée est plus large.
+Ces solutions permettent de décomposer un problèmes récurrent en éléments simples.
+Exemple : MVC, REST, P2P, etc.
 
 # XVIII - Documentation logicielle
 ## 01. L'expression de besoin 
