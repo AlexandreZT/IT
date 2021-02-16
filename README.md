@@ -12,15 +12,15 @@
 ## 02. Les caractères d'échappement
 ![Prompt> commande arguments](./img/escape-sequence.png)
 ## 03. Les opérateurs arithmétiques :
-|Opérateur|Signification|Meaning|
-|---------|-------------|-------|
-|a+b|Addition|Addition|
-|a-b|Soustraction|Substraction|
-|a.b|Multiplication|Multiplication|
-|a^b|Puissance|Exponentiation|
-|a/b|Division|Division|
-|⌊a/b⌋|Division entière|Floor Division|
-|a%b|Modulo|Modulus|
+|Opérateur|Signification|Meaning|Python example|
+|---------|-------------|-------|-------|
+|a+b|Addition|Addition|5+2=7|
+|a-b|Soustraction|Substraction|5-2=3|
+|a.b|Multiplication|Multiplication|5&ast;2=10|
+|a^b|Puissance|Exponentiation|5&ast;&ast;2=25|
+|a/b|Division|Division|5/2=2.5|
+|⌊a/b⌋|Division entière|Floor Division|5//2=2|
+|a%b|Modulo|Modulus|5%2=1|
 
 # III - Structures conditionnelles
 ##  01. Les opérateurs relationnels (outils de comparaison)
