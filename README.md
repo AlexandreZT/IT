@@ -91,8 +91,12 @@ La récursivité est une technique d'algorithmie qui à partir d'un appel de fon
 |Snake Case|first_name|
 |Kebab case|first-name|
 |Hungarian Notation|strFirstName|
-## 04. Le portage
-Parfois le code source d'un projet peut devenir obsolète (legacy code), c'est là où le portage entre en jeu, cela conciste à réécrire un vieux composant ou même un projet entier, avec dans une version avancé du langage ou carrément dans un tout autre langage. (à ne pas confondre avec le refactoring qui améliore simplement la qualité et/ou les performances du code).
+## 04. Le portage de code (code porting)
+Parfois le code source d'un projet peut devenir obsolète (legacy code), c'est là où le portage entre en jeu, cela conciste à réécrire un vieux composant ou même un projet entier, avec dans une version avancé du langage ou carrément dans un tout autre langage. 
+## 05. Le remaniment de code (code refactoring)
+Le refactoring est une tâche récurrente dans la vie d'un développeur, cela consite simplement à améliorer la qualité et la performance du code.
+## 06. La réécriture de code (code rewrite)
+Parfois le code est tellement mal fait (variables mal nommées, peu/pas de commentaires, projet mal organisé, etc.) que la réécriture du code peut-être préférable car parfois cela pourrait prendre moins de temps que de tout corriger.
 
 # IX - Les langages interprétés vs compilés + Input/Output
 ## 01. La compilation
