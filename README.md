@@ -60,7 +60,7 @@
 
 ## L'évolution des paradigmes de programmations rendent d'avantage le code : modulaire, réutilisable et évolutif
 
-# V - Fonctions, procédures, arguments et techniques d'algorithmie
+# V - Fonctions, procédures, arguments et techniques d'algorithmies
 ## Les fonctions
 Les fonctions ont pour principe d'effectuer une action puis de retourner une valeur.
 ## Les procédures
