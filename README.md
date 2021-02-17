@@ -76,13 +76,14 @@ La récursivité est une technique d'algorithmie qui à partir d'un appel de fon
 
 # VII - Les librairies principales
 
-# VIII - Spécificité et bonnes pratiques du langage
-##	01. Point forts et faiblesses
-##	02. Les commentaires 
+# VIII - Les bonnes pratiques
+##	01. Connaitre les point forts et les points faibles du langage qu'on utilise
+##	02. Apprendre à bien commenter son code
 ### 02.A. Single Line Comment
 ### 02.B. Multi Line Comment
 ### 02.C. Documentation Comment
-## 03. Convention de nommage (classe, méthode, fonctions, constante, variable, module, package, etc.)
+## 03. Bien nommer ses variables
+## 04. Respecter les conventions de nommage (classe, méthode, fonctions, constante, variable, module, package, etc.) associé au langage
 |Convention Name|Example|
 |---------------|-------|
 |Pascal Case|FirstName|
@@ -91,11 +92,11 @@ La récursivité est une technique d'algorithmie qui à partir d'un appel de fon
 |Snake Case|first_name|
 |Kebab case|first-name|
 |Hungarian Notation|strFirstName|
-## 04. Le portage de code (code porting)
+## 05. Le portage de code (code porting)
 Parfois le code source d'un projet peut devenir obsolète (legacy code), c'est là où le portage entre en jeu, cela conciste à réécrire un vieux composant ou même un projet entier, avec dans une version avancé du langage ou carrément dans un tout autre langage. 
-## 05. Le remaniment de code (code refactoring)
+## 06. Le remaniment de code (code refactoring)
 Le refactoring est une tâche récurrente dans la vie d'un développeur, cela consite simplement à améliorer la qualité et la performance du code.
-## 06. La réécriture de code (code rewrite)
+## 07. La réécriture de code (code rewrite)
 Parfois le code est tellement mal fait (variables mal nommées, peu/pas de commentaires, projet mal organisé, etc.) que la réécriture du code peut-être préférable car parfois cela pourrait prendre moins de temps que de tout corriger.
 
 # IX - Les langages interprétés vs compilés + Input/Output
