@@ -92,7 +92,7 @@ La récursivité est une technique d'algorithmie qui à partir d'un appel de fon
 |Kebab case|first-name|
 |Hungarian Notation|strFirstName|
 ## 04. Le portage
-Parfois le code source d'un projet peut devenir obsolète (legacy code), c'est là où le portage entre en jeu, cela conciste à réécrire un vieux composant ou même un projet entier, avec dans un version avancé du langage ou dans un tout autre langage. (à ne pas confondre avec le refactoring qui améliore simplement la qualité et/ou les performances du code).
+Parfois le code source d'un projet peut devenir obsolète (legacy code), c'est là où le portage entre en jeu, cela conciste à réécrire un vieux composant ou même un projet entier, avec dans une version avancé du langage ou carrément dans un tout autre langage. (à ne pas confondre avec le refactoring qui améliore simplement la qualité et/ou les performances du code).
 
 # IX - Les langages interprétés vs compilés + Input/Output
 ## 01. La compilation
