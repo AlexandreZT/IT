@@ -61,11 +61,16 @@
 ## L'évolution des paradigmes de programmations rendent d'avantage le code : modulaire, réutilisable et évolutif
 
 # V - Fonctions, procédures, arguments et techniques d'algorithmie
-Une fonction a pour principe d'effectuer une action puis de retourner une valeur.
-Une procédure a pour principe d'effectuer une action sans retourner de valeur.
+## Les fonctions
+Les fonctions ont pour principe d'effectuer une action puis de retourner une valeur.
+## Les procédures
+Les procédures ont pour principe d'effectuer une action sans retourner de valeur.
+## Les arguments
 Les arguments sont des varibles qui peuvent être passé en paramètre des fonctions ou procédures.
-L'itération est une technique d'algorithme qui à partir d'une boucle, effectue une opération jusqu'à un point d'arrêt pré-défini.
-La récursivité est une technique d'algorithme qui à partir d'un appel de fonction vers elle-même, effectue une opération jusqu'à un point d'arrêt pré-défini.
+## Les algorithmes itératifs
+L'itération est une technique d'algorithmie qui à partir d'une boucle, effectue une opération jusqu'à un point d'arrêt pré-défini.
+## Les algorithmes récursifs
+La récursivité est une technique d'algorithmie qui à partir d'un appel de fonctions vers elle-même, effectue une opération jusqu'à un point d'arrêt pré-défini.
 
 # VI - Built-in functions
 
