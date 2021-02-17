@@ -66,7 +66,7 @@ Les fonctions ont pour principe d'effectuer une action puis de retourner une val
 ## Les procédures
 Les procédures ont pour principe d'effectuer une action sans retourner de valeur.
 ## Les arguments
-Les arguments sont des varibles qui peuvent être passé en paramètre des fonctions ou procédures.
+Les arguments sont des variables qui peuvent être passées en paramètre des fonctions ou procédures, afin de personnaliser le résultat.
 ## Les algorithmes itératifs
 L'itération est une technique d'algorithmie qui à partir d'une boucle, effectue une opération jusqu'à un point d'arrêt pré-défini.
 ## Les algorithmes récursifs
