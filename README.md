@@ -379,8 +379,22 @@ CRUD stand for create, read, update, and delete, they are the four basic functio
 ### 01.B. Big O notation : il s'agit d'une notation décrivant la complexité d'un calcul.
 ![Prompt> commande arguments](./img/time-complexity.png)
 ## 02. Les algorithmes pricipaux
-### 02.A. Sort Algorithms (Merge Sort, Quick Sort, Bucket Sort, Heap Sort, Counting Sort)
-### 02.B. Search Algorithms (Binary search, Depth/Breadth First Search)
+### 02.A. Sort Algorithms
+|Sort Algorithm|Algorithme de tri|
+|---------------|------------------|
+|Merge Sort|Tri fusion (diviser pour mieux régner)|
+|Quick Sort|Tri rapide / Tri pivot|
+|Bucket Sort|Tri par paquets|
+|Heap Sort|Tri par tas|
+|Counting Sort|Tri comptage / Tri casier|
+|...|...|
+### 02.B. Search Algorithms
+|Search Algorithm|Algorithme de recherche|
+|----------------|-----------------------|
+|Binary search|Recherche dichotomique|
+|Depth First Search (DFS)|Algorithme de parcours en profondeur|
+|Breadth First Search (BFS)|Algorithme de parcours en largeur|
+|...|...|
 ### 02.C. Hashing
 ### 02.D. Dynamic Programming
 ### 02.E. Exponentiation by squaring
@@ -603,6 +617,7 @@ Exemple : MVC, REST, P2P, etc.
 ### 03.B. JavaScript & React Native
 ### 03.C. Xamarin & C#
 ### 03.D. HTML5 & Apache Cordova
+### 04.E. Ionix & JavaScript
 
 # XXVI - Core EIMS (Enterprise Information Management Systems) Software
 ![Prompt> commande arguments](./img/CRM-SCM-ERP.jpg)
@@ -653,6 +668,9 @@ Exemple : MVC, REST, P2P, etc.
 ## 09. Chiffrer / Déchiffrer :
 ## 10. Les algorithmes de hashage :
 ![Prompt> commande arguments](./img/hash-algorithms.jpg)
+### Salt (salage)
+Certains algorithmes de hashage tel que MD5 ne sont pas du tout sécurisés, afin d'assurer plus de sécurité il existe la technique du salage, qui permet de concaténer un string généré aléatoirement au mot de passe original avant de le hasher.
+
 ## 11. Permutations and combination formulae
 ![Prompt> commande arguments](./img/permutations-combination-formulae.jpg)
 ## 12. Password cracking techniques :
