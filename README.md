@@ -389,6 +389,7 @@ CRUD stand for create, read, update, and delete, they are the four basic functio
 |Heap sort|Tri par tas|
 |Counting sort|Tri comptage / Tri casier|
 |Selection sort|Tri par sélection / Tri par extraction|
+|Bubble sort|Tri à bulles / Tri par propagation|
 |...|...|
 ### 02.B. Search Algorithms
 |Search algorithm|Algorithme de recherche|
@@ -398,6 +399,7 @@ CRUD stand for create, read, update, and delete, they are the four basic functio
 |Breadth First Search (BFS)|Algorithme de parcours en largeur|
 |...|...|
 ### 02.C. Hashing
+![Prompt> commande arguments](./img/hash-algorithms.jpg)
 ### 02.D. Dynamic Programming
 ### 02.E. Exponentiation by squaring
 ### 02.F. String Matching and Parsing (KMP Algorithm, Regular Expression)
