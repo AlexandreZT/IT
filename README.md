@@ -375,9 +375,9 @@ CRUD stand for create, read, update, and delete, they are the four basic functio
 
 # XV - Les algorithmes (problems archives : https://projecteuler.net/archives)
 ## 01. Performances
-### 01.A. Time complexity : mesure de la complexité d'un calcul en fonction de son nombre d'étapes, autrement dit son temps d'exécution.
-### 01.B. Big O notation : il s'agit d'une notation décrivant la complexité d'un calcul.
-### 01.C. Space complexity : mesure de l'espace utilisé par un algorithme.
+### 01.A. Time complexity : C'est la mesure de la complexité d'un calcul en fonction de son nombre d'étapes, autrement dit son temps d'exécution.
+### 01.B. Big O notation : C'est une notation décrivant la complexité d'un calcul.
+### 01.C. Space complexity : C'est la mesure de l'espace mémoire utilisé par un algorithme.
 ![Prompt> commande arguments](./img/time-complexity.png)
 ## 02. Les algorithmes pricipaux
 ### 02.A. Sort Algorithms
