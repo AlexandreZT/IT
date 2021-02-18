@@ -377,19 +377,21 @@ CRUD stand for create, read, update, and delete, they are the four basic functio
 ## 01. Performances
 ### 01.A. Time complexity : mesure de la complexité d'un calcul en fonction de son nombre d'étapes, autrement dit son temps d'exécution.
 ### 01.B. Big O notation : il s'agit d'une notation décrivant la complexité d'un calcul.
+### 01.C. Space complexity : mesure de l'espace utilisé par un algorithme.
 ![Prompt> commande arguments](./img/time-complexity.png)
 ## 02. Les algorithmes pricipaux
 ### 02.A. Sort Algorithms
-|Sort Algorithm|Algorithme de tri|
+|Sort algorithm|Algorithme de tri|
 |---------------|------------------|
-|Merge Sort|Tri fusion (diviser pour mieux régner)|
-|Quick Sort|Tri rapide / Tri pivot|
-|Bucket Sort|Tri par paquets|
-|Heap Sort|Tri par tas|
-|Counting Sort|Tri comptage / Tri casier|
+|Merge sort|Tri fusion (diviser pour mieux régner)|
+|Quick sort|Tri rapide / Tri pivot|
+|Bucket sort|Tri par paquets|
+|Heap sort|Tri par tas|
+|Counting sort|Tri comptage / Tri casier|
+|Selection sort|Tri par sélection / Tri par extraction|
 |...|...|
 ### 02.B. Search Algorithms
-|Search Algorithm|Algorithme de recherche|
+|Search algorithm|Algorithme de recherche|
 |----------------|-----------------------|
 |Binary search|Recherche dichotomique|
 |Depth First Search (DFS)|Algorithme de parcours en profondeur|
