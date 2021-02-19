@@ -392,7 +392,7 @@ CRUD stand for create, read, update, and delete, they are the four basic functio
 |#07|Θ(n + k)|Counting sort|Tri comptage / Tri casier|
 |#08|Θ(n + k)|Bucket sort|Tri par paquets|
 |#08|Θ(n²)|Selection sort|Tri par sélection / Tri par extraction|
-|#10|Θ(n²)|Insertion sort|Insertion sort|
+|#10|Θ(n²)|Insertion sort|Tri par insertion|
 |#11|Θ(n²)|Bubble sort|Tri à bulles / Tri par propagation|
 |#12|Θ(n²)|Cocktail sort|Tri cocktail|
 ### 02.B. Search Algorithms
