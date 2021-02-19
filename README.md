@@ -376,21 +376,25 @@ CRUD stand for create, read, update, and delete, they are the four basic functio
 # XV - Les algorithmes (problems archives : https://projecteuler.net/archives)
 ## 01. Performances
 ### 01.A. Time complexity : C'est la mesure de la complexité d'un calcul en fonction de son nombre d'étapes, autrement dit son temps d'exécution.
-### 01.B. Big O notation : C'est une notation décrivant la complexité d'un calcul.
+### 01.B. Big OΘ notation : C'est une notation décrivant la complexité d'un calcul.
 ### 01.C. Space complexity : C'est la mesure de l'espace mémoire utilisé par un algorithme.
 ![Prompt> commande arguments](./img/time-complexity.png)
 ## 02. Les algorithmes pricipaux
 ### 02.A. Sort Algorithms
-|Sort algorithm|Algorithme de tri|
-|---------------|------------------|
-|Merge sort|Tri fusion (diviser pour mieux régner)|
-|Quick sort|Tri rapide / Tri pivot|
-|Bucket sort|Tri par paquets|
-|Heap sort|Tri par tas|
-|Counting sort|Tri comptage / Tri casier|
-|Selection sort|Tri par sélection / Tri par extraction|
-|Bubble sort|Tri à bulles / Tri par propagation|
-|...|...|
+|Speed|Time Complexity|Sort algorithm|Algorithme de tri|
+|-----|---------------|--------------|-----------------|
+|#01|Θ(n)|timsort / python built-in|timsort|
+|#02|Θ(nk)|radix sort|Tri par base|
+|#03|Θ(nlog(n))|Quick sort|Tri rapide / Tri pivot|
+|#04|Θ(nlog(n))|Shell sort|
+|#05|Θ(nlog(n))|Merge sort|Tri fusion (diviser pour mieux régner)|
+|#06|Θ(nlog(n))|Heap sort|Tri par tas|
+|#07|Θ(n + k)|Counting sort|Tri comptage / Tri casier|
+|#08|Θ(N + k)|Bucket sort|Tri par paquets|
+|#08|Θ(n²)|Selection sort|Tri par sélection / Tri par extraction|
+|#10|Θ(n²)|Insertion sort|Insertion sort|
+|#11|Θ(n²)|Bubble sort|Tri à bulles / Tri par propagation|
+|#12|Θ(n²)|Cocktail sort|Tri cocktail|
 ### 02.B. Search Algorithms
 |Search algorithm|Algorithme de recherche|
 |----------------|-----------------------|
