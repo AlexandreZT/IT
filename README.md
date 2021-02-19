@@ -385,9 +385,9 @@ CRUD stand for create, read, update, and delete, they are the four basic functio
 |-----|---------------|--------------|-----------------|
 |#01|Θ(n)|Timsort (python built-in)|Timsort (python built-in)|
 |#02|Θ(nk)|radix sort|Tri par base|
-|#03|Θ(nlog(n))|Quick sort|Tri rapide / Tri pivot|
+|#03|Θ(nlog(n))|Quick sort (divide and conquer)|Tri rapide / Tri pivot (diviser pour régner)|
 |#04|Θ(nlog(n))|Shell sort|Tri de Shell|
-|#05|Θ(nlog(n))|Merge sort|Tri fusion (diviser pour mieux régner)|
+|#05|Θ(nlog(n))|Merge sort (divide and conquer)|Tri fusion (diviser pour régner)|
 |#06|Θ(nlog(n))|Heap sort|Tri par tas|
 |#07|Θ(n + k)|Counting sort|Tri comptage / Tri casier|
 |#08|Θ(n + k)|Bucket sort|Tri par paquets|
