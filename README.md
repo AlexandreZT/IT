@@ -487,13 +487,13 @@ Exemple : MVC, REST, P2P, etc.
 ## 05. Les containers
 ![Prompt> commande arguments](./img/container.png)
 ## 06. CI / CD : Continuous Integrations / Countinuous Deployment
+### 06.A. Ansible
+### 06.B. Jenkins
 ## 07. Les tests automatisé : Selenium
-## 08. Logiciels de virtualisation : VirtualBox, VMWare
-## 09. Autres outils devops :
-### 09.A. Ansible
-### 09.B. Jenkins
-### 09.C. Vagrant : environnements de développement virtuel
-### 09.D.Splunk
+## 08. Logiciels de virtualisation 
+### 08.A. VirtualBox
+### 08.B. VMWare
+### 08.C. Vagrant : environnements de développement virtuel
 
 # XXIV. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
@@ -612,6 +612,7 @@ Exemple : MVC, REST, P2P, etc.
 ## 13. Hadoop
 ## 14. Apache Spark
 ## 15. Tools : Tableau, PowerBI, Qlickview, Excel, etc.
+## 16. Spunk
 
 # XXV - Mobile development
 ## 01. Android
@@ -625,7 +626,8 @@ Exemple : MVC, REST, P2P, etc.
 ### 03.B. JavaScript & React Native
 ### 03.C. Xamarin & C#
 ### 03.D. HTML5 & Apache Cordova
-### 04.E. Ionix & JavaScript
+### 03.E. Ionix & JavaScript
+## 04. PWA (Progressive Web App)
 
 # XXVI - Core EIMS (Enterprise Information Management Systems) Software
 ![Prompt> commande arguments](./img/CRM-SCM-ERP.jpg)
@@ -658,7 +660,7 @@ Exemple : MVC, REST, P2P, etc.
 #### 05.E.c. Licence Apache : Licence de logiciel libre et open source. Elle est écrite par l'Apache Software Foundation. 
 #### 05.E.d. Licence BSD (Berkeley Software Distribution License) : Elle permet de réutiliser tout ou une partie du logiciel sans restriction, qu'il soit intégré dans un logiciel libre ou propriétaire.
 
-# XXVIII - Sécurité informatique / technique de piratage
+# XXVIII - Sécurité informatique
 ## 01. Surface web vs Deep web vs Dark web
 ![Prompt> commande arguments](./img/surface-web-vs-deep-web-vs-dark-web.png)
 ### 01.A. Tails
@@ -668,34 +670,47 @@ Exemple : MVC, REST, P2P, etc.
 ## 03. Firewall (pare-feu) :
 ## 04. Windows defender :
 ## 05. Antivirus :
-## 06. Pen test :
-### 06.A. Kali linux
-### 06.B. Metasploit
-## 07. Le chiffrement (ou cryptage) vs le encrypter (ou encryption) :
-## 08. Crypter / Cryptage vs Encrypter / Déencrypter :
-## 09. Chiffrer / Déchiffrer :
-## 10. Les algorithmes de hashage :
+## 06. Proxy :
+## 07. Pen test :
+### 07.A. Kali linux
+### 07.B. Metasploit
+## 08. Le chiffrement (ou cryptage) vs le encrypter (ou encryption) :
+## 09. Crypter / Cryptage vs Encrypter / Déencrypter :
+## 10. Chiffrer / Déchiffrer :
+## 1011. Les algorithmes de hashage :
 ![Prompt> commande arguments](./img/hash-algorithms.jpg)
 ### Salt (salage)
 Certains algorithmes de hashage tel que MD5 ne sont pas du tout sécurisés, afin d'assurer plus de sécurité il existe la technique du salage, qui permet de concaténer un string généré aléatoirement au mot de passe original avant de le hasher.
 
-## 11. Permutations and combination formulae
+## 12. Permutations and combination formulae
 ![Prompt> commande arguments](./img/permutations-combination-formulae.jpg)
-## 12. Password cracking techniques :
+## 13. Password cracking techniques :
 |Nom|Définition|
 |---|----------|
-|Bruteforce attack|Cherche à cracker un mot de passe, en testant toutes les combinaisons possible.
-|Dictionary attack|Cherche à cracker un mot de passe à  partir d'un dictionnaire, souvent grâce à un répertoire de mot de passe fréquemment utilisé dans le monde, généralement conçu à partir de fuites de données. 
-|Hybrid attack|Attaque combinant l'attaque de la brute à celle de l'attaque par dictionnaire
-|Rainbow table attack|Consite à trouver un mot de passe à partir de son empreinte numérique (issue d'une fonction de hashage|
-|Phishing|Imitation d'un site internet de confiance de manière à trompé sa victime, ainsi il pensera être en lieu sûr et pourrait saisir ses identifiants qui seront transmit à l'attaquant.
-## 13. Les logiciels malveillants ou malwares : Les chevaux de Troie, les ransomwares, etc.
-## 14. Les sniffer (analyseur réseau) : Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
-## 15. Injection SQL : Résultant d'une faille de conception, l'attaque permet d'envoyer des requêtes dans un système afin de le saboter et/ou de dérober des informations.
-## 16. MITM (Man in the middle attack) ou HDM (Attaque de l'homme du milieu) : L'objectif de cette attaque est d'intercepter les communications entre deux hôtes.
-## 17. Backdoor (Porte dérobée) :
-## 18. DDoS attack (Distributed Denial-of-Service attack) : Attaque ayant pour objectif de rendre impossible l'accès à un service. Par exemple en envoyant un nombre de requêtes tel que le réseau est inondé, le rendant hors d'usage.
-## 19. Le drive-by download ou téléchargement furtif : Cette attaque infecte les ordinateurs des personnes présentant des failles de sécurités, à partir d'un virus présent sur une page d’un site internet non sécurisé.
+|Bruteforce attack|Cherche à cracker un mot de passe, en testant toutes les combinaisons possible.|
+|Dictionary attack|Cherche à cracker un mot de passe à  partir d'un dictionnaire, souvent grâce à un répertoire de mot de passe fréquemment utilisé dans le monde, généralement conçu à partir de fuites de données.|
+|Hybrid attack|Attaque combinant l'attaque de la brute à celle de l'attaque par dictionnaire|
+|Rainbow table attack|Consite à trouver un mot de passe à partir de son empreinte numérique (issue d'une fonction de hashage)|
+|Phishing|Imitation d'un site internet de confiance de manière à trompé sa victime, ainsi il pensera être en lieu sûr et pourrait saisir ses identifiants qui seront transmit à l'attaquant.|
+## 14. Les logiciels malveillants ou malwares 
+### 14.A. Les chevaux de Troie :
+### 14.B. les ransomwares :
+## 15. Les sniffer (analyseur réseau) : Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
+## 16. Injection SQL : Résultant d'une faille de conception, l'attaque permet d'envoyer des requêtes dans un système afin de le saboter et/ou de dérober des informations.
+## 17. MITM (Man in the middle attack) ou HDM (Attaque de l'homme du milieu) : L'objectif de cette attaque est d'intercepter les communications entre deux hôtes.
+## 18. Backdoor (Porte dérobée) :
+## 19. DDoS attack (Distributed Denial-of-Service attack) : Attaque ayant pour objectif de rendre impossible l'accès à un service. Par exemple en envoyant un nombre de requêtes tel que le réseau est inondé, le rendant hors d'usage.
+## 20. Le drive-by download ou téléchargement furtif : Cette attaque infecte les ordinateurs des personnes présentant des failles de sécurités, à partir d'un virus présent sur une page d’un site internet non sécurisé.
+## 21. Harponnage (spear phishing) :
+## 22. Écoute clandestine (passive/active) :
+## 23. Cryptojacking :
+## 24. Les vers :
+## 25. IP usurpation  :
+## 26. Social engiennering (ingénierie sociale) :
+## 27. Poofing hijacking :
+## 28. honeypot (pot de miel) :
+## 29. XSS (cross-site scripting) :
+## 30. Site web des références des vulnérabilités connues : https://cwe.mitre.org/ (Common Weakness Enumeration) 
 
 # XXIX - Management
 ## 01. Méthodologie
