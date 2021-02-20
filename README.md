@@ -582,7 +582,20 @@ Exemple : MVC, REST, P2P, etc.
 ### 09.C. Apprentissage : supervisé, non/semi-supervisé, par renforcement et incrémental
 ![Prompt> commande arguments](./img/reinforcement_deep-learning.png)
 ![Prompt> commande arguments](./img/supervised_unsupervised-learning.png)
-### 09.D. Algorithmes (k-moyennes / proches voisins, etc.)
+### 09.D. Algorithmes :
+|Algorithms|Algorithmes|
+|----------|-----------|
+|Linear Regression|Régression linéaire|
+|Logistic Regression|Régression logistique|
+|Decision Tree|Arbre de décision|
+|Clustering|Partitionnement de données|
+|PCA (Principal Component Analysis)| ACP (Analyse en Composantes Principales)|
+|KNN (K-Nearest Neighbors)|K plus proches voisins|
+|Random Forest|Forêt d'arbres décisionnels|
+|SVM (Support Vector Machine)|MVS (Machine à Vecteurs de Support)|
+|GBM (Gradient Boosting Machine)|Engin d'augmentation du gradient|
+|XGBoost (eXtreme Gradient Boosting)|Augmentation extrême du gradient|
+
 ## 10. Python libraries
 |Domain|Librairies|
 |------|---------|
