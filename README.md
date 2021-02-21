@@ -73,6 +73,7 @@ L'itération est une technique d'algorithmie qui à partir d'une boucle, effectu
 La récursivité est une technique d'algorithmie qui à partir d'un appel de fonctions vers elle-même, effectue une opération jusqu'à un point d'arrêt pré-défini.
 
 # VI - Built-in functions
+La fonction map : permet d'effectuer une opération sur chaque élément d'un tableau (ou une liste en python).
 
 # VII - Les librairies principales
 
@@ -408,6 +409,7 @@ CRUD stand for create, read, update, and delete, they are the four basic functio
 ### 02.E. Exponentiation by squaring
 ### 02.F. String Matching and Parsing (KMP Algorithm, Regular Expression)
 ### 02.G. Primality Testing Algorithms
+### 02.H. Hashmap
 
 # XVI - Testing
 ## 01. Pyramid : 
