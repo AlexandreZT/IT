@@ -709,23 +709,42 @@ Certains algorithmes de hashage tel que MD5 ne sont pas du tout sécurisés, afi
 |Phishing|Imitation d'un site internet de confiance de manière à trompé sa victime, ainsi il pensera être en lieu sûr et pourrait saisir ses identifiants qui seront transmit à l'attaquant.|
 ## 14. Les logiciels malveillants ou malwares 
 ### 14.A. Les chevaux de Troie :
-### 14.B. les ransomwares :
-## 15. Les sniffer (analyseur réseau) : Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
-## 16. Injection SQL : Résultant d'une faille de conception, l'attaque permet d'envoyer des requêtes dans un système afin de le saboter et/ou de dérober des informations.
-## 17. MITM (Man in the middle attack) ou HDM (Attaque de l'homme du milieu) : L'objectif de cette attaque est d'intercepter les communications entre deux hôtes.
+Dissimulé dans un programme légitime ou des logiciel cracké, celui-ci va lancer un processus malveillant à l'insu de sa victime.. 
+### 14.B. Rançongiciels (ransomwares) :
+C'est un logiciel malveillant qui bloque l’accès aux données de la victime (souvent par chiffrement) et menace de les publier ou de les supprimer à moins qu’une rançon ne soit versée.
+## 15. Les sniffer (analyseur réseau) : 
+Permet d'écouter le trafic d'un réseau afin de capturer les informations qui y circulent.
+## 16. Injection SQL : 
+Résultant d'une faille de conception, l'attaque permet d'envoyer des requêtes dans un système afin de le saboter et/ou de dérober des informations.
+## 17. MITM (Man in the middle attack) ou HDM (Attaque de l'homme du milieu) : 
+L'objectif de cette attaque est d'intercepter les communications entre deux hôtes.
 ## 18. Backdoor (Porte dérobée) :
-## 19. DDoS attack (Distributed Denial-of-Service attack) : Attaque ayant pour objectif de rendre impossible l'accès à un service. Par exemple en envoyant un nombre de requêtes tel que le réseau est inondé, le rendant hors d'usage.
-## 20. Le drive-by download ou téléchargement furtif : Cette attaque infecte les ordinateurs des personnes présentant des failles de sécurités, à partir d'un virus présent sur une page d’un site internet non sécurisé.
+## 19. DDoS attack (Distributed Denial-of-Service attack) : 
+Attaque ayant pour objectif de rendre impossible l'accès à un service. Par exemple en envoyant un nombre de requêtes tel que le réseau est inondé, le rendant hors d'usage.
+## 20. Le drive-by download ou téléchargement furtif : 
+Cette attaque infecte les ordinateurs des personnes présentant des failles de sécurités, à partir d'un virus présent sur une page d’un site internet non sécurisé.
 ## 21. Harponnage (spear phishing) :
-## 22. Écoute clandestine (passive/active) :
+## 22. Écoute clandestine :
+Interception du traffic réseaux afin d’obtenir des mots de passe, des numéros de carte bleue et toutes données sensibles possibles.
+Écoute clandestine passive – Un pirate détecte des informations en écoutant la transmission de messages sur le réseau.
+Écoute clandestine active – Un pirate s’empare activement d’informations en se faisant passer pour une unité amie et en envoyant des requêtes aux transmetteurs. On appelle cela sonder, scanner ou saboter.
 ## 23. Cryptojacking :
-## 24. Les vers :
-## 25. IP usurpation  :
+Logiciels malveillants pour corrompre les systèmes et les ressources d’un appareil et pour exploiter la crypto-monnaie en arrière-plan et gagner de l’argent.
+## 24. Les vers : 
+Ce sont des programmes autonomes qui se propagent sur les réseaux et les ordinateurs.
+Les vers se propagent généralement via les pièces jointes aux e-mails : l’ouverture de la pièce jointe active le programme du ver.
+## 25. IP spoofing (Usurpation d'adresse IP)  :
+Le pirate envoie à un hôte cible un paquet contenant l’adresse IP source d’un hôte connu et fiable au lieu de sa propre adresse IP source. Il est possible que l’hôte cible accepte le paquet et agisse en conséquence.
 ## 26. Social engiennering (ingénierie sociale) :
-## 27. Poofing hijacking :
-## 28. honeypot (pot de miel) :
+Exploitation des faiblesses psychologiques, sociales et plus largement organisationnelles des individus ou organisations pour obtenir quelque chose frauduleusement.
+L’attaquant cherche à abuser de la confiance, de l’ignorance et de la crédulité de sa cible pour obtenir ce qu’il souhaite2.
+## 27. Hijacking :
+## 28. Honeypot (pot de miel) : piège à pirate qui consiste à attirer, sur des ressources (serveur, programme, service), des adversaires déclarés ou potentiels afin de les identifier et éventuellement de les neutraliser.
 ## 29. XSS (cross-site scripting) :
-## 30. Site web des références des vulnérabilités connues : https://cwe.mitre.org/ (Common Weakness Enumeration) 
+L’attaquant injecte un JavaScript malveillant dans la base de données d’un site Web. Lorsque la victime demande une page du site Web, le site Web transmet la page à son navigateur avec le script malveillant intégré au corps HTML
+Il peut ainsi voler des informations sur les cookies, récupérer des données sensibles ou y injecter un code malveillant dans le but, par exemple, de contrôler l’ordinateur de sa victime à distance.
+## 30. Site web des références des vulnérabilités connues : 
+https://cwe.mitre.org/ (Common Weakness Enumeration) 
 
 # XXIX - Management
 ## 01. Méthodologie
