@@ -211,21 +211,21 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 ### 04.C.b. Les propriétés fondamentales CSS
 |Propriété CSS|Description|Valeurs|
 |-------------|-----------|-------|
-|marging|Marge vers l'extérieur||
-|padding|Marge vers l'intérieur||
-|border|Créer un cadre visible||
-|font-family|Définir la police d'écriture||
-|font-size|Définir la taille de la police||
-|font-style|Définir le style de police|normal, italic, oblique|
-|font-weight|Défini l'épaisseur de la policenormal, bold, lighter, bolder|
+|marging|Marge vers l'extérieur|margin-top, margin-right, margin-bottom & margin-left|
+|padding|Marge vers l'intérieur|padding-top, padding-right, padding-bottom & padding-left|
+|border|Créer un cadre visible|border-width, border-style, border-color, initial & inherit|
+|font-family|Définir la police d'écriture|family-name/generic-family, initial	& inherit|
+|font-size|Définir la taille de la police|medium, xx-small, x-small, small, large, x-large, xx-large, smaller, larger, length, initial & inherit|
+|font-style|Définir le style de police|normal, italic, oblique, initial & inherit|
+|font-weight|Défini l'épaisseur de la police|normal, bold, bolder, lighter, number, initial & inherit|
 |color|Défini la couleur d'un élément|color, rgb(), rgba(), #xxx, #xxxxxx, hsl(), hsla()|
 |display|Comportement d'affichage|block, inline-block, inline, none|
-|width|Largeur||
-|height|Hauteur||
-|float|Permet de faire flotter un élément|none, left, right, initial, inherit|
+|width|Largeur|auto, %, initial, inherit, px, cm, ...|
+|height|Hauteur|auto, %, initial, inherit, px, cm, ...|
+|float|Permet de faire flotter un élément|none, left, right, initial, inherit, flex, grid, ...|
 |background-color|Défini la couleur de fond|color, rgb(), rgba(), #xxx, #xxxxxx, hsl(), hsla()|
 |background-image|Défini une image de fond|url("local path or web link")|
-|position|Défini le type de positionnement|static, relative, absolute, fixed, sticky|
+|position|Défini le type de positionnement|static, relative, absolute, fixed, sticky, initial & inherit|
 |z-index|Défini l'ordre de chevauchement des éléments|auto, -1, 0, 1, 2, ...|
 |...|...|
 ### 04.C.c. Les préprocesseur CSS
