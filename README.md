@@ -219,10 +219,10 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 |font-style|Définir le style de police|normal, italic, oblique, initial & inherit|
 |font-weight|Défini l'épaisseur de la police|normal, bold, bolder, lighter, number, initial & inherit|
 |color|Défini la couleur d'un élément|color, rgb(), rgba(), #xxx, #xxxxxx, hsl(), hsla()|
-|display|Comportement d'affichage|block, inline-block, inline, none|
+|display|Comportement d'affichage|block, inline-block, inline, none, flex, grid, ...|
 |width|Largeur|auto, %, initial, inherit, px, cm, ...|
 |height|Hauteur|auto, %, initial, inherit, px, cm, ...|
-|float|Permet de faire flotter un élément|none, left, right, initial, inherit, flex, grid, ...|
+|float|Permet de faire flotter un élément|none, left, right, initial & inherit|
 |background-color|Défini la couleur de fond|color, rgb(), rgba(), #xxx, #xxxxxx, hsl(), hsla()|
 |background-image|Défini une image de fond|url("local path or web link")|
 |position|Défini le type de positionnement|static, relative, absolute, fixed, sticky, initial & inherit|
