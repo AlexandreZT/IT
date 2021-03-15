@@ -123,9 +123,9 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 ![Prompt> commande arguments](./img/encapsulation.png)
 ## 06. Coupling vs Cohesion
 ![Prompt> commande arguments](./img/cohesion-vs-coupling.jpg)
-## 07. Association
+## 07. Association (show multiplicity)
 ![Prompt> commande arguments](./img/association.png)
-## 08. Aggregation (uses)
+## 08. Aggregation (has)
 ### L'objet esclave est indépendant et ne sera pas supprimé si l'objet maître est supprimé.
 ![Prompt> commande arguments](./img/aggregation.png)
 ## 09. Composition (owns)
@@ -133,6 +133,10 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 ![Prompt> commande arguments](./img/composition.png)
 ## 10. Generalization and specialization
 ![Prompt> commande arguments](./img/generalization-and-specialization.png)
+## 11. Dependency (uses)
+![Prompt> commande arguments](./img/dependencyn.png)
+## 12. Realizaion / Implementation
+![Prompt> commande arguments](./img/realizaion-implementation.png)
 
 # XI - Développement web
 ## 01. La standardisation W3C, ECMAScript, RFC, etc.
