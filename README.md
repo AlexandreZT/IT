@@ -120,7 +120,7 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 ### Publique : Accessible partout. Notation '+'.
 ### Protégé : Accessible uniquement au sein de la classe elle-même et par les classes filles et parent. Notation '#'.
 ### Privé : Accessible uniquement par le groupe qui définit le membre. Notation '-'.
-### Paquet : Accessible pour les éléments qui sont dans le même paquet. Notation '~'.
+### Paquet : Accessible pour les éléments qui sont dans le même paquet. Notation '~' (tilde).
 ![Prompt> commande arguments](./img/encapsulation-visibility.png)
 ## 06. Coupling vs Cohesion
 ![Prompt> commande arguments](./img/cohesion-vs-coupling.jpg)
