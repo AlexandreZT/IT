@@ -136,7 +136,7 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 ![Prompt> commande arguments](./img/generalization-and-specialization.png)
 ## 11. Dependency (uses)
 ![Prompt> commande arguments](./img/dependency.png)
-## 12. Realizaion / Implementation
+## 12. Realization / Implementation
 ![Prompt> commande arguments](./img/realization-implementation.png)
 
 # XI - Développement web
