@@ -134,9 +134,9 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 ## 10. Generalization and specialization
 ![Prompt> commande arguments](./img/generalization-and-specialization.png)
 ## 11. Dependency (uses)
-![Prompt> commande arguments](./img/dependencyn.png)
+![Prompt> commande arguments](./img/dependency.png)
 ## 12. Realizaion / Implementation
-![Prompt> commande arguments](./img/realizaion-implementation.png)
+![Prompt> commande arguments](./img/realization-implementation.png)
 
 # XI - Développement web
 ## 01. La standardisation W3C, ECMAScript, RFC, etc.
