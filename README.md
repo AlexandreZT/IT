@@ -117,9 +117,10 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 ## 04. Abstraction 
 ![Prompt> commande arguments](./img/abstraction.png)
 ## 05. Encapsulation (public, private & protected)
-### Publique : Accessible partout.
-### Protégé : Accessible uniquement au sein de la classe elle-même et par les classes filles et parent.
-### Privé : Accessible uniquement par le groupe qui définit le membre.
+### Publique : Accessible partout. Notation '+'.
+### Protégé : Accessible uniquement au sein de la classe elle-même et par les classes filles et parent. Notation '#'.
+### Privé : Accessible uniquement par le groupe qui définit le membre. Notation '-'.
+### Package : Accessible pour les éléments qui sont dans le même package. Notation '~'.
 ![Prompt> commande arguments](./img/encapsulation.png)
 ## 06. Coupling vs Cohesion
 ![Prompt> commande arguments](./img/cohesion-vs-coupling.jpg)
