@@ -133,7 +133,7 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 ### 07.C. Composition (owns)
 L'objet esclave est supprimé si l'objet maître est supprimé. </br>
 ![Prompt> commande arguments](./img/composition.png)
-### 07.D. Inheritance (specialization or generalization)
+### 07.D. Inheritance (generalization or specialization)
 ![Prompt> commande arguments](./img/generalization-and-specialization.png)
 ### 07.E. Dependency (uses)
 ![Prompt> commande arguments](./img/dependency.png)
