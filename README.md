@@ -131,7 +131,7 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 ### L'objet esclave est indépendant et ne sera pas supprimé si l'objet maître est supprimé.
 ![Prompt> commande arguments](./img/aggregation.png)
 ### 07.C. Composition (owns)
-L'objet esclave est supprimé si l'objet maître est supprimé.
+L'objet esclave est supprimé si l'objet maître est supprimé. </br>
 ![Prompt> commande arguments](./img/composition.png)
 ### 07.D. Inheritance (specialization or generalization)
 ![Prompt> commande arguments](./img/generalization-and-specialization.png)
