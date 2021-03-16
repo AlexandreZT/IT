@@ -124,19 +124,20 @@ Parfois le code est tellement mal fait (variables mal nommées, peu/pas de comme
 ![Prompt> commande arguments](./img/encapsulation-visibility.png)
 ## 06. Coupling vs Cohesion
 ![Prompt> commande arguments](./img/cohesion-vs-coupling.jpg)
-## 07. Association (show multiplicity)
+## 07. UML relationship
+### 07.A. Association (show multiplicity)
 ![Prompt> commande arguments](./img/association.png)
-## 08. Aggregation (has)
+### 07.B. Aggregation (has)
 ### L'objet esclave est indépendant et ne sera pas supprimé si l'objet maître est supprimé.
 ![Prompt> commande arguments](./img/aggregation.png)
-## 09. Composition (owns)
-### L'objet esclave est supprimé si l'objet maître est supprimé.
+### 07.C. Composition (owns)
+L'objet esclave est supprimé si l'objet maître est supprimé.
 ![Prompt> commande arguments](./img/composition.png)
-## 10. Inheritance (specialization or generalization)
+### 07.D. Inheritance (specialization or generalization)
 ![Prompt> commande arguments](./img/generalization-and-specialization.png)
-## 11. Dependency (uses)
+### 07.E. Dependency (uses)
 ![Prompt> commande arguments](./img/dependency.png)
-## 12. Realization / Implementation
+### 07.F. Realization / Implementation
 ![Prompt> commande arguments](./img/realization-implementation.png)
 
 # XI - Développement web
