@@ -487,9 +487,12 @@ Exemple : MVC, REST, P2P, etc.
 |Redhat|
 |Arch Linux|
 |Fedora|
-
-### 03.C. Les scripts bash
+### 03.C. Shell (Command Line / Terminal) 
+![Prompt> commande arguments](./img/linux-shell.png)
+### 03.D. Bash Scripts (.sh)
 ![Prompt> commande arguments](./img/linux-bin-bash.png)
+#### 03.D.A Cron (programming tasks)
+![Prompt> commande arguments](./img/cron.png)
 ## 04. Protocole SSH (Secure SHell)
 ![Prompt> commande arguments](./img/ssh.jpg)
 ## 05. Les containers
@@ -502,6 +505,7 @@ Exemple : MVC, REST, P2P, etc.
 ### 08.A. VirtualBox
 ### 08.B. VMWare
 ### 08.C. Vagrant : environnements de développement virtuel
+## 09. Log Management / Monitoring
 
 # XXIV. Data Science
 ![Prompt> commande arguments](./img/data-science.png)
