@@ -473,8 +473,17 @@ Exemple : MVC, REST, P2P, etc.
 ![Prompt> commande arguments](./img/sequencial-concurrent-parallel.png)
 
 # XXIII - DevOps
-## 01. Git & Git CLI (#1 GitHub, #2 Gitlab, #3 Bitbucket, #4 Gitbucket)
+## 01. Git
 ![Prompt> commande arguments](./img/git.gif)
+## 01.A. Git commands syntax
+![Prompt> commande arguments](./img/git_syntax.png)
+## 01.B. Git platforms
+|Plateform|
+|---------|
+|#1 GitHub|
+|#2 Gitlab|
+|#3 Bitbucket|
+|#4 Gitbucket|
 ## 02.  Semantic versioning
 ![Prompt> commande arguments](./img/versioning.png)
 ## 03. Linux
