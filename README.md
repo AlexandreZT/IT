@@ -357,6 +357,14 @@ Technologie devenue obsolète, javascript natif est à utiliser.
 C'est un programme informatique qui permet de générer une base de données, ex: django, entity framework, hibernate, etc.
 ## 07. What is CRUD  ?
 CRUD stand for create, read, update, and delete, they are the four basic functions of persistent storage.
+## 0.8 Schema vs Model
+Un schéma logique de données  : Transmet les contraintes logiques applicables aux données stockées. Il peut définir des contraintes d'intégrité, des vues et des tables.
+python exemple :
+  schema = Schema([{
+    'name': str,
+    'age': int
+  }])
+Un schéma/model physique de données  : Expose la manière dont les données sont stockées physiquement sur un système de stockage en termes de fichiers et d'index. # UML
 
 # XIII - La mémoire : 
 ![Prompt> commande arguments](./img/memory.png)
