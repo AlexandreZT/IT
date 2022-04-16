@@ -1,4 +1,4 @@
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=hello) `#f03c15`
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=hello)
 # I - Environnement de développement
 ## 01. IDE or Text Editor ? (Visual Studio, VS Code, Vim, emacs, nano, Notepad++, outils Jetbrains, repl.it, etc.)
 ## 02. Environnement virtuel / Version Manager (virtualenv (python), rvm (ruby), nvm (node), etc.)
