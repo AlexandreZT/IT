@@ -710,17 +710,29 @@ Les couches : chaque couche est la seul à faire les jobs qu'elle fait (sauf rar
 |OSI : Application – TCP/IP Application :
 |---------------|
 |Protocoles applicatifs : http, smtp, telnet, ftp, DNS, ftp, rip, snmp... permettant la transmission d'informations (les **données**) selon les besoins.|
+
 |OSI : Présentation : |
+|---------------|
 |Pas de protocole ou opération réseaux supplémentaire, reconnaissance des format de données (texte/binaire/image/vidéo...)|
+
 |OSI : Session : |
+|---------------|
 |Pas de protocole ou opération réseaux supplémentaire, job de la session est effectué par TCP en couche transport (ou établissement de session)|
 |OSI : Transport – TCP/IP Transport :|
+
+|---------------|
 |Segmentation (découpage de l'information en morceau, **segment** TCP ou **datagramme** UDP), multiplexage applicatif (ajout de l'information du port pour communiquer quelle info envoyer à quelle application) numéro de port source et destination.<br/><ins>TCP</ins> : fiable (vérification que la transmission soit accusé de réception, sinon retransmission), connexion-déconnexion (session d'échange début et fin).<br/><ins>UDP</ins> : + rapide, optimiser pour le temps réel et requête légère.<br/><ins>QUIC</ins> : remplacera TCP/UDP, combine les deux principe (session & rapidité)|
+
 |OSI : Réseaux (network) – TCP/IP Internet :|
+|---------------|
 |La 2e couche d'adressage (IP -> Internet Protocole, v4 (32 bit) ou v6 (128 bit)) - adresse dynamique (change en fonction du réseaux, etc.). via le **routeur**, unité de données transportés: le **paquet**.|
+
 |OSI : Liaison de données (data link) – TCP/IP Accès réseau (network access):|
+|---------------|
 |Le 1er niveau d'adressage (physique) : adresse MAC (carte réseaux, adresse théoriquement immuable), protocole ETHERNET (via le **switch** (commutateur réseaux), unité de donnée transporté: **trame**), définit une suite de règle.|
 |OSI : Physique (physical) – TCP/IP Accès réseau (network access):|
+
+|---------------|
 |Câble / wifi : transport information en **bits** (encoding: 0101010101)|
 
 # XXVIII - Sécurité informatique
