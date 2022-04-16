@@ -1,4 +1,3 @@
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=hello)
 # I - Environnement de développement
 ## 01. IDE or Text Editor ? (Visual Studio, VS Code, Vim, emacs, nano, Notepad++, outils Jetbrains, repl.it, etc.)
 ## 02. Environnement virtuel / Version Manager (virtualenv (python), rvm (ruby), nvm (node), etc.)
@@ -707,8 +706,9 @@ Exemple : MVC, REST, P2P, etc.
 
 L’encapsulation : La couche inférieur contient l'information de la couche supérieur (désencapsulation : inverse)<br/>
 Les couches : chaque couche est la seul à faire les jobs qu'elle fait (sauf rare exception).<br/>
-<p>Message : information communiqué sur chacune des couches (<span style="color: red"en rouge> </span>).</p> <br/>
-
+```html
+Message : information communiqué sur chacune des couches (<span style="color: red"en rouge> </span>). <br/>
+```
 |OSI : Application – TCP/IP Application :
 |---------------|
 |Protocoles applicatifs : http, smtp, telnet, ftp, DNS, ftp, rip, snmp... permettant la transmission d'informations (les données) selon les besoins.|
