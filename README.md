@@ -706,7 +706,7 @@ Exemple : MVC, REST, P2P, etc.
 
 L’encapsulation : La couche inférieur contient l'information de la couche supérieur (désencapsulation : inverse)<br/>
 Les couches : chaque couche est la seul à faire les jobs qu'elle fait (sauf rare exception).<br/>
-Message : information communiqué sur chacune des couches (<span style="color: red"en rouge> <span/>). <br/>
+<p>Message : information communiqué sur chacune des couches (<span style="color: red"en rouge> </span>).</p> <br/>
 
 |OSI : Application – TCP/IP Application :
 |---------------|
