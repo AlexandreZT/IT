@@ -320,12 +320,10 @@ Technologie devenue obsolète, javascript natif est à utiliser.
 ![Prompt> commande arguments](./img/https.png)
 ### 05.D.g. HTTP/1 vs HTTP/2
 ![Prompt> commande arguments](./img/http1-vs-http2.jpg)
-### 05.D.h. Le modèle OSI et le modèle TCP/IP
-![Prompt> commande arguments](./img/modele-osi-vs-tcp.png)
-### 05.D.i.  Duplex (canal de communication)
+### 05.D.h.  Duplex (canal de communication)
 ![Prompt> commande arguments](./img/duplex.jpg)
-#### 05.D.i. - Les Websockets sont une spécification full-duplex du protocole HTTP.
-##### 05.D.i. • Utilisé pour le développement de messagerie instantanée.
+#### 05.D.h. - Les Websockets sont une spécification full-duplex du protocole HTTP.
+##### 05.D.h. • Utilisé pour le développement de messagerie instantanée.
 ## 06. Payload (Charge utile) : la charge symbolise les données utiles transportées par un protocole.
 
 # XII - Base de données 
@@ -701,6 +699,48 @@ Exemple : MVC, REST, P2P, etc.
 #### 05.E.b. Licence MIT : Licence de logiciel pour logiciels libres et open source, provenant de l'Institut de technologie du Massachusetts (MIT).
 #### 05.E.c. Licence Apache : Licence de logiciel libre et open source. Elle est écrite par l'Apache Software Foundation. 
 #### 05.E.d. Licence BSD (Berkeley Software Distribution License) : Elle permet de réutiliser tout ou une partie du logiciel sans restriction, qu'il soit intégré dans un logiciel libre ou propriétaire.
+
+# XXVIII - Réseaux informatique
+## 01. Le modèle OSI et le modèle TCP/IP
+![Prompt> commande arguments](./img/modele-osi-vs-tcp.png)
+
+L’encapsulation : La couche inférieur contient l'information de la couche supérieur (désencapsulation : inverse)<br/>
+Les couches : chaque couche est la seul à faire les jobs qu'elle fait (sauf rare exception).<br/>
+Message : information communiqué sur chacune des couches (<span style="color: red"en rouge> </span>). <br/>
+
+|---------------|
+OSI : Application – TCP/IP Application :
+|---------------|
+Protocoles applicatifs : http, smtp, telnet, ftp, DNS, ftp, rip, snmp... permettant la transmission d'informations (les données) selon les besoins.
+|---------------|
+OSI : Présentation : 
+|---------------|
+Pas de protocole ou opération réseaux supplémentaire, reconnaissance des format de données (texte/binaire/image/vidéo...)	
+|---------------|
+OSI : Session : 
+|---------------|
+Pas de protocole ou opération réseaux supplémentaire, job de la session est effectué par TCP en couche transport (ou établissement de session)
+|---------------|
+OSI : Transport – TCP/IP Transport :
+|---------------|
+Segmentation (découpage de l'information en morceau, segment TCP ou datagramme UDP), multiplexage applicatif (ajout de l'information du port pour communiquer quelle info envoyer à quelle application) numéro de port source et destination.<br/>
+TCP : fiable (vérification que la transmission soit accusé de réception, sinon retransmission), connexion-déconnexion (session d'échange début et fin).<br/>
+UDP : + rapide, optimiser pour le temps réel et requête légère.<br/>
+QUIC : remplacera TCP/UDP, combine les deux principe (session & rapidité)<br/>
+|---------------|
+OSI : Réseaux (network) – TCP/IP Internet :
+|---------------|
+La 2e couche d'adressage (IP -> Internet Protocole, v4 (32 bit) ou v6 (128 bit)) - adresse dynamique (change en fonction du réseaux, etc.). via le routeur, unité de données transportés: le paquet.
+|---------------|
+OSI : Liaison de données (data link) – TCP/IP Accès réseau (network access):
+|---------------|
+Le 1er niveau d'adressage (physique) : adresse MAC (carte réseaux, adresse théoriquement immuable), protocole ETHERNET (via le switch (commutateur réseaux), unité de donnée transporté: trame), définit une suite de règle.
+|---------------|
+OSI : Physique (physical) – TCP/IP Accès réseau (network access):
+|---------------|
+Câble / wifi : transport information en bits (encoding: 0101010101)
+|---------------|
+
 
 # XXVIII - Sécurité informatique
 ## 01. Surface web vs Deep web vs Dark web
