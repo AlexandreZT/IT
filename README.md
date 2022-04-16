@@ -708,8 +708,8 @@ L’encapsulation : La couche inférieur contient l'information de la couche sup
 Les couches : chaque couche est la seul à faire les jobs qu'elle fait (sauf rare exception).<br/>
 Message : information communiqué sur chacune des couches (<span style="color: red"en rouge> </span>). <br/>
 
-|---------------|
 |OSI : Application – TCP/IP Application :
+|---------------|
 |Protocoles applicatifs : http, smtp, telnet, ftp, DNS, ftp, rip, snmp... permettant la transmission d'informations (les données) selon les besoins.|
 |OSI : Présentation : |
 |Pas de protocole ou opération réseaux supplémentaire, reconnaissance des format de données (texte/binaire/image/vidéo...)|
@@ -726,8 +726,6 @@ QUIC : remplacera TCP/UDP, combine les deux principe (session & rapidité)<br/>|
 |Le 1er niveau d'adressage (physique) : adresse MAC (carte réseaux, adresse théoriquement immuable), protocole ETHERNET (via le switch (commutateur réseaux), unité de donnée transporté: trame), définit une suite de règle.|
 |OSI : Physique (physical) – TCP/IP Accès réseau (network access):|
 |Câble / wifi : transport information en bits (encoding: 0101010101)|
-|---------------|
-
 
 # XXVIII - Sécurité informatique
 ## 01. Surface web vs Deep web vs Dark web
