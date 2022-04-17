@@ -725,14 +725,14 @@ Les couches : chaque couche est la seul à faire les jobs qu'elle fait (sauf rar
 
 |OSI : Réseaux (network) – TCP/IP Internet: |
 |---------------|
-|La 2e couche d'adressage (IP -> Internet Protocole, v4 (32 bit) ou v6 (128 bit)) - adresse dynamique (change en fonction du réseaux, etc.). via le **routeur**, unité de données transportés: le **paquet**.|
+|La 2e couche d'adressage (IP -> Internet Protocole, v4 (32 bit) ou v6 (128 bit)) - adresse dynamique (change en fonction du réseaux, etc.). via le **routeur**, unité de données transportés: le **paquet** (packet).|
 
 |OSI : Liaison de données (data link) – TCP/IP Accès réseau (network access): |
 |---------------|
-|Le 1er niveau d'adressage (physique) : adresse MAC (carte réseaux, adresse théoriquement immuable), protocole ETHERNET (via le **switch** (commutateur réseaux), unité de donnée transporté: **trame**), définit une suite de règle.|
+|Le 1er niveau d'adressage (physique) : adresse MAC (carte réseaux, adresse théoriquement immuable), protocole ETHERNET, via le **switch** (commutateur réseaux), unité de donnée transporté: **trame** (frame), définit une suite de règle.|
 
 |OSI : Physique (physical) – TCP/IP Accès réseau (network access): |
-|---------------|
+|-----------------------------------------------------------------------|
 |Câble / wifi : transport information en **bits** (encoding: 0101010101)|
 
 # XXVIII - Sécurité informatique
